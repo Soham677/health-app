@@ -1,0 +1,5348 @@
+Folder PATH listing for volume OS
+Volume serial number is D494-6B40
+C:.
++---.expo
+¦   +---web
+¦       +---cache
+¦           +---development
+¦           ¦   +---babel-loader
+¦           +---production
+¦               +---images
+¦                   +---favicon
+¦                       +---favicon-24272cdaeff82cc5facdaccd982a6f05b60c4504704bbf94c19a6388659880bb-contain-transparent
++---assets
++---components
+¦   +---MainScreens
+¦   +---RadioButtons
+¦   +---RegisterScreens
++---navigation
++---node_modules
+    +---.bin
+    +---@babel
+    ¦   +---code-frame
+    ¦   ¦   +---lib
+    ¦   +---compat-data
+    ¦   ¦   +---data
+    ¦   +---core
+    ¦   ¦   +---lib
+    ¦   ¦   ¦   +---config
+    ¦   ¦   ¦   ¦   +---files
+    ¦   ¦   ¦   ¦   +---helpers
+    ¦   ¦   ¦   ¦   +---validation
+    ¦   ¦   ¦   +---gensync-utils
+    ¦   ¦   ¦   +---parser
+    ¦   ¦   ¦   ¦   +---util
+    ¦   ¦   ¦   +---tools
+    ¦   ¦   ¦   +---transformation
+    ¦   ¦   ¦       +---file
+    ¦   ¦   ¦       +---util
+    ¦   ¦   +---node_modules
+    ¦   ¦   ¦   +---.bin
+    ¦   ¦   ¦   +---@babel
+    ¦   ¦   ¦   ¦   +---code-frame
+    ¦   ¦   ¦   ¦       +---lib
+    ¦   ¦   ¦   +---json5
+    ¦   ¦   ¦   ¦   +---dist
+    ¦   ¦   ¦   ¦   +---lib
+    ¦   ¦   ¦   +---semver
+    ¦   ¦   ¦       +---bin
+    ¦   ¦   +---src
+    ¦   ¦       +---config
+    ¦   ¦       ¦   +---files
+    ¦   ¦       +---transformation
+    ¦   ¦           +---util
+    ¦   +---generator
+    ¦   ¦   +---lib
+    ¦   ¦       +---generators
+    ¦   ¦       +---node
+    ¦   +---helper-annotate-as-pure
+    ¦   ¦   +---lib
+    ¦   +---helper-builder-binary-assignment-operator-visitor
+    ¦   ¦   +---lib
+    ¦   +---helper-compilation-targets
+    ¦   ¦   +---lib
+    ¦   ¦   +---node_modules
+    ¦   ¦       +---.bin
+    ¦   ¦       +---semver
+    ¦   ¦           +---bin
+    ¦   +---helper-create-class-features-plugin
+    ¦   ¦   +---lib
+    ¦   +---helper-create-regexp-features-plugin
+    ¦   ¦   +---lib
+    ¦   +---helper-define-polyfill-provider
+    ¦   ¦   +---esm
+    ¦   ¦   +---lib
+    ¦   ¦   ¦   +---browser
+    ¦   ¦   ¦   +---node
+    ¦   ¦   ¦   +---visitors
+    ¦   ¦   +---node_modules
+    ¦   ¦   ¦   +---.bin
+    ¦   ¦   ¦   +---semver
+    ¦   ¦   ¦       +---bin
+    ¦   ¦   +---src
+    ¦   ¦       +---browser
+    ¦   ¦       +---node
+    ¦   +---helper-environment-visitor
+    ¦   ¦   +---lib
+    ¦   +---helper-explode-assignable-expression
+    ¦   ¦   +---lib
+    ¦   +---helper-function-name
+    ¦   ¦   +---lib
+    ¦   +---helper-get-function-arity
+    ¦   ¦   +---lib
+    ¦   +---helper-hoist-variables
+    ¦   ¦   +---lib
+    ¦   +---helper-member-expression-to-functions
+    ¦   ¦   +---lib
+    ¦   +---helper-module-imports
+    ¦   ¦   +---lib
+    ¦   +---helper-module-transforms
+    ¦   ¦   +---lib
+    ¦   +---helper-optimise-call-expression
+    ¦   ¦   +---lib
+    ¦   +---helper-plugin-utils
+    ¦   ¦   +---lib
+    ¦   +---helper-remap-async-to-generator
+    ¦   ¦   +---lib
+    ¦   +---helper-replace-supers
+    ¦   ¦   +---lib
+    ¦   +---helper-simple-access
+    ¦   ¦   +---lib
+    ¦   +---helper-skip-transparent-expression-wrappers
+    ¦   ¦   +---lib
+    ¦   +---helper-split-export-declaration
+    ¦   ¦   +---lib
+    ¦   +---helper-validator-identifier
+    ¦   ¦   +---lib
+    ¦   ¦   +---scripts
+    ¦   +---helper-validator-option
+    ¦   ¦   +---lib
+    ¦   +---helper-wrap-function
+    ¦   ¦   +---lib
+    ¦   +---helpers
+    ¦   ¦   +---lib
+    ¦   ¦   ¦   +---helpers
+    ¦   ¦   +---scripts
+    ¦   +---highlight
+    ¦   ¦   +---lib
+    ¦   ¦   +---node_modules
+    ¦   ¦       +---chalk
+    ¦   ¦       ¦   +---types
+    ¦   ¦       +---escape-string-regexp
+    ¦   ¦       +---supports-color
+    ¦   +---parser
+    ¦   ¦   +---bin
+    ¦   ¦   +---lib
+    ¦   ¦   +---typings
+    ¦   +---plugin-bugfix-safari-id-destructuring-collision-in-function-expression
+    ¦   ¦   +---lib
+    ¦   +---plugin-bugfix-v8-spread-parameters-in-optional-chaining
+    ¦   ¦   +---lib
+    ¦   +---plugin-proposal-async-generator-functions
+    ¦   ¦   +---lib
+    ¦   +---plugin-proposal-class-properties
+    ¦   ¦   +---lib
+    ¦   +---plugin-proposal-class-static-block
+    ¦   ¦   +---lib
+    ¦   +---plugin-proposal-decorators
+    ¦   ¦   +---lib
+    ¦   +---plugin-proposal-dynamic-import
+    ¦   ¦   +---lib
+    ¦   +---plugin-proposal-export-default-from
+    ¦   ¦   +---lib
+    ¦   +---plugin-proposal-export-namespace-from
+    ¦   ¦   +---lib
+    ¦   +---plugin-proposal-json-strings
+    ¦   ¦   +---lib
+    ¦   +---plugin-proposal-logical-assignment-operators
+    ¦   ¦   +---lib
+    ¦   +---plugin-proposal-nullish-coalescing-operator
+    ¦   ¦   +---lib
+    ¦   +---plugin-proposal-numeric-separator
+    ¦   ¦   +---lib
+    ¦   +---plugin-proposal-object-rest-spread
+    ¦   ¦   +---lib
+    ¦   +---plugin-proposal-optional-catch-binding
+    ¦   ¦   +---lib
+    ¦   +---plugin-proposal-optional-chaining
+    ¦   ¦   +---lib
+    ¦   +---plugin-proposal-private-methods
+    ¦   ¦   +---lib
+    ¦   +---plugin-proposal-private-property-in-object
+    ¦   ¦   +---lib
+    ¦   +---plugin-proposal-unicode-property-regex
+    ¦   ¦   +---lib
+    ¦   +---plugin-syntax-async-generators
+    ¦   ¦   +---lib
+    ¦   +---plugin-syntax-class-properties
+    ¦   ¦   +---lib
+    ¦   +---plugin-syntax-class-static-block
+    ¦   ¦   +---lib
+    ¦   +---plugin-syntax-decorators
+    ¦   ¦   +---lib
+    ¦   +---plugin-syntax-dynamic-import
+    ¦   ¦   +---lib
+    ¦   +---plugin-syntax-export-default-from
+    ¦   ¦   +---lib
+    ¦   +---plugin-syntax-export-namespace-from
+    ¦   ¦   +---lib
+    ¦   +---plugin-syntax-flow
+    ¦   ¦   +---lib
+    ¦   +---plugin-syntax-json-strings
+    ¦   ¦   +---lib
+    ¦   +---plugin-syntax-jsx
+    ¦   ¦   +---lib
+    ¦   +---plugin-syntax-logical-assignment-operators
+    ¦   ¦   +---lib
+    ¦   +---plugin-syntax-nullish-coalescing-operator
+    ¦   ¦   +---lib
+    ¦   +---plugin-syntax-numeric-separator
+    ¦   ¦   +---lib
+    ¦   +---plugin-syntax-object-rest-spread
+    ¦   ¦   +---lib
+    ¦   +---plugin-syntax-optional-catch-binding
+    ¦   ¦   +---lib
+    ¦   +---plugin-syntax-optional-chaining
+    ¦   ¦   +---lib
+    ¦   +---plugin-syntax-private-property-in-object
+    ¦   ¦   +---lib
+    ¦   +---plugin-syntax-top-level-await
+    ¦   ¦   +---lib
+    ¦   +---plugin-syntax-typescript
+    ¦   ¦   +---lib
+    ¦   ¦   +---test
+    ¦   ¦       +---fixtures
+    ¦   ¦           +---disallow-jsx-ambiguity
+    ¦   ¦               +---type-assertion
+    ¦   ¦               +---type-parameter
+    ¦   ¦               +---type-parameter-unambiguous
+    ¦   +---plugin-transform-arrow-functions
+    ¦   ¦   +---lib
+    ¦   +---plugin-transform-async-to-generator
+    ¦   ¦   +---lib
+    ¦   +---plugin-transform-block-scoped-functions
+    ¦   ¦   +---lib
+    ¦   +---plugin-transform-block-scoping
+    ¦   ¦   +---lib
+    ¦   +---plugin-transform-classes
+    ¦   ¦   +---lib
+    ¦   +---plugin-transform-computed-properties
+    ¦   ¦   +---lib
+    ¦   +---plugin-transform-destructuring
+    ¦   ¦   +---lib
+    ¦   +---plugin-transform-dotall-regex
+    ¦   ¦   +---lib
+    ¦   +---plugin-transform-duplicate-keys
+    ¦   ¦   +---lib
+    ¦   +---plugin-transform-exponentiation-operator
+    ¦   ¦   +---lib
+    ¦   +---plugin-transform-flow-strip-types
+    ¦   ¦   +---lib
+    ¦   +---plugin-transform-for-of
+    ¦   ¦   +---lib
+    ¦   +---plugin-transform-function-name
+    ¦   ¦   +---lib
+    ¦   +---plugin-transform-literals
+    ¦   ¦   +---lib
+    ¦   +---plugin-transform-member-expression-literals
+    ¦   ¦   +---lib
+    ¦   +---plugin-transform-modules-amd
+    ¦   ¦   +---lib
+    ¦   +---plugin-transform-modules-commonjs
+    ¦   ¦   +---lib
+    ¦   +---plugin-transform-modules-systemjs
+    ¦   ¦   +---lib
+    ¦   +---plugin-transform-modules-umd
+    ¦   ¦   +---lib
+    ¦   +---plugin-transform-named-capturing-groups-regex
+    ¦   ¦   +---lib
+    ¦   +---plugin-transform-new-target
+    ¦   ¦   +---lib
+    ¦   +---plugin-transform-object-assign
+    ¦   ¦   +---lib
+    ¦   +---plugin-transform-object-super
+    ¦   ¦   +---lib
+    ¦   +---plugin-transform-parameters
+    ¦   ¦   +---lib
+    ¦   +---plugin-transform-property-literals
+    ¦   ¦   +---lib
+    ¦   +---plugin-transform-react-display-name
+    ¦   ¦   +---lib
+    ¦   +---plugin-transform-react-jsx
+    ¦   ¦   +---lib
+    ¦   +---plugin-transform-react-jsx-self
+    ¦   ¦   +---lib
+    ¦   +---plugin-transform-react-jsx-source
+    ¦   ¦   +---lib
+    ¦   +---plugin-transform-regenerator
+    ¦   ¦   +---lib
+    ¦   +---plugin-transform-reserved-words
+    ¦   ¦   +---lib
+    ¦   +---plugin-transform-runtime
+    ¦   ¦   +---lib
+    ¦   ¦   ¦   +---get-runtime-path
+    ¦   ¦   +---node_modules
+    ¦   ¦   ¦   +---.bin
+    ¦   ¦   ¦   +---semver
+    ¦   ¦   ¦       +---bin
+    ¦   ¦   +---src
+    ¦   ¦       +---get-runtime-path
+    ¦   +---plugin-transform-shorthand-properties
+    ¦   ¦   +---lib
+    ¦   +---plugin-transform-spread
+    ¦   ¦   +---lib
+    ¦   +---plugin-transform-sticky-regex
+    ¦   ¦   +---lib
+    ¦   +---plugin-transform-template-literals
+    ¦   ¦   +---lib
+    ¦   +---plugin-transform-typeof-symbol
+    ¦   ¦   +---lib
+    ¦   +---plugin-transform-typescript
+    ¦   ¦   +---lib
+    ¦   +---plugin-transform-unicode-escapes
+    ¦   ¦   +---lib
+    ¦   +---plugin-transform-unicode-regex
+    ¦   ¦   +---lib
+    ¦   +---preset-env
+    ¦   ¦   +---data
+    ¦   ¦   +---lib
+    ¦   ¦   ¦   +---polyfills
+    ¦   ¦   +---node_modules
+    ¦   ¦       +---.bin
+    ¦   ¦       +---semver
+    ¦   ¦           +---bin
+    ¦   +---preset-flow
+    ¦   ¦   +---lib
+    ¦   +---preset-modules
+    ¦   ¦   +---lib
+    ¦   ¦   ¦   +---plugins
+    ¦   ¦   ¦       +---transform-async-arrows-in-class
+    ¦   ¦   ¦       +---transform-edge-default-parameters
+    ¦   ¦   ¦       +---transform-edge-function-name
+    ¦   ¦   ¦       +---transform-jsx-spread
+    ¦   ¦   ¦       +---transform-safari-block-shadowing
+    ¦   ¦   ¦       +---transform-safari-for-shadowing
+    ¦   ¦   ¦       +---transform-tagged-template-caching
+    ¦   ¦   +---src
+    ¦   ¦       +---plugins
+    ¦   ¦           +---transform-async-arrows-in-class
+    ¦   ¦           +---transform-edge-default-parameters
+    ¦   ¦           +---transform-edge-function-name
+    ¦   ¦           +---transform-jsx-spread
+    ¦   ¦           +---transform-safari-block-shadowing
+    ¦   ¦           +---transform-safari-for-shadowing
+    ¦   ¦           +---transform-tagged-template-caching
+    ¦   +---preset-typescript
+    ¦   ¦   +---lib
+    ¦   +---register
+    ¦   ¦   +---lib
+    ¦   ¦       +---worker
+    ¦   +---runtime
+    ¦   ¦   +---helpers
+    ¦   ¦   ¦   +---esm
+    ¦   ¦   +---regenerator
+    ¦   +---template
+    ¦   ¦   +---lib
+    ¦   ¦   +---node_modules
+    ¦   ¦       +---@babel
+    ¦   ¦           +---code-frame
+    ¦   ¦               +---lib
+    ¦   +---traverse
+    ¦   ¦   +---lib
+    ¦   ¦   ¦   +---path
+    ¦   ¦   ¦   ¦   +---generated
+    ¦   ¦   ¦   ¦   +---inference
+    ¦   ¦   ¦   ¦   +---lib
+    ¦   ¦   ¦   +---scope
+    ¦   ¦   ¦       +---lib
+    ¦   ¦   +---node_modules
+    ¦   ¦   ¦   +---@babel
+    ¦   ¦   ¦       +---code-frame
+    ¦   ¦   ¦           +---lib
+    ¦   ¦   +---scripts
+    ¦   ¦       +---generators
+    ¦   +---types
+    ¦       +---lib
+    ¦       ¦   +---asserts
+    ¦       ¦   ¦   +---generated
+    ¦       ¦   +---ast-types
+    ¦       ¦   ¦   +---generated
+    ¦       ¦   +---builders
+    ¦       ¦   ¦   +---flow
+    ¦       ¦   ¦   +---generated
+    ¦       ¦   ¦   +---react
+    ¦       ¦   ¦   +---typescript
+    ¦       ¦   +---clone
+    ¦       ¦   +---comments
+    ¦       ¦   +---constants
+    ¦       ¦   ¦   +---generated
+    ¦       ¦   +---converters
+    ¦       ¦   +---definitions
+    ¦       ¦   +---modifications
+    ¦       ¦   ¦   +---flow
+    ¦       ¦   ¦   +---typescript
+    ¦       ¦   +---retrievers
+    ¦       ¦   +---traverse
+    ¦       ¦   +---utils
+    ¦       ¦   ¦   +---react
+    ¦       ¦   +---validators
+    ¦       ¦       +---generated
+    ¦       ¦       +---react
+    ¦       +---scripts
+    ¦           +---generators
+    ¦           +---utils
+    +---@blakeembrey
+    ¦   +---deque
+    ¦       +---dist
+    +---@cnakazawa
+    ¦   +---watch
+    ¦       +---scripts
+    +---@egjs
+    ¦   +---hammerjs
+    ¦       +---dist
+    ¦       +---src
+    ¦       ¦   +---input
+    ¦       ¦   +---inputjs
+    ¦       ¦   +---recognizerjs
+    ¦       ¦   +---recognizers
+    ¦       ¦   +---touchactionjs
+    ¦       ¦   +---utils
+    ¦       +---tests
+    ¦           +---manual
+    ¦           ¦   +---assets
+    ¦           +---unit
+    ¦               +---assets
+    ¦               +---gestures
+    +---@emotion
+    ¦   +---is-prop-valid
+    ¦   ¦   +---dist
+    ¦   ¦   +---src
+    ¦   +---memoize
+    ¦       +---dist
+    ¦       +---src
+    +---@expo
+    ¦   +---config
+    ¦   ¦   +---build
+    ¦   ¦   ¦   +---paths
+    ¦   ¦   ¦   +---plugins
+    ¦   ¦   +---paths
+    ¦   +---config-plugins
+    ¦   ¦   +---build
+    ¦   ¦   ¦   +---android
+    ¦   ¦   ¦   +---ios
+    ¦   ¦   ¦   ¦   +---utils
+    ¦   ¦   ¦   +---plugins
+    ¦   ¦   ¦   +---utils
+    ¦   ¦   +---node_modules
+    ¦   ¦       +---.bin
+    ¦   ¦       +---semver
+    ¦   ¦           +---bin
+    ¦   ¦           +---classes
+    ¦   ¦           +---functions
+    ¦   ¦           +---internal
+    ¦   ¦           +---ranges
+    ¦   +---config-types
+    ¦   ¦   +---build
+    ¦   +---configure-splash-screen
+    ¦   ¦   +---build
+    ¦   ¦   ¦   +---android
+    ¦   ¦   ¦   +---ios
+    ¦   ¦   ¦   +---utils
+    ¦   ¦   ¦   +---validators
+    ¦   ¦   ¦   +---xcode
+    ¦   ¦   ¦   +---xml-manipulation
+    ¦   ¦   +---node_modules
+    ¦   ¦       +---commander
+    ¦   ¦           +---typings
+    ¦   +---image-utils
+    ¦   ¦   +---build
+    ¦   ¦   +---node_modules
+    ¦   ¦       +---node-fetch
+    ¦   ¦           +---lib
+    ¦   +---json-file
+    ¦   ¦   +---build
+    ¦   +---metro-config
+    ¦   ¦   +---build
+    ¦   +---plist
+    ¦   ¦   +---build
+    ¦   +---prebuild-config
+    ¦   ¦   +---build
+    ¦   ¦   ¦   +---plugins
+    ¦   ¦   ¦       +---icons
+    ¦   ¦   ¦       +---unversioned
+    ¦   ¦   ¦           +---expo-ads-admob
+    ¦   ¦   ¦           +---expo-branch
+    ¦   ¦   ¦           +---expo-facebook
+    ¦   ¦   ¦           +---expo-navigation-bar
+    ¦   ¦   ¦           +---expo-notifications
+    ¦   ¦   ¦           +---expo-splash-screen
+    ¦   ¦   ¦           +---expo-system-ui
+    ¦   ¦   +---node_modules
+    ¦   ¦       +---.bin
+    ¦   ¦       +---@expo
+    ¦   ¦       ¦   +---config
+    ¦   ¦       ¦   ¦   +---build
+    ¦   ¦       ¦   ¦   ¦   +---paths
+    ¦   ¦       ¦   ¦   ¦   +---plugins
+    ¦   ¦       ¦   ¦   +---paths
+    ¦   ¦       ¦   +---config-plugins
+    ¦   ¦       ¦   ¦   +---build
+    ¦   ¦       ¦   ¦   ¦   +---android
+    ¦   ¦       ¦   ¦   ¦   +---ios
+    ¦   ¦       ¦   ¦   ¦   ¦   +---utils
+    ¦   ¦       ¦   ¦   ¦   +---plugins
+    ¦   ¦       ¦   ¦   ¦   +---utils
+    ¦   ¦       ¦   ¦   +---node_modules
+    ¦   ¦       ¦   ¦       +---.bin
+    ¦   ¦       ¦   ¦       +---semver
+    ¦   ¦       ¦   ¦           +---bin
+    ¦   ¦       ¦   ¦           +---classes
+    ¦   ¦       ¦   ¦           +---functions
+    ¦   ¦       ¦   ¦           +---internal
+    ¦   ¦       ¦   ¦           +---ranges
+    ¦   ¦       ¦   +---config-types
+    ¦   ¦       ¦   ¦   +---build
+    ¦   ¦       ¦   +---json-file
+    ¦   ¦       ¦   ¦   +---build
+    ¦   ¦       ¦   +---plist
+    ¦   ¦       ¦       +---build
+    ¦   ¦       +---commander
+    ¦   ¦       ¦   +---typings
+    ¦   ¦       +---expo-modules-autolinking
+    ¦   ¦       ¦   +---bin
+    ¦   ¦       ¦   +---build
+    ¦   ¦       ¦   ¦   +---platforms
+    ¦   ¦       ¦   +---e2e
+    ¦   ¦       ¦   +---node_modules
+    ¦   ¦       ¦   ¦   +---fs-extra
+    ¦   ¦       ¦   ¦       +---lib
+    ¦   ¦       ¦   ¦           +---copy
+    ¦   ¦       ¦   ¦           +---copy-sync
+    ¦   ¦       ¦   ¦           +---empty
+    ¦   ¦       ¦   ¦           +---ensure
+    ¦   ¦       ¦   ¦           +---fs
+    ¦   ¦       ¦   ¦           +---json
+    ¦   ¦       ¦   ¦           +---mkdirs
+    ¦   ¦       ¦   ¦           +---move
+    ¦   ¦       ¦   ¦           +---move-sync
+    ¦   ¦       ¦   ¦           +---output
+    ¦   ¦       ¦   ¦           +---path-exists
+    ¦   ¦       ¦   ¦           +---remove
+    ¦   ¦       ¦   ¦           +---util
+    ¦   ¦       ¦   +---scripts
+    ¦   ¦       ¦   ¦   +---android
+    ¦   ¦       ¦   ¦   +---ios
+    ¦   ¦       ¦   ¦       +---cocoapods
+    ¦   ¦       ¦   +---src
+    ¦   ¦       ¦       +---platforms
+    ¦   ¦       +---universalify
+    ¦   +---sdk-runtime-versions
+    ¦   ¦   +---build
+    ¦   ¦       +---__tests__
+    ¦   +---spawn-async
+    ¦   ¦   +---build
+    ¦   ¦       +---__tests__
+    ¦   +---vector-icons
+    ¦       +---build
+    ¦           +---vendor
+    ¦               +---react-native-vector-icons
+    ¦                   +---bin
+    ¦                   +---Fonts
+    ¦                   +---glyphmaps
+    ¦                   +---lib
+    ¦                   +---templates
+    +---@firebase
+    ¦   +---analytics
+    ¦   ¦   +---dist
+    ¦   ¦       +---src
+    ¦   ¦       +---testing
+    ¦   +---analytics-types
+    ¦   +---app
+    ¦   ¦   +---dist
+    ¦   ¦       +---packages
+    ¦   ¦           +---app
+    ¦   ¦               +---src
+    ¦   ¦               ¦   +---lite
+    ¦   ¦               +---test
+    ¦   +---app-types
+    ¦   +---auth
+    ¦   ¦   +---dist
+    ¦   +---auth-interop-types
+    ¦   +---auth-types
+    ¦   +---component
+    ¦   ¦   +---dist
+    ¦   ¦       +---src
+    ¦   ¦       +---test
+    ¦   +---database
+    ¦   ¦   +---dist
+    ¦   ¦       +---src
+    ¦   ¦       ¦   +---api
+    ¦   ¦       ¦   +---core
+    ¦   ¦       ¦   ¦   +---operation
+    ¦   ¦       ¦   ¦   +---snap
+    ¦   ¦       ¦   ¦   ¦   +---indexes
+    ¦   ¦       ¦   ¦   +---stats
+    ¦   ¦       ¦   ¦   +---storage
+    ¦   ¦       ¦   ¦   +---util
+    ¦   ¦       ¦   ¦   ¦   +---libs
+    ¦   ¦       ¦   ¦   +---view
+    ¦   ¦       ¦   ¦       +---filter
+    ¦   ¦       ¦   +---realtime
+    ¦   ¦       ¦       +---polling
+    ¦   ¦       +---test
+    ¦   ¦           +---browser
+    ¦   ¦           +---helpers
+    ¦   +---database-types
+    ¦   +---firestore
+    ¦   ¦   +---dist
+    ¦   ¦       +---lib
+    ¦   ¦       ¦   +---scripts
+    ¦   ¦       ¦   +---src
+    ¦   ¦       ¦   ¦   +---api
+    ¦   ¦       ¦   ¦   +---auth
+    ¦   ¦       ¦   ¦   +---core
+    ¦   ¦       ¦   ¦   +---local
+    ¦   ¦       ¦   ¦   +---model
+    ¦   ¦       ¦   ¦   +---platform
+    ¦   ¦       ¦   ¦   ¦   +---config
+    ¦   ¦       ¦   ¦   +---platform_browser
+    ¦   ¦       ¦   ¦   +---platform_node
+    ¦   ¦       ¦   ¦   +---remote
+    ¦   ¦       ¦   ¦   +---util
+    ¦   ¦       ¦   +---test
+    ¦   ¦       ¦       +---integration
+    ¦   ¦       ¦       ¦   +---api
+    ¦   ¦       ¦       ¦   +---api_internal
+    ¦   ¦       ¦       ¦   +---browser
+    ¦   ¦       ¦       ¦   +---remote
+    ¦   ¦       ¦       ¦   +---util
+    ¦   ¦       ¦       +---unit
+    ¦   ¦       ¦       ¦   +---api
+    ¦   ¦       ¦       ¦   +---core
+    ¦   ¦       ¦       ¦   +---local
+    ¦   ¦       ¦       ¦   +---model
+    ¦   ¦       ¦       ¦   +---platform
+    ¦   ¦       ¦       ¦   +---remote
+    ¦   ¦       ¦       ¦   ¦   +---node
+    ¦   ¦       ¦       ¦   +---specs
+    ¦   ¦       ¦       ¦   +---util
+    ¦   ¦       ¦       +---util
+    ¦   ¦       +---scripts
+    ¦   ¦       +---src
+    ¦   ¦       ¦   +---api
+    ¦   ¦       ¦   +---auth
+    ¦   ¦       ¦   +---core
+    ¦   ¦       ¦   +---local
+    ¦   ¦       ¦   +---model
+    ¦   ¦       ¦   +---platform
+    ¦   ¦       ¦   ¦   +---config
+    ¦   ¦       ¦   +---platform_browser
+    ¦   ¦       ¦   +---platform_node
+    ¦   ¦       ¦   +---protos
+    ¦   ¦       ¦   ¦   +---google
+    ¦   ¦       ¦   ¦       +---api
+    ¦   ¦       ¦   ¦       +---firestore
+    ¦   ¦       ¦   ¦       ¦   +---v1
+    ¦   ¦       ¦   ¦       +---protobuf
+    ¦   ¦       ¦   ¦       +---rpc
+    ¦   ¦       ¦   ¦       +---type
+    ¦   ¦       ¦   +---remote
+    ¦   ¦       ¦   +---util
+    ¦   ¦       +---test
+    ¦   ¦           +---integration
+    ¦   ¦           ¦   +---api
+    ¦   ¦           ¦   +---api_internal
+    ¦   ¦           ¦   +---browser
+    ¦   ¦           ¦   +---remote
+    ¦   ¦           ¦   +---util
+    ¦   ¦           +---unit
+    ¦   ¦           ¦   +---api
+    ¦   ¦           ¦   +---core
+    ¦   ¦           ¦   +---local
+    ¦   ¦           ¦   +---model
+    ¦   ¦           ¦   +---platform
+    ¦   ¦           ¦   +---remote
+    ¦   ¦           ¦   ¦   +---node
+    ¦   ¦           ¦   +---specs
+    ¦   ¦           ¦   +---util
+    ¦   ¦           +---util
+    ¦   +---firestore-types
+    ¦   +---functions
+    ¦   ¦   +---dist
+    ¦   ¦       +---src
+    ¦   ¦       ¦   +---api
+    ¦   ¦       +---test
+    ¦   ¦           +---browser
+    ¦   +---functions-types
+    ¦   +---installations
+    ¦   ¦   +---coverage
+    ¦   ¦   ¦   +---browser
+    ¦   ¦   ¦       +---HeadlessChrome 80.0.3987 (Linux 0.0.0)
+    ¦   ¦   ¦           +---api
+    ¦   ¦   ¦           +---functions
+    ¦   ¦   ¦           +---helpers
+    ¦   ¦   ¦           +---util
+    ¦   ¦   +---dist
+    ¦   ¦   ¦   +---src
+    ¦   ¦   ¦       +---api
+    ¦   ¦   ¦       +---functions
+    ¦   ¦   ¦       +---helpers
+    ¦   ¦   ¦       +---interfaces
+    ¦   ¦   ¦       +---testing
+    ¦   ¦   ¦       +---util
+    ¦   ¦   +---src
+    ¦   ¦   ¦   +---api
+    ¦   ¦   ¦   +---functions
+    ¦   ¦   ¦   +---helpers
+    ¦   ¦   ¦   +---interfaces
+    ¦   ¦   ¦   +---testing
+    ¦   ¦   ¦   +---util
+    ¦   ¦   +---test-app
+    ¦   +---installations-types
+    ¦   +---logger
+    ¦   ¦   +---dist
+    ¦   ¦       +---src
+    ¦   ¦       +---test
+    ¦   +---messaging
+    ¦   ¦   +---dist
+    ¦   ¦       +---controllers
+    ¦   ¦       +---core
+    ¦   ¦       +---helpers
+    ¦   ¦       +---interfaces
+    ¦   ¦       +---testing
+    ¦   ¦       ¦   +---fakes
+    ¦   ¦       +---util
+    ¦   +---messaging-types
+    ¦   +---performance
+    ¦   ¦   +---dist
+    ¦   ¦       +---src
+    ¦   ¦       ¦   +---controllers
+    ¦   ¦       ¦   +---resources
+    ¦   ¦       ¦   +---services
+    ¦   ¦       ¦   +---utils
+    ¦   ¦       +---test
+    ¦   +---performance-types
+    ¦   +---polyfill
+    ¦   ¦   +---dist
+    ¦   ¦   +---node_modules
+    ¦   ¦       +---core-js
+    ¦   ¦       ¦   +---es
+    ¦   ¦       ¦   ¦   +---array
+    ¦   ¦       ¦   ¦   ¦   +---virtual
+    ¦   ¦       ¦   ¦   +---array-buffer
+    ¦   ¦       ¦   ¦   +---data-view
+    ¦   ¦       ¦   ¦   +---date
+    ¦   ¦       ¦   ¦   +---function
+    ¦   ¦       ¦   ¦   ¦   +---virtual
+    ¦   ¦       ¦   ¦   +---instance
+    ¦   ¦       ¦   ¦   +---json
+    ¦   ¦       ¦   ¦   +---map
+    ¦   ¦       ¦   ¦   +---math
+    ¦   ¦       ¦   ¦   +---number
+    ¦   ¦       ¦   ¦   ¦   +---virtual
+    ¦   ¦       ¦   ¦   +---object
+    ¦   ¦       ¦   ¦   +---promise
+    ¦   ¦       ¦   ¦   +---reflect
+    ¦   ¦       ¦   ¦   +---regexp
+    ¦   ¦       ¦   ¦   +---set
+    ¦   ¦       ¦   ¦   +---string
+    ¦   ¦       ¦   ¦   ¦   +---virtual
+    ¦   ¦       ¦   ¦   +---symbol
+    ¦   ¦       ¦   ¦   +---typed-array
+    ¦   ¦       ¦   ¦   +---weak-map
+    ¦   ¦       ¦   ¦   +---weak-set
+    ¦   ¦       ¦   +---features
+    ¦   ¦       ¦   ¦   +---array
+    ¦   ¦       ¦   ¦   ¦   +---virtual
+    ¦   ¦       ¦   ¦   +---array-buffer
+    ¦   ¦       ¦   ¦   +---async-iterator
+    ¦   ¦       ¦   ¦   +---data-view
+    ¦   ¦       ¦   ¦   +---date
+    ¦   ¦       ¦   ¦   +---dom-collections
+    ¦   ¦       ¦   ¦   +---function
+    ¦   ¦       ¦   ¦   ¦   +---virtual
+    ¦   ¦       ¦   ¦   +---instance
+    ¦   ¦       ¦   ¦   +---iterator
+    ¦   ¦       ¦   ¦   +---json
+    ¦   ¦       ¦   ¦   +---map
+    ¦   ¦       ¦   ¦   +---math
+    ¦   ¦       ¦   ¦   +---number
+    ¦   ¦       ¦   ¦   ¦   +---virtual
+    ¦   ¦       ¦   ¦   +---object
+    ¦   ¦       ¦   ¦   +---observable
+    ¦   ¦       ¦   ¦   +---promise
+    ¦   ¦       ¦   ¦   +---reflect
+    ¦   ¦       ¦   ¦   +---regexp
+    ¦   ¦       ¦   ¦   +---set
+    ¦   ¦       ¦   ¦   +---string
+    ¦   ¦       ¦   ¦   ¦   +---virtual
+    ¦   ¦       ¦   ¦   +---symbol
+    ¦   ¦       ¦   ¦   +---typed-array
+    ¦   ¦       ¦   ¦   +---url
+    ¦   ¦       ¦   ¦   +---url-search-params
+    ¦   ¦       ¦   ¦   +---weak-map
+    ¦   ¦       ¦   ¦   +---weak-set
+    ¦   ¦       ¦   +---internals
+    ¦   ¦       ¦   +---modules
+    ¦   ¦       ¦   +---proposals
+    ¦   ¦       ¦   +---stable
+    ¦   ¦       ¦   ¦   +---array
+    ¦   ¦       ¦   ¦   ¦   +---virtual
+    ¦   ¦       ¦   ¦   +---array-buffer
+    ¦   ¦       ¦   ¦   +---data-view
+    ¦   ¦       ¦   ¦   +---date
+    ¦   ¦       ¦   ¦   +---dom-collections
+    ¦   ¦       ¦   ¦   +---function
+    ¦   ¦       ¦   ¦   ¦   +---virtual
+    ¦   ¦       ¦   ¦   +---instance
+    ¦   ¦       ¦   ¦   +---json
+    ¦   ¦       ¦   ¦   +---map
+    ¦   ¦       ¦   ¦   +---math
+    ¦   ¦       ¦   ¦   +---number
+    ¦   ¦       ¦   ¦   ¦   +---virtual
+    ¦   ¦       ¦   ¦   +---object
+    ¦   ¦       ¦   ¦   +---promise
+    ¦   ¦       ¦   ¦   +---reflect
+    ¦   ¦       ¦   ¦   +---regexp
+    ¦   ¦       ¦   ¦   +---set
+    ¦   ¦       ¦   ¦   +---string
+    ¦   ¦       ¦   ¦   ¦   +---virtual
+    ¦   ¦       ¦   ¦   +---symbol
+    ¦   ¦       ¦   ¦   +---typed-array
+    ¦   ¦       ¦   ¦   +---url
+    ¦   ¦       ¦   ¦   +---url-search-params
+    ¦   ¦       ¦   ¦   +---weak-map
+    ¦   ¦       ¦   ¦   +---weak-set
+    ¦   ¦       ¦   +---stage
+    ¦   ¦       ¦   +---web
+    ¦   ¦       +---whatwg-fetch
+    ¦   +---remote-config
+    ¦   ¦   +---dist
+    ¦   ¦       +---src
+    ¦   ¦       ¦   +---client
+    ¦   ¦       ¦   +---storage
+    ¦   ¦       +---test
+    ¦   ¦           +---client
+    ¦   ¦           +---storage
+    ¦   +---remote-config-types
+    ¦   +---storage
+    ¦   ¦   +---dist
+    ¦   ¦       +---src
+    ¦   ¦       ¦   +---implementation
+    ¦   ¦       +---test
+    ¦   +---storage-types
+    ¦   +---util
+    ¦   ¦   +---dist
+    ¦   ¦       +---src
+    ¦   ¦       +---test
+    ¦   +---webchannel-wrapper
+    ¦       +---dist
+    +---@grpc
+    ¦   +---proto-loader
+    ¦       +---build
+    ¦           +---src
+    +---@hapi
+    ¦   +---hoek
+    ¦   ¦   +---lib
+    ¦   +---topo
+    ¦       +---lib
+    +---@jest
+    ¦   +---create-cache-key-function
+    ¦   ¦   +---build
+    ¦   +---types
+    ¦       +---build
+    +---@nodelib
+    ¦   +---fs.scandir
+    ¦   ¦   +---out
+    ¦   ¦       +---adapters
+    ¦   ¦       +---providers
+    ¦   ¦       +---types
+    ¦   ¦       +---utils
+    ¦   +---fs.stat
+    ¦   ¦   +---out
+    ¦   ¦       +---adapters
+    ¦   ¦       +---providers
+    ¦   ¦       +---types
+    ¦   +---fs.walk
+    ¦       +---out
+    ¦           +---providers
+    ¦           +---readers
+    ¦           +---types
+    +---@protobufjs
+    ¦   +---aspromise
+    ¦   ¦   +---tests
+    ¦   +---base64
+    ¦   ¦   +---tests
+    ¦   +---codegen
+    ¦   ¦   +---tests
+    ¦   +---eventemitter
+    ¦   ¦   +---tests
+    ¦   +---fetch
+    ¦   ¦   +---tests
+    ¦   +---float
+    ¦   ¦   +---bench
+    ¦   ¦   +---tests
+    ¦   +---inquire
+    ¦   ¦   +---tests
+    ¦   ¦       +---data
+    ¦   +---path
+    ¦   ¦   +---tests
+    ¦   +---pool
+    ¦   ¦   +---tests
+    ¦   +---utf8
+    ¦       +---tests
+    ¦           +---data
+    +---@react-native
+    ¦   +---assets
+    ¦   +---normalize-color
+    ¦   ¦   +---__tests__
+    ¦   +---polyfills
+    +---@react-native-community
+    ¦   +---cli-debugger-ui
+    ¦   ¦   +---build
+    ¦   ¦       +---middleware
+    ¦   ¦       +---ui
+    ¦   ¦           +---assets
+    ¦   +---cli-hermes
+    ¦   ¦   +---build
+    ¦   ¦   ¦   +---profileHermes
+    ¦   ¦   +---node_modules
+    ¦   ¦       +---ansi-styles
+    ¦   ¦       +---chalk
+    ¦   ¦       ¦   +---source
+    ¦   ¦       +---color-convert
+    ¦   ¦       +---color-name
+    ¦   ¦       +---has-flag
+    ¦   ¦       +---supports-color
+    ¦   +---cli-platform-android
+    ¦   ¦   +---build
+    ¦   ¦   ¦   +---commands
+    ¦   ¦   ¦   ¦   +---logAndroid
+    ¦   ¦   ¦   ¦   +---runAndroid
+    ¦   ¦   ¦   ¦       +---__mocks__
+    ¦   ¦   ¦   +---config
+    ¦   ¦   ¦   ¦   +---__fixtures__
+    ¦   ¦   ¦   +---link
+    ¦   ¦   ¦   ¦   +---patches
+    ¦   ¦   ¦   +---utils
+    ¦   ¦   +---node_modules
+    ¦   ¦       +---ansi-styles
+    ¦   ¦       +---chalk
+    ¦   ¦       ¦   +---source
+    ¦   ¦       +---color-convert
+    ¦   ¦       +---color-name
+    ¦   ¦       +---fs-extra
+    ¦   ¦       ¦   +---lib
+    ¦   ¦       ¦       +---copy
+    ¦   ¦       ¦       +---copy-sync
+    ¦   ¦       ¦       +---empty
+    ¦   ¦       ¦       +---ensure
+    ¦   ¦       ¦       +---fs
+    ¦   ¦       ¦       +---json
+    ¦   ¦       ¦       +---mkdirs
+    ¦   ¦       ¦       +---move
+    ¦   ¦       ¦       +---move-sync
+    ¦   ¦       ¦       +---output
+    ¦   ¦       ¦       +---path-exists
+    ¦   ¦       ¦       +---remove
+    ¦   ¦       ¦       +---util
+    ¦   ¦       +---has-flag
+    ¦   ¦       +---jsonfile
+    ¦   ¦       +---supports-color
+    ¦   ¦       +---universalify
+    ¦   +---cli-platform-ios
+    ¦   ¦   +---build
+    ¦   ¦   ¦   +---commands
+    ¦   ¦   ¦   ¦   +---logIOS
+    ¦   ¦   ¦   ¦   +---runIOS
+    ¦   ¦   ¦   +---config
+    ¦   ¦   ¦   +---link
+    ¦   ¦   ¦   ¦   +---common
+    ¦   ¦   ¦   +---link-pods
+    ¦   ¦   +---node_modules
+    ¦   ¦       +---ansi-styles
+    ¦   ¦       +---chalk
+    ¦   ¦       ¦   +---source
+    ¦   ¦       +---color-convert
+    ¦   ¦       +---color-name
+    ¦   ¦       +---has-flag
+    ¦   ¦       +---supports-color
+    ¦   ¦       +---xcode
+    ¦   ¦           +---lib
+    ¦   ¦               +---parser
+    ¦   +---cli-server-api
+    ¦   ¦   +---build
+    ¦   ¦   ¦   +---websocket
+    ¦   ¦   +---node_modules
+    ¦   ¦       +---ws
+    ¦   ¦           +---lib
+    ¦   +---cli-tools
+    ¦   ¦   +---build
+    ¦   ¦   +---node_modules
+    ¦   ¦       +---ansi-styles
+    ¦   ¦       +---chalk
+    ¦   ¦       ¦   +---source
+    ¦   ¦       +---color-convert
+    ¦   ¦       +---color-name
+    ¦   ¦       +---has-flag
+    ¦   ¦       +---node-fetch
+    ¦   ¦       ¦   +---lib
+    ¦   ¦       +---supports-color
+    ¦   +---cli-types
+    ¦   ¦   +---build
+    ¦   +---datetimepicker
+    ¦   ¦   +---android
+    ¦   ¦   ¦   +---src
+    ¦   ¦   ¦       +---main
+    ¦   ¦   ¦           +---java
+    ¦   ¦   ¦           ¦   +---com
+    ¦   ¦   ¦           ¦       +---reactcommunity
+    ¦   ¦   ¦           ¦           +---rndatetimepicker
+    ¦   ¦   ¦           +---res
+    ¦   ¦   ¦               +---values
+    ¦   ¦   +---flow-typed
+    ¦   ¦   ¦   +---npm
+    ¦   ¦   +---ios
+    ¦   ¦   ¦   +---RNDateTimePicker.xcodeproj
+    ¦   ¦   +---src
+    ¦   ¦   +---windows
+    ¦   ¦       +---DateTimePickerWindows
+    ¦   +---masked-view
+    ¦       +---android
+    ¦       ¦   +---.gradle
+    ¦       ¦   ¦   +---6.3
+    ¦       ¦   ¦   ¦   +---fileChanges
+    ¦       ¦   ¦   ¦   +---fileHashes
+    ¦       ¦   ¦   +---buildOutputCleanup
+    ¦       ¦   ¦   +---checksums
+    ¦       ¦   ¦   +---vcs-1
+    ¦       ¦   +---src
+    ¦       ¦       +---main
+    ¦       ¦           +---java
+    ¦       ¦               +---org
+    ¦       ¦                   +---reactnative
+    ¦       ¦                       +---maskedview
+    ¦       +---ios
+    ¦       ¦   +---RNCMaskedView.xcodeproj
+    ¦       +---js
+    ¦       +---types
+    +---@react-native-picker
+    ¦   +---picker
+    ¦       +---android
+    ¦       ¦   +---src
+    ¦       ¦       +---main
+    ¦       ¦           +---java
+    ¦       ¦           ¦   +---com
+    ¦       ¦           ¦       +---reactnativecommunity
+    ¦       ¦           ¦           +---picker
+    ¦       ¦           +---res
+    ¦       ¦               +---drawable
+    ¦       ¦               +---layout
+    ¦       +---dist
+    ¦       ¦   +---commonjs
+    ¦       ¦   +---module
+    ¦       +---ios
+    ¦       ¦   +---RNCPicker.xcodeproj
+    ¦       +---js
+    ¦       +---macos
+    ¦       ¦   +---RNCPicker.xcodeproj
+    ¦       +---typings
+    ¦       +---windows
+    ¦           +---ReactNativePicker
+    +---@react-navigation
+    ¦   +---core
+    ¦   ¦   +---lib
+    ¦   ¦   ¦   +---commonjs
+    ¦   ¦   ¦   +---module
+    ¦   ¦   ¦   +---typescript
+    ¦   ¦   ¦       +---src
+    ¦   ¦   +---node_modules
+    ¦   ¦   ¦   +---react-is
+    ¦   ¦   ¦       +---cjs
+    ¦   ¦   ¦       +---umd
+    ¦   ¦   +---src
+    ¦   +---drawer
+    ¦   ¦   +---lib
+    ¦   ¦   ¦   +---commonjs
+    ¦   ¦   ¦   ¦   +---navigators
+    ¦   ¦   ¦   ¦   +---utils
+    ¦   ¦   ¦   ¦   +---views
+    ¦   ¦   ¦   ¦       +---assets
+    ¦   ¦   ¦   ¦       +---legacy
+    ¦   ¦   ¦   ¦       +---modern
+    ¦   ¦   ¦   +---module
+    ¦   ¦   ¦   ¦   +---navigators
+    ¦   ¦   ¦   ¦   +---utils
+    ¦   ¦   ¦   ¦   +---views
+    ¦   ¦   ¦   ¦       +---assets
+    ¦   ¦   ¦   ¦       +---legacy
+    ¦   ¦   ¦   ¦       +---modern
+    ¦   ¦   ¦   +---typescript
+    ¦   ¦   ¦       +---src
+    ¦   ¦   ¦           +---navigators
+    ¦   ¦   ¦           +---utils
+    ¦   ¦   ¦           +---views
+    ¦   ¦   ¦               +---legacy
+    ¦   ¦   ¦               +---modern
+    ¦   ¦   +---src
+    ¦   ¦       +---navigators
+    ¦   ¦       +---utils
+    ¦   ¦       +---views
+    ¦   ¦           +---assets
+    ¦   ¦           +---legacy
+    ¦   ¦           +---modern
+    ¦   +---elements
+    ¦   ¦   +---lib
+    ¦   ¦   ¦   +---commonjs
+    ¦   ¦   ¦   ¦   +---assets
+    ¦   ¦   ¦   ¦   +---Header
+    ¦   ¦   ¦   +---module
+    ¦   ¦   ¦   ¦   +---assets
+    ¦   ¦   ¦   ¦   +---Header
+    ¦   ¦   ¦   +---typescript
+    ¦   ¦   ¦       +---src
+    ¦   ¦   ¦           +---Header
+    ¦   ¦   +---src
+    ¦   ¦       +---assets
+    ¦   ¦       +---Header
+    ¦   +---native
+    ¦   ¦   +---lib
+    ¦   ¦   ¦   +---commonjs
+    ¦   ¦   ¦   ¦   +---theming
+    ¦   ¦   ¦   +---module
+    ¦   ¦   ¦   ¦   +---theming
+    ¦   ¦   ¦   +---typescript
+    ¦   ¦   ¦       +---src
+    ¦   ¦   ¦           +---theming
+    ¦   ¦   ¦           +---__mocks__
+    ¦   ¦   +---src
+    ¦   ¦       +---theming
+    ¦   ¦       +---__mocks__
+    ¦   +---routers
+    ¦   ¦   +---lib
+    ¦   ¦   ¦   +---commonjs
+    ¦   ¦   ¦   +---module
+    ¦   ¦   ¦   +---typescript
+    ¦   ¦   ¦       +---src
+    ¦   ¦   +---src
+    ¦   +---stack
+    ¦       +---lib
+    ¦       ¦   +---commonjs
+    ¦       ¦   ¦   +---navigators
+    ¦       ¦   ¦   +---TransitionConfigs
+    ¦       ¦   ¦   +---utils
+    ¦       ¦   ¦   +---views
+    ¦       ¦   ¦       +---assets
+    ¦       ¦   ¦       +---Header
+    ¦       ¦   ¦       +---Stack
+    ¦       ¦   +---module
+    ¦       ¦   ¦   +---navigators
+    ¦       ¦   ¦   +---TransitionConfigs
+    ¦       ¦   ¦   +---utils
+    ¦       ¦   ¦   +---views
+    ¦       ¦   ¦       +---assets
+    ¦       ¦   ¦       +---Header
+    ¦       ¦   ¦       +---Stack
+    ¦       ¦   +---typescript
+    ¦       ¦       +---src
+    ¦       ¦           +---navigators
+    ¦       ¦           +---TransitionConfigs
+    ¦       ¦           +---utils
+    ¦       ¦           +---views
+    ¦       ¦               +---Header
+    ¦       ¦               +---Stack
+    ¦       +---src
+    ¦           +---navigators
+    ¦           +---TransitionConfigs
+    ¦           +---utils
+    ¦           +---views
+    ¦               +---assets
+    ¦               +---Header
+    ¦               +---Stack
+    +---@sideway
+    ¦   +---address
+    ¦   ¦   +---lib
+    ¦   +---formula
+    ¦   ¦   +---lib
+    ¦   +---pinpoint
+    ¦       +---lib
+    +---@types
+    ¦   +---bytebuffer
+    ¦   +---graceful-fs
+    ¦   +---hammerjs
+    ¦   +---istanbul-lib-coverage
+    ¦   +---istanbul-lib-report
+    ¦   +---istanbul-reports
+    ¦   +---long
+    ¦   +---node
+    ¦   ¦   +---assert
+    ¦   ¦   +---dns
+    ¦   ¦   +---fs
+    ¦   ¦   +---stream
+    ¦   ¦   +---timers
+    ¦   +---prop-types
+    ¦   +---react
+    ¦   +---react-native
+    ¦   +---react-native-vector-icons
+    ¦   +---scheduler
+    ¦   +---yargs
+    ¦   +---yargs-parser
+    +---@xmldom
+    ¦   +---xmldom
+    ¦       +---lib
+    +---abort-controller
+    ¦   +---dist
+    +---absolute-path
+    ¦   +---test
+    +---accepts
+    +---anser
+    ¦   +---lib
+    +---ansi-fragments
+    ¦   +---build
+    ¦   ¦   +---fragments
+    ¦   ¦       +---__tests__
+    ¦   +---node_modules
+    ¦       +---ansi-regex
+    ¦       +---strip-ansi
+    +---ansi-regex
+    +---ansi-styles
+    +---any-promise
+    ¦   +---register
+    +---anymatch
+    +---appdirsjs
+    ¦   +---dist
+    +---argparse
+    ¦   +---lib
+    ¦       +---action
+    ¦       ¦   +---append
+    ¦       ¦   +---store
+    ¦       +---argument
+    ¦       +---help
+    +---arr-diff
+    +---arr-flatten
+    +---arr-union
+    +---array-filter
+    ¦   +---test
+    +---array-find-index
+    +---array-map
+    ¦   +---example
+    ¦   +---test
+    +---array-reduce
+    ¦   +---example
+    ¦   +---test
+    +---array-unique
+    +---arrify
+    +---asap
+    +---ascli
+    ¦   +---alphabet
+    ¦   +---tests
+    +---assign-symbols
+    +---ast-types
+    ¦   +---.github
+    ¦   ¦   +---workflows
+    ¦   +---def
+    ¦   +---gen
+    ¦   +---lib
+    ¦   +---node_modules
+    ¦       +---tslib
+    ¦           +---modules
+    +---astral-regex
+    +---async
+    ¦   +---dist
+    ¦   +---internal
+    +---async-each
+    +---async-limiter
+    +---at-least-node
+    +---atob
+    ¦   +---bin
+    +---babel-core
+    +---babel-plugin-dynamic-import-node
+    ¦   +---lib
+    +---babel-plugin-module-resolver
+    ¦   +---lib
+    ¦       +---transformers
+    +---babel-plugin-polyfill-corejs2
+    ¦   +---esm
+    ¦   +---lib
+    ¦   +---node_modules
+    ¦       +---.bin
+    ¦       +---semver
+    ¦           +---bin
+    +---babel-plugin-polyfill-corejs3
+    ¦   +---core-js-compat
+    ¦   +---esm
+    ¦   +---lib
+    +---babel-plugin-polyfill-regenerator
+    ¦   +---esm
+    ¦   +---lib
+    +---babel-plugin-react-native-web
+    ¦   +---src
+    ¦       +---__tests__
+    ¦           +---__snapshots__
+    +---babel-plugin-styled-components
+    ¦   +---lib
+    ¦       +---css
+    ¦       +---minify
+    ¦       +---utils
+    ¦       +---visitors
+    ¦           +---templateLiterals
+    +---babel-plugin-syntax-jsx
+    ¦   +---lib
+    +---babel-plugin-syntax-trailing-function-commas
+    ¦   +---lib
+    +---babel-preset-expo
+    ¦   +---node_modules
+    ¦   ¦   +---metro-react-native-babel-preset
+    ¦   ¦       +---src
+    ¦   ¦           +---configs
+    ¦   +---plugins
+    +---babel-preset-fbjs
+    ¦   +---plugins
+    ¦       +---test-utils
+    +---balanced-match
+    ¦   +---.github
+    +---base
+    ¦   +---node_modules
+    ¦       +---define-property
+    ¦       +---is-accessor-descriptor
+    ¦       +---is-data-descriptor
+    ¦       +---is-descriptor
+    +---base64-js
+    +---big-integer
+    +---binary-extensions
+    +---bindings
+    +---blueimp-md5
+    ¦   +---js
+    +---bplist-creator
+    ¦   +---test
+    +---bplist-parser
+    +---brace-expansion
+    +---braces
+    ¦   +---lib
+    +---browserslist
+    +---bser
+    +---buffer-alloc
+    +---buffer-alloc-unsafe
+    +---buffer-fill
+    +---buffer-from
+    +---bytebuffer
+    ¦   +---dist
+    ¦   +---externs
+    ¦   +---node_modules
+    ¦   ¦   +---long
+    ¦   ¦       +---dist
+    ¦   ¦       +---doco
+    ¦   ¦       +---externs
+    ¦   ¦       +---scripts
+    ¦   ¦       +---src
+    ¦   ¦       +---tests
+    ¦   +---scripts
+    ¦   +---src
+    ¦   ¦   +---encodings
+    ¦   ¦   ¦   +---impl
+    ¦   ¦   +---methods
+    ¦   ¦   ¦   +---static
+    ¦   ¦   +---types
+    ¦   ¦       +---bytes
+    ¦   ¦       +---floats
+    ¦   ¦       +---ints
+    ¦   ¦       +---strings
+    ¦   ¦       +---varints
+    ¦   +---tests
+    +---bytes
+    +---cache-base
+    +---call-bind
+    ¦   +---.github
+    ¦   +---test
+    +---caller-callsite
+    +---caller-path
+    +---callsites
+    +---camelcase
+    +---camelize
+    ¦   +---example
+    ¦   +---test
+    +---caniuse-lite
+    ¦   +---data
+    ¦   ¦   +---features
+    ¦   ¦   +---regions
+    ¦   +---dist
+    ¦       +---lib
+    ¦       +---unpacker
+    +---capture-exit
+    +---chalk
+    ¦   +---node_modules
+    ¦   ¦   +---ansi-styles
+    ¦   ¦   +---color-convert
+    ¦   ¦   +---color-name
+    ¦   ¦   +---has-flag
+    ¦   ¦   +---supports-color
+    ¦   +---source
+    +---chokidar
+    ¦   +---lib
+    ¦   +---node_modules
+    ¦   ¦   +---anymatch
+    ¦   ¦   ¦   +---node_modules
+    ¦   ¦   ¦       +---normalize-path
+    ¦   ¦   +---braces
+    ¦   ¦   ¦   +---lib
+    ¦   ¦   ¦   +---node_modules
+    ¦   ¦   ¦       +---extend-shallow
+    ¦   ¦   +---fill-range
+    ¦   ¦   ¦   +---node_modules
+    ¦   ¦   ¦       +---extend-shallow
+    ¦   ¦   +---glob-parent
+    ¦   ¦   ¦   +---node_modules
+    ¦   ¦   ¦       +---is-glob
+    ¦   ¦   +---is-number
+    ¦   ¦   ¦   +---node_modules
+    ¦   ¦   ¦       +---kind-of
+    ¦   ¦   +---micromatch
+    ¦   ¦   ¦   +---lib
+    ¦   ¦   +---to-regex-range
+    ¦   +---types
+    +---ci-info
+    +---class-utils
+    ¦   +---node_modules
+    ¦       +---define-property
+    +---cli-cursor
+    +---cli-spinners
+    +---cliui
+    +---clone
+    +---clone-deep
+    +---code-point-at
+    +---collection-visit
+    +---color
+    +---color-convert
+    +---color-name
+    +---color-string
+    +---colorette
+    +---colors
+    ¦   +---examples
+    ¦   +---lib
+    ¦   ¦   +---custom
+    ¦   ¦   +---maps
+    ¦   ¦   +---system
+    ¦   +---themes
+    +---colour
+    ¦   +---examples
+    ¦   +---externs
+    ¦   +---tests
+    +---command-exists
+    ¦   +---lib
+    ¦   +---test
+    +---commander
+    ¦   +---typings
+    +---commondir
+    ¦   +---example
+    ¦   +---test
+    +---compare-versions
+    +---component-emitter
+    +---compressible
+    +---compression
+    ¦   +---node_modules
+    ¦       +---debug
+    ¦       ¦   +---src
+    ¦       +---ms
+    +---concat-map
+    ¦   +---example
+    ¦   +---test
+    +---connect
+    ¦   +---node_modules
+    ¦       +---debug
+    ¦       ¦   +---src
+    ¦       +---ms
+    +---convert-source-map
+    +---copy-descriptor
+    +---core-js
+    ¦   +---build
+    ¦   +---client
+    ¦   +---core
+    ¦   +---es5
+    ¦   +---es6
+    ¦   +---es7
+    ¦   +---fn
+    ¦   ¦   +---array
+    ¦   ¦   +---function
+    ¦   ¦   +---html-collection
+    ¦   ¦   +---json
+    ¦   ¦   +---math
+    ¦   ¦   +---node-list
+    ¦   ¦   +---number
+    ¦   ¦   +---object
+    ¦   ¦   +---reflect
+    ¦   ¦   +---regexp
+    ¦   ¦   +---string
+    ¦   ¦   +---symbol
+    ¦   +---js
+    ¦   +---library
+    ¦   ¦   +---core
+    ¦   ¦   +---es5
+    ¦   ¦   +---es6
+    ¦   ¦   +---es7
+    ¦   ¦   +---fn
+    ¦   ¦   ¦   +---array
+    ¦   ¦   ¦   +---function
+    ¦   ¦   ¦   +---html-collection
+    ¦   ¦   ¦   +---json
+    ¦   ¦   ¦   +---math
+    ¦   ¦   ¦   +---node-list
+    ¦   ¦   ¦   +---number
+    ¦   ¦   ¦   +---object
+    ¦   ¦   ¦   +---reflect
+    ¦   ¦   ¦   +---regexp
+    ¦   ¦   ¦   +---string
+    ¦   ¦   ¦   +---symbol
+    ¦   ¦   +---js
+    ¦   ¦   +---modules
+    ¦   ¦   +---web
+    ¦   +---modules
+    ¦   ¦   +---library
+    ¦   +---web
+    +---core-js-compat
+    ¦   +---node_modules
+    ¦       +---.bin
+    ¦       +---semver
+    ¦           +---bin
+    ¦           +---classes
+    ¦           +---functions
+    ¦           +---internal
+    ¦           +---ranges
+    +---core-util-is
+    ¦   +---lib
+    +---cosmiconfig
+    ¦   +---dist
+    +---create-react-class
+    +---cross-fetch
+    ¦   +---dist
+    ¦   +---node_modules
+    ¦   ¦   +---node-fetch
+    ¦   ¦       +---lib
+    ¦   +---polyfill
+    +---cross-spawn
+    ¦   +---lib
+    ¦   ¦   +---util
+    ¦   +---node_modules
+    ¦       +---.bin
+    ¦       +---semver
+    ¦           +---bin
+    +---crypto-random-string
+    +---css-color-keywords
+    +---css-in-js-utils
+    ¦   +---lib
+    ¦       +---__tests__
+    +---css-to-react-native
+    ¦   +---src
+    ¦       +---transforms
+    ¦       +---__tests__
+    +---csstype
+    +---dayjs
+    ¦   +---esm
+    ¦   ¦   +---locale
+    ¦   ¦   +---plugin
+    ¦   ¦       +---advancedFormat
+    ¦   ¦       +---arraySupport
+    ¦   ¦       +---badMutable
+    ¦   ¦       +---buddhistEra
+    ¦   ¦       +---calendar
+    ¦   ¦       +---customParseFormat
+    ¦   ¦       +---dayOfYear
+    ¦   ¦       +---devHelper
+    ¦   ¦       +---duration
+    ¦   ¦       +---isBetween
+    ¦   ¦       +---isLeapYear
+    ¦   ¦       +---isMoment
+    ¦   ¦       +---isoWeek
+    ¦   ¦       +---isoWeeksInYear
+    ¦   ¦       +---isSameOrAfter
+    ¦   ¦       +---isSameOrBefore
+    ¦   ¦       +---isToday
+    ¦   ¦       +---isTomorrow
+    ¦   ¦       +---isYesterday
+    ¦   ¦       +---localeData
+    ¦   ¦       +---localizedFormat
+    ¦   ¦       +---minMax
+    ¦   ¦       +---objectSupport
+    ¦   ¦       +---pluralGetSet
+    ¦   ¦       +---preParsePostFormat
+    ¦   ¦       +---quarterOfYear
+    ¦   ¦       +---relativeTime
+    ¦   ¦       +---timezone
+    ¦   ¦       +---toArray
+    ¦   ¦       +---toObject
+    ¦   ¦       +---updateLocale
+    ¦   ¦       +---utc
+    ¦   ¦       +---weekday
+    ¦   ¦       +---weekOfYear
+    ¦   ¦       +---weekYear
+    ¦   +---locale
+    ¦   +---plugin
+    +---debug
+    ¦   +---src
+    +---decamelize
+    +---decode-uri-component
+    +---deepmerge
+    ¦   +---dist
+    +---defaults
+    +---define-properties
+    ¦   +---test
+    +---define-property
+    ¦   +---node_modules
+    ¦       +---is-accessor-descriptor
+    ¦       +---is-data-descriptor
+    ¦       +---is-descriptor
+    +---denodeify
+    ¦   +---test
+    +---depd
+    ¦   +---lib
+    ¦       +---browser
+    ¦       +---compat
+    +---destroy
+    +---dom-storage
+    ¦   +---lib
+    ¦   +---tests
+    +---ee-first
+    +---electron-to-chromium
+    +---emoji-regex
+    ¦   +---es2015
+    +---encodeurl
+    +---encoding
+    ¦   +---lib
+    ¦   +---test
+    +---end-of-stream
+    +---envinfo
+    ¦   +---dist
+    +---error-ex
+    ¦   +---node_modules
+    ¦       +---is-arrayish
+    +---error-stack-parser
+    ¦   +---dist
+    +---errorhandler
+    ¦   +---public
+    +---escalade
+    ¦   +---dist
+    ¦   +---sync
+    +---escape-html
+    +---escape-string-regexp
+    +---eslint-config-prettier
+    ¦   +---bin
+    +---eslint-plugin-prettier
+    +---esprima
+    ¦   +---bin
+    ¦   +---dist
+    +---esutils
+    ¦   +---lib
+    +---etag
+    +---event-target-shim
+    ¦   +---dist
+    +---exec-sh
+    ¦   +---example
+    ¦   +---lib
+    ¦   +---test
+    +---execa
+    ¦   +---lib
+    +---expand-brackets
+    ¦   +---lib
+    ¦   +---node_modules
+    ¦       +---debug
+    ¦       ¦   +---src
+    ¦       +---define-property
+    ¦       +---extend-shallow
+    ¦       +---ms
+    +---expo
+    ¦   +---android
+    ¦   ¦   +---src
+    ¦   ¦       +---main
+    ¦   ¦           +---java
+    ¦   ¦               +---expo
+    ¦   ¦                   +---modules
+    ¦   +---bin
+    ¦   +---build
+    ¦   ¦   +---environment
+    ¦   ¦   +---launch
+    ¦   ¦   +---logs
+    ¦   ¦   ¦   +---format
+    ¦   ¦   +---timer
+    ¦   +---ios
+    ¦   +---scripts
+    ¦   +---tools
+    +---expo-app-auth
+    ¦   +---android
+    ¦   ¦   +---src
+    ¦   ¦       +---main
+    ¦   ¦           +---java
+    ¦   ¦               +---expo
+    ¦   ¦                   +---modules
+    ¦   ¦                       +---appauth
+    ¦   +---build
+    ¦   +---ios
+    ¦   ¦   +---EXAppAuth
+    ¦   +---node_modules
+    ¦   ¦   +---.bin
+    ¦   ¦   +---@expo
+    ¦   ¦   ¦   +---config-plugins
+    ¦   ¦   ¦   ¦   +---build
+    ¦   ¦   ¦   ¦       +---android
+    ¦   ¦   ¦   ¦       +---ios
+    ¦   ¦   ¦   ¦       ¦   +---utils
+    ¦   ¦   ¦   ¦       +---plugins
+    ¦   ¦   ¦   ¦       +---utils
+    ¦   ¦   ¦   +---config-types
+    ¦   ¦   ¦   ¦   +---build
+    ¦   ¦   ¦   +---json-file
+    ¦   ¦   ¦   ¦   +---build
+    ¦   ¦   ¦   +---plist
+    ¦   ¦   ¦       +---build
+    ¦   ¦   +---semver
+    ¦   ¦       +---bin
+    ¦   ¦       +---classes
+    ¦   ¦       +---functions
+    ¦   ¦       +---internal
+    ¦   ¦       +---ranges
+    ¦   +---plugin
+    ¦   ¦   +---build
+    ¦   ¦   +---src
+    ¦   +---src
+    +---expo-app-loading
+    ¦   +---.expo
+    ¦   +---build
+    ¦   +---src
+    +---expo-application
+    ¦   +---android
+    ¦   ¦   +---src
+    ¦   ¦       +---main
+    ¦   ¦           +---java
+    ¦   ¦               +---expo
+    ¦   ¦                   +---modules
+    ¦   ¦                       +---application
+    ¦   +---build
+    ¦   +---ios
+    ¦   ¦   +---EXApplication
+    ¦   +---src
+    +---expo-asset
+    ¦   +---build
+    ¦   +---src
+    ¦   ¦   +---ts-declarations
+    ¦   +---tools
+    +---expo-constants
+    ¦   +---android
+    ¦   ¦   +---src
+    ¦   ¦       +---main
+    ¦   ¦           +---java
+    ¦   ¦               +---expo
+    ¦   ¦                   +---modules
+    ¦   ¦                       +---constants
+    ¦   +---build
+    ¦   +---ios
+    ¦   ¦   +---EXConstants
+    ¦   +---scripts
+    ¦   +---src
+    +---expo-error-recovery
+    ¦   +---android
+    ¦   ¦   +---src
+    ¦   ¦       +---main
+    ¦   ¦           +---java
+    ¦   ¦               +---expo
+    ¦   ¦                   +---modules
+    ¦   ¦                       +---errorrecovery
+    ¦   +---build
+    ¦   +---ios
+    ¦   ¦   +---EXErrorRecovery
+    ¦   +---src
+    +---expo-file-system
+    ¦   +---android
+    ¦   ¦   +---src
+    ¦   ¦       +---main
+    ¦   ¦           +---java
+    ¦   ¦           ¦   +---expo
+    ¦   ¦           ¦       +---modules
+    ¦   ¦           ¦           +---filesystem
+    ¦   ¦           +---res
+    ¦   ¦               +---xml
+    ¦   +---build
+    ¦   +---ios
+    ¦   ¦   +---EXFileSystem
+    ¦   ¦   ¦   +---EXSessionTasks
+    ¦   ¦   +---EXFileSystem.xcframework
+    ¦   ¦       +---ios-arm64
+    ¦   ¦       ¦   +---EXFileSystem.framework
+    ¦   ¦       ¦       +---Modules
+    ¦   ¦       +---ios-arm64_x86_64-simulator
+    ¦   ¦           +---EXFileSystem.framework
+    ¦   ¦               +---Modules
+    ¦   +---node_modules
+    ¦   ¦   +---.bin
+    ¦   ¦   +---@expo
+    ¦   ¦   ¦   +---config-plugins
+    ¦   ¦   ¦   ¦   +---build
+    ¦   ¦   ¦   ¦       +---android
+    ¦   ¦   ¦   ¦       +---ios
+    ¦   ¦   ¦   ¦       ¦   +---utils
+    ¦   ¦   ¦   ¦       +---plugins
+    ¦   ¦   ¦   ¦       +---utils
+    ¦   ¦   ¦   +---config-types
+    ¦   ¦   ¦   ¦   +---build
+    ¦   ¦   ¦   +---json-file
+    ¦   ¦   ¦   ¦   +---build
+    ¦   ¦   ¦   +---plist
+    ¦   ¦   ¦       +---build
+    ¦   ¦   +---semver
+    ¦   ¦       +---bin
+    ¦   ¦       +---classes
+    ¦   ¦       +---functions
+    ¦   ¦       +---internal
+    ¦   ¦       +---ranges
+    ¦   +---plugin
+    ¦   ¦   +---build
+    ¦   ¦   +---src
+    ¦   +---src
+    +---expo-font
+    ¦   +---android
+    ¦   ¦   +---src
+    ¦   ¦       +---main
+    ¦   ¦           +---java
+    ¦   ¦               +---expo
+    ¦   ¦                   +---modules
+    ¦   ¦                       +---font
+    ¦   +---build
+    ¦   +---ios
+    ¦   ¦   +---EXFont
+    ¦   ¦       +---Singletons
+    ¦   +---src
+    +---expo-google-app-auth
+    ¦   +---build
+    ¦   +---src
+    +---expo-keep-awake
+    ¦   +---android
+    ¦   ¦   +---src
+    ¦   ¦       +---main
+    ¦   ¦           +---java
+    ¦   ¦               +---expo
+    ¦   ¦                   +---modules
+    ¦   ¦                       +---keepawake
+    ¦   +---build
+    ¦   +---ios
+    ¦   ¦   +---EXKeepAwake
+    ¦   +---src
+    +---expo-modules-autolinking
+    ¦   +---bin
+    ¦   +---build
+    ¦   ¦   +---platforms
+    ¦   +---e2e
+    ¦   +---node_modules
+    ¦   ¦   +---commander
+    ¦   ¦   ¦   +---typings
+    ¦   ¦   +---fs-extra
+    ¦   ¦   ¦   +---lib
+    ¦   ¦   ¦       +---copy
+    ¦   ¦   ¦       +---copy-sync
+    ¦   ¦   ¦       +---empty
+    ¦   ¦   ¦       +---ensure
+    ¦   ¦   ¦       +---fs
+    ¦   ¦   ¦       +---json
+    ¦   ¦   ¦       +---mkdirs
+    ¦   ¦   ¦       +---move
+    ¦   ¦   ¦       +---move-sync
+    ¦   ¦   ¦       +---output
+    ¦   ¦   ¦       +---path-exists
+    ¦   ¦   ¦       +---remove
+    ¦   ¦   ¦       +---util
+    ¦   ¦   +---universalify
+    ¦   +---scripts
+    ¦   ¦   +---android
+    ¦   ¦   +---ios
+    ¦   ¦       +---cocoapods
+    ¦   +---src
+    ¦       +---platforms
+    +---expo-modules-core
+    ¦   +---android
+    ¦   ¦   +---src
+    ¦   ¦       +---main
+    ¦   ¦           +---java
+    ¦   ¦               +---expo
+    ¦   ¦                   +---modules
+    ¦   ¦                       +---adapters
+    ¦   ¦                       ¦   +---react
+    ¦   ¦                       ¦       +---apploader
+    ¦   ¦                       ¦       +---permissions
+    ¦   ¦                       ¦       +---services
+    ¦   ¦                       ¦       +---views
+    ¦   ¦                       +---apploader
+    ¦   ¦                       +---core
+    ¦   ¦                       ¦   +---arguments
+    ¦   ¦                       ¦   +---errors
+    ¦   ¦                       ¦   +---interfaces
+    ¦   ¦                       ¦   ¦   +---services
+    ¦   ¦                       ¦   +---utilities
+    ¦   ¦                       +---interfaces
+    ¦   ¦                           +---barcodescanner
+    ¦   ¦                           +---camera
+    ¦   ¦                           +---constants
+    ¦   ¦                           +---facedetector
+    ¦   ¦                           +---filesystem
+    ¦   ¦                           +---font
+    ¦   ¦                           +---imageloader
+    ¦   ¦                           +---permissions
+    ¦   ¦                           +---sensors
+    ¦   ¦                           ¦   +---services
+    ¦   ¦                           +---taskManager
+    ¦   +---build
+    ¦   ¦   +---environment
+    ¦   ¦   +---errors
+    ¦   +---ios
+    ¦   ¦   +---Interfaces
+    ¦   ¦   ¦   +---BarcodeScanner
+    ¦   ¦   ¦   +---Camera
+    ¦   ¦   ¦   +---Constants
+    ¦   ¦   ¦   +---FaceDetector
+    ¦   ¦   ¦   +---FileSystem
+    ¦   ¦   ¦   +---Font
+    ¦   ¦   ¦   +---ImageLoader
+    ¦   ¦   ¦   +---Permissions
+    ¦   ¦   ¦   +---Sensors
+    ¦   ¦   ¦   +---TaskManager
+    ¦   ¦   +---ModuleRegistry
+    ¦   ¦   +---ModuleRegistryAdapter
+    ¦   ¦   +---ModuleRegistryProvider
+    ¦   ¦   +---NativeModulesProxy
+    ¦   ¦   +---Protocols
+    ¦   ¦   +---Services
+    ¦   ¦   ¦   +---Permissions
+    ¦   ¦   +---Swift
+    ¦   ¦   ¦   +---Methods
+    ¦   ¦   ¦   +---Modules
+    ¦   ¦   ¦   +---Records
+    ¦   ¦   ¦   +---Views
+    ¦   ¦   +---Tests
+    ¦   ¦   ¦   +---Mocks
+    ¦   ¦   +---ViewManagerAdapter
+    ¦   +---src
+    ¦       +---environment
+    ¦       +---errors
+    ¦       +---ts-declarations
+    +---expo-splash-screen
+    ¦   +---android
+    ¦   ¦   +---src
+    ¦   ¦       +---main
+    ¦   ¦           +---java
+    ¦   ¦           ¦   +---expo
+    ¦   ¦           ¦       +---modules
+    ¦   ¦           ¦           +---splashscreen
+    ¦   ¦           ¦               +---exceptions
+    ¦   ¦           ¦               +---singletons
+    ¦   ¦           +---res
+    ¦   ¦               +---drawable
+    ¦   ¦               +---values
+    ¦   +---build
+    ¦   +---ios
+    ¦   ¦   +---EXSplashScreen
+    ¦   ¦   +---EXSplashScreen.xcframework
+    ¦   ¦       +---ios-arm64
+    ¦   ¦       ¦   +---EXSplashScreen.framework
+    ¦   ¦       +---ios-arm64_x86_64-simulator
+    ¦   ¦           +---EXSplashScreen.framework
+    ¦   +---plugin
+    ¦   ¦   +---build
+    ¦   ¦   +---src
+    ¦   +---src
+    ¦       +---__mocks__
+    ¦       +---__tests__
+    +---expo-status-bar
+    ¦   +---build
+    ¦   +---src
+    +---extend-shallow
+    ¦   +---node_modules
+    ¦       +---is-extendable
+    +---extglob
+    ¦   +---lib
+    ¦   +---node_modules
+    ¦       +---define-property
+    ¦       +---extend-shallow
+    ¦       +---is-accessor-descriptor
+    ¦       +---is-data-descriptor
+    ¦       +---is-descriptor
+    +---fast-diff
+    +---fast-glob
+    ¦   +---out
+    ¦       +---managers
+    ¦       +---providers
+    ¦       ¦   +---filters
+    ¦       ¦   +---matchers
+    ¦       ¦   +---transformers
+    ¦       +---readers
+    ¦       +---types
+    ¦       +---utils
+    +---fastq
+    ¦   +---.github
+    ¦   ¦   +---workflows
+    ¦   +---test
+    +---faye-websocket
+    ¦   +---lib
+    ¦       +---faye
+    ¦           +---websocket
+    ¦               +---api
+    +---fb-watchman
+    +---fbemitter
+    ¦   +---lib
+    +---fbjs
+    ¦   +---flow
+    ¦   ¦   +---lib
+    ¦   +---lib
+    ¦       +---__mocks__
+    +---fbjs-css-vars
+    +---file-uri-to-path
+    ¦   +---test
+    +---fill-range
+    +---filter-obj
+    +---finalhandler
+    ¦   +---node_modules
+    ¦       +---debug
+    ¦       ¦   +---src
+    ¦       +---ms
+    +---find-babel-config
+    ¦   +---.circleci
+    ¦   +---lib
+    ¦   +---node_modules
+    ¦       +---.bin
+    ¦       +---json5
+    ¦       ¦   +---lib
+    ¦       +---path-exists
+    +---find-cache-dir
+    +---find-up
+    +---firebase
+    ¦   +---analytics
+    ¦   ¦   +---dist
+    ¦   +---app
+    ¦   ¦   +---dist
+    ¦   +---auth
+    ¦   ¦   +---dist
+    ¦   +---database
+    ¦   ¦   +---dist
+    ¦   +---dist
+    ¦   +---externs
+    ¦   +---firestore
+    ¦   ¦   +---dist
+    ¦   +---functions
+    ¦   ¦   +---dist
+    ¦   +---installations
+    ¦   ¦   +---dist
+    ¦   +---messaging
+    ¦   ¦   +---dist
+    ¦   +---performance
+    ¦   ¦   +---dist
+    ¦   +---remote-config
+    ¦   ¦   +---dist
+    ¦   +---storage
+    ¦       +---dist
+    +---flatted
+    ¦   +---.github
+    ¦   +---cjs
+    ¦   +---esm
+    +---flow-parser
+    +---fontfaceobserver
+    ¦   +---src
+    +---for-in
+    +---fragment-cache
+    +---fresh
+    +---fs-extra
+    ¦   +---lib
+    ¦       +---copy
+    ¦       +---copy-sync
+    ¦       +---empty
+    ¦       +---ensure
+    ¦       +---fs
+    ¦       +---json
+    ¦       +---mkdirs
+    ¦       +---move
+    ¦       +---move-sync
+    ¦       +---output
+    ¦       +---path-exists
+    ¦       +---remove
+    ¦       +---util
+    +---fs.realpath
+    +---fsevents
+    ¦   +---src
+    +---function-bind
+    ¦   +---test
+    +---gensync
+    ¦   +---test
+    +---get-caller-file
+    +---get-intrinsic
+    ¦   +---.github
+    ¦   +---test
+    +---get-stdin
+    +---get-stream
+    +---get-value
+    +---getenv
+    +---glob
+    +---glob-parent
+    +---globals
+    +---graceful-fs
+    +---grpc
+    ¦   +---deps
+    ¦   ¦   +---grpc
+    ¦   ¦       +---etc
+    ¦   ¦       +---include
+    ¦   ¦       ¦   +---grpc
+    ¦   ¦       ¦       +---impl
+    ¦   ¦       ¦       ¦   +---codegen
+    ¦   ¦       ¦       +---support
+    ¦   ¦       +---src
+    ¦   ¦       ¦   +---boringssl
+    ¦   ¦       ¦   +---core
+    ¦   ¦       ¦       +---ext
+    ¦   ¦       ¦       ¦   +---filters
+    ¦   ¦       ¦       ¦   ¦   +---census
+    ¦   ¦       ¦       ¦   ¦   +---client_channel
+    ¦   ¦       ¦       ¦   ¦   ¦   +---health
+    ¦   ¦       ¦       ¦   ¦   ¦   +---lb_policy
+    ¦   ¦       ¦       ¦   ¦   ¦   ¦   +---grpclb
+    ¦   ¦       ¦       ¦   ¦   ¦   ¦   +---pick_first
+    ¦   ¦       ¦       ¦   ¦   ¦   ¦   +---round_robin
+    ¦   ¦       ¦       ¦   ¦   ¦   ¦   +---xds
+    ¦   ¦       ¦       ¦   ¦   ¦   +---resolver
+    ¦   ¦       ¦       ¦   ¦   ¦       +---dns
+    ¦   ¦       ¦       ¦   ¦   ¦       ¦   +---c_ares
+    ¦   ¦       ¦       ¦   ¦   ¦       ¦   +---native
+    ¦   ¦       ¦       ¦   ¦   ¦       +---fake
+    ¦   ¦       ¦       ¦   ¦   ¦       +---sockaddr
+    ¦   ¦       ¦       ¦   ¦   ¦       +---xds
+    ¦   ¦       ¦       ¦   ¦   +---client_idle
+    ¦   ¦       ¦       ¦   ¦   +---deadline
+    ¦   ¦       ¦       ¦   ¦   +---http
+    ¦   ¦       ¦       ¦   ¦   ¦   +---client
+    ¦   ¦       ¦       ¦   ¦   ¦   +---message_compress
+    ¦   ¦       ¦       ¦   ¦   ¦   +---server
+    ¦   ¦       ¦       ¦   ¦   +---load_reporting
+    ¦   ¦       ¦       ¦   ¦   +---max_age
+    ¦   ¦       ¦       ¦   ¦   +---message_size
+    ¦   ¦       ¦       ¦   ¦   +---workarounds
+    ¦   ¦       ¦       ¦   +---transport
+    ¦   ¦       ¦       ¦   ¦   +---chttp2
+    ¦   ¦       ¦       ¦   ¦   ¦   +---alpn
+    ¦   ¦       ¦       ¦   ¦   ¦   +---client
+    ¦   ¦       ¦       ¦   ¦   ¦   ¦   +---insecure
+    ¦   ¦       ¦       ¦   ¦   ¦   ¦   +---secure
+    ¦   ¦       ¦       ¦   ¦   ¦   +---server
+    ¦   ¦       ¦       ¦   ¦   ¦   ¦   +---insecure
+    ¦   ¦       ¦       ¦   ¦   ¦   ¦   +---secure
+    ¦   ¦       ¦       ¦   ¦   ¦   +---transport
+    ¦   ¦       ¦       ¦   ¦   +---cronet
+    ¦   ¦       ¦       ¦   ¦   ¦   +---client
+    ¦   ¦       ¦       ¦   ¦   ¦   ¦   +---secure
+    ¦   ¦       ¦       ¦   ¦   ¦   +---plugin_registry
+    ¦   ¦       ¦       ¦   ¦   ¦   +---transport
+    ¦   ¦       ¦       ¦   ¦   +---inproc
+    ¦   ¦       ¦       ¦   +---upb-generated
+    ¦   ¦       ¦       ¦       +---envoy
+    ¦   ¦       ¦       ¦       ¦   +---api
+    ¦   ¦       ¦       ¦       ¦   ¦   +---v2
+    ¦   ¦       ¦       ¦       ¦   ¦       +---auth
+    ¦   ¦       ¦       ¦       ¦   ¦       +---cluster
+    ¦   ¦       ¦       ¦       ¦   ¦       +---core
+    ¦   ¦       ¦       ¦       ¦   ¦       +---endpoint
+    ¦   ¦       ¦       ¦       ¦   +---service
+    ¦   ¦       ¦       ¦       ¦   ¦   +---discovery
+    ¦   ¦       ¦       ¦       ¦   ¦   ¦   +---v2
+    ¦   ¦       ¦       ¦       ¦   ¦   +---load_stats
+    ¦   ¦       ¦       ¦       ¦   ¦       +---v2
+    ¦   ¦       ¦       ¦       ¦   +---type
+    ¦   ¦       ¦       ¦       +---gogoproto
+    ¦   ¦       ¦       ¦       +---google
+    ¦   ¦       ¦       ¦       ¦   +---api
+    ¦   ¦       ¦       ¦       ¦   +---protobuf
+    ¦   ¦       ¦       ¦       ¦   +---rpc
+    ¦   ¦       ¦       ¦       +---src
+    ¦   ¦       ¦       ¦       ¦   +---proto
+    ¦   ¦       ¦       ¦       ¦       +---grpc
+    ¦   ¦       ¦       ¦       ¦           +---gcp
+    ¦   ¦       ¦       ¦       ¦           +---health
+    ¦   ¦       ¦       ¦       ¦           ¦   +---v1
+    ¦   ¦       ¦       ¦       ¦           +---lb
+    ¦   ¦       ¦       ¦       ¦               +---v1
+    ¦   ¦       ¦       ¦       +---udpa
+    ¦   ¦       ¦       ¦       ¦   +---data
+    ¦   ¦       ¦       ¦       ¦       +---orca
+    ¦   ¦       ¦       ¦       ¦           +---v1
+    ¦   ¦       ¦       ¦       +---validate
+    ¦   ¦       ¦       +---lib
+    ¦   ¦       ¦       ¦   +---avl
+    ¦   ¦       ¦       ¦   +---backoff
+    ¦   ¦       ¦       ¦   +---channel
+    ¦   ¦       ¦       ¦   +---compression
+    ¦   ¦       ¦       ¦   +---debug
+    ¦   ¦       ¦       ¦   +---gpr
+    ¦   ¦       ¦       ¦   +---gprpp
+    ¦   ¦       ¦       ¦   +---http
+    ¦   ¦       ¦       ¦   +---iomgr
+    ¦   ¦       ¦       ¦   ¦   +---executor
+    ¦   ¦       ¦       ¦   +---json
+    ¦   ¦       ¦       ¦   +---profiling
+    ¦   ¦       ¦       ¦   +---security
+    ¦   ¦       ¦       ¦   ¦   +---context
+    ¦   ¦       ¦       ¦   ¦   +---credentials
+    ¦   ¦       ¦       ¦   ¦   ¦   +---alts
+    ¦   ¦       ¦       ¦   ¦   ¦   +---composite
+    ¦   ¦       ¦       ¦   ¦   ¦   +---fake
+    ¦   ¦       ¦       ¦   ¦   ¦   +---google_default
+    ¦   ¦       ¦       ¦   ¦   ¦   +---iam
+    ¦   ¦       ¦       ¦   ¦   ¦   +---jwt
+    ¦   ¦       ¦       ¦   ¦   ¦   +---local
+    ¦   ¦       ¦       ¦   ¦   ¦   +---oauth2
+    ¦   ¦       ¦       ¦   ¦   ¦   +---plugin
+    ¦   ¦       ¦       ¦   ¦   ¦   +---ssl
+    ¦   ¦       ¦       ¦   ¦   ¦   +---tls
+    ¦   ¦       ¦       ¦   ¦   +---security_connector
+    ¦   ¦       ¦       ¦   ¦   ¦   +---alts
+    ¦   ¦       ¦       ¦   ¦   ¦   +---fake
+    ¦   ¦       ¦       ¦   ¦   ¦   +---local
+    ¦   ¦       ¦       ¦   ¦   ¦   +---ssl
+    ¦   ¦       ¦       ¦   ¦   ¦   +---tls
+    ¦   ¦       ¦       ¦   ¦   +---transport
+    ¦   ¦       ¦       ¦   ¦   +---util
+    ¦   ¦       ¦       ¦   +---slice
+    ¦   ¦       ¦       ¦   +---surface
+    ¦   ¦       ¦       ¦   +---transport
+    ¦   ¦       ¦       ¦   +---uri
+    ¦   ¦       ¦       +---plugin_registry
+    ¦   ¦       ¦       +---tsi
+    ¦   ¦       ¦           +---alts
+    ¦   ¦       ¦           ¦   +---crypt
+    ¦   ¦       ¦           ¦   +---frame_protector
+    ¦   ¦       ¦           ¦   +---handshaker
+    ¦   ¦       ¦           ¦   +---zero_copy_frame_protector
+    ¦   ¦       ¦           +---ssl
+    ¦   ¦       ¦           ¦   +---session_cache
+    ¦   ¦       ¦           +---test_creds
+    ¦   ¦       +---third_party
+    ¦   ¦           +---abseil-cpp
+    ¦   ¦           ¦   +---absl
+    ¦   ¦           ¦       +---algorithm
+    ¦   ¦           ¦       +---base
+    ¦   ¦           ¦       ¦   +---internal
+    ¦   ¦           ¦       +---container
+    ¦   ¦           ¦       ¦   +---internal
+    ¦   ¦           ¦       +---debugging
+    ¦   ¦           ¦       ¦   +---internal
+    ¦   ¦           ¦       +---flags
+    ¦   ¦           ¦       ¦   +---internal
+    ¦   ¦           ¦       +---hash
+    ¦   ¦           ¦       ¦   +---internal
+    ¦   ¦           ¦       +---memory
+    ¦   ¦           ¦       +---meta
+    ¦   ¦           ¦       +---numeric
+    ¦   ¦           ¦       +---random
+    ¦   ¦           ¦       ¦   +---internal
+    ¦   ¦           ¦       +---strings
+    ¦   ¦           ¦       ¦   +---internal
+    ¦   ¦           ¦       ¦       +---str_format
+    ¦   ¦           ¦       +---synchronization
+    ¦   ¦           ¦       ¦   +---internal
+    ¦   ¦           ¦       +---time
+    ¦   ¦           ¦       ¦   +---internal
+    ¦   ¦           ¦       ¦       +---cctz
+    ¦   ¦           ¦       ¦           +---include
+    ¦   ¦           ¦       ¦           ¦   +---cctz
+    ¦   ¦           ¦       ¦           +---src
+    ¦   ¦           ¦       ¦           +---testdata
+    ¦   ¦           ¦       +---types
+    ¦   ¦           ¦       ¦   +---internal
+    ¦   ¦           ¦       +---utility
+    ¦   ¦           +---address_sorting
+    ¦   ¦           ¦   +---include
+    ¦   ¦           ¦       +---address_sorting
+    ¦   ¦           +---boringssl
+    ¦   ¦           ¦   +---crypto
+    ¦   ¦           ¦   ¦   +---asn1
+    ¦   ¦           ¦   ¦   +---base64
+    ¦   ¦           ¦   ¦   +---bio
+    ¦   ¦           ¦   ¦   +---bn_extra
+    ¦   ¦           ¦   ¦   +---buf
+    ¦   ¦           ¦   ¦   +---bytestring
+    ¦   ¦           ¦   ¦   +---chacha
+    ¦   ¦           ¦   ¦   +---cipher_extra
+    ¦   ¦           ¦   ¦   +---cmac
+    ¦   ¦           ¦   ¦   +---conf
+    ¦   ¦           ¦   ¦   +---curve25519
+    ¦   ¦           ¦   ¦   +---dh
+    ¦   ¦           ¦   ¦   +---digest_extra
+    ¦   ¦           ¦   ¦   +---dsa
+    ¦   ¦           ¦   ¦   +---ecdh
+    ¦   ¦           ¦   ¦   +---ecdsa_extra
+    ¦   ¦           ¦   ¦   +---ec_extra
+    ¦   ¦           ¦   ¦   +---engine
+    ¦   ¦           ¦   ¦   +---err
+    ¦   ¦           ¦   ¦   +---evp
+    ¦   ¦           ¦   ¦   +---fipsmodule
+    ¦   ¦           ¦   ¦   ¦   +---aes
+    ¦   ¦           ¦   ¦   ¦   +---bn
+    ¦   ¦           ¦   ¦   ¦   ¦   +---asm
+    ¦   ¦           ¦   ¦   ¦   +---cipher
+    ¦   ¦           ¦   ¦   ¦   +---des
+    ¦   ¦           ¦   ¦   ¦   +---digest
+    ¦   ¦           ¦   ¦   ¦   +---ec
+    ¦   ¦           ¦   ¦   ¦   +---ecdsa
+    ¦   ¦           ¦   ¦   ¦   +---hmac
+    ¦   ¦           ¦   ¦   ¦   +---md4
+    ¦   ¦           ¦   ¦   ¦   +---md5
+    ¦   ¦           ¦   ¦   ¦   +---modes
+    ¦   ¦           ¦   ¦   ¦   +---rand
+    ¦   ¦           ¦   ¦   ¦   +---rsa
+    ¦   ¦           ¦   ¦   ¦   +---self_check
+    ¦   ¦           ¦   ¦   ¦   +---sha
+    ¦   ¦           ¦   ¦   ¦   +---tls
+    ¦   ¦           ¦   ¦   +---hkdf
+    ¦   ¦           ¦   ¦   +---hmac_extra
+    ¦   ¦           ¦   ¦   +---lhash
+    ¦   ¦           ¦   ¦   +---obj
+    ¦   ¦           ¦   ¦   +---pem
+    ¦   ¦           ¦   ¦   +---perlasm
+    ¦   ¦           ¦   ¦   +---pkcs7
+    ¦   ¦           ¦   ¦   +---pkcs8
+    ¦   ¦           ¦   ¦   +---poly1305
+    ¦   ¦           ¦   ¦   +---pool
+    ¦   ¦           ¦   ¦   +---rand_extra
+    ¦   ¦           ¦   ¦   +---rc4
+    ¦   ¦           ¦   ¦   +---rsa_extra
+    ¦   ¦           ¦   ¦   +---stack
+    ¦   ¦           ¦   ¦   +---test
+    ¦   ¦           ¦   ¦   +---x509
+    ¦   ¦           ¦   ¦   +---x509v3
+    ¦   ¦           ¦   +---include
+    ¦   ¦           ¦   ¦   +---openssl
+    ¦   ¦           ¦   +---ssl
+    ¦   ¦           ¦   ¦   +---test
+    ¦   ¦           ¦   ¦       +---runner
+    ¦   ¦           ¦   ¦           +---curve25519
+    ¦   ¦           ¦   +---third_party
+    ¦   ¦           ¦       +---android-cmake
+    ¦   ¦           ¦       +---fiat
+    ¦   ¦           ¦       +---googletest
+    ¦   ¦           ¦           +---include
+    ¦   ¦           ¦           ¦   +---gtest
+    ¦   ¦           ¦           ¦       +---internal
+    ¦   ¦           ¦           ¦           +---custom
+    ¦   ¦           ¦           +---samples
+    ¦   ¦           ¦           +---src
+    ¦   ¦           ¦           +---test
+    ¦   ¦           ¦           +---xcode
+    ¦   ¦           ¦               +---Samples
+    ¦   ¦           ¦                   +---FrameworkSample
+    ¦   ¦           +---cares
+    ¦   ¦           ¦   +---cares
+    ¦   ¦           ¦   ¦   +---test
+    ¦   ¦           ¦   ¦       +---gmock-1.8.0
+    ¦   ¦           ¦   ¦           +---gmock
+    ¦   ¦           ¦   ¦           +---gtest
+    ¦   ¦           ¦   +---config_android
+    ¦   ¦           ¦   +---config_darwin
+    ¦   ¦           ¦   +---config_freebsd
+    ¦   ¦           ¦   +---config_linux
+    ¦   ¦           ¦   +---config_openbsd
+    ¦   ¦           ¦   +---config_windows
+    ¦   ¦           +---upb
+    ¦   ¦           ¦   +---examples
+    ¦   ¦           ¦   ¦   +---bazel
+    ¦   ¦           ¦   +---generated_for_cmake
+    ¦   ¦           ¦   ¦   +---google
+    ¦   ¦           ¦   ¦   ¦   +---protobuf
+    ¦   ¦           ¦   ¦   +---upb
+    ¦   ¦           ¦   ¦       +---json
+    ¦   ¦           ¦   +---tests
+    ¦   ¦           ¦   ¦   +---corpus
+    ¦   ¦           ¦   ¦   +---pb
+    ¦   ¦           ¦   +---third_party
+    ¦   ¦           ¦   ¦   +---lunit
+    ¦   ¦           ¦   +---upb
+    ¦   ¦           ¦   ¦   +---bindings
+    ¦   ¦           ¦   ¦   ¦   +---lua
+    ¦   ¦           ¦   ¦   ¦   ¦   +---upb
+    ¦   ¦           ¦   ¦   ¦   +---stdc++
+    ¦   ¦           ¦   ¦   +---json
+    ¦   ¦           ¦   ¦   +---pb
+    ¦   ¦           ¦   +---upbc
+    ¦   ¦           +---zlib
+    ¦   ¦               +---contrib
+    ¦   ¦               ¦   +---ada
+    ¦   ¦               ¦   +---asm686
+    ¦   ¦               ¦   +---blast
+    ¦   ¦               ¦   +---delphi
+    ¦   ¦               ¦   +---dotzlib
+    ¦   ¦               ¦   +---infback9
+    ¦   ¦               ¦   +---inflate86
+    ¦   ¦               ¦   +---iostream
+    ¦   ¦               ¦   +---iostream2
+    ¦   ¦               ¦   +---iostream3
+    ¦   ¦               ¦   +---masmx64
+    ¦   ¦               ¦   +---masmx86
+    ¦   ¦               ¦   +---minizip
+    ¦   ¦               ¦   +---pascal
+    ¦   ¦               ¦   +---puff
+    ¦   ¦               ¦   +---testzlib
+    ¦   ¦               ¦   +---untgz
+    ¦   ¦               ¦   +---vstudio
+    ¦   ¦               +---examples
+    ¦   ¦               +---nintendods
+    ¦   ¦               +---old
+    ¦   ¦               +---test
+    ¦   +---ext
+    ¦   +---node_modules
+    ¦   ¦   +---.bin
+    ¦   ¦   +---abbrev
+    ¦   ¦   +---ansi-regex
+    ¦   ¦   +---aproba
+    ¦   ¦   +---are-we-there-yet
+    ¦   ¦   +---balanced-match
+    ¦   ¦   +---brace-expansion
+    ¦   ¦   +---chownr
+    ¦   ¦   +---code-point-at
+    ¦   ¦   +---concat-map
+    ¦   ¦   ¦   +---example
+    ¦   ¦   ¦   +---test
+    ¦   ¦   +---console-control-strings
+    ¦   ¦   +---core-util-is
+    ¦   ¦   ¦   +---lib
+    ¦   ¦   +---debug
+    ¦   ¦   ¦   +---dist
+    ¦   ¦   ¦   +---src
+    ¦   ¦   +---deep-extend
+    ¦   ¦   ¦   +---lib
+    ¦   ¦   +---delegates
+    ¦   ¦   ¦   +---test
+    ¦   ¦   +---detect-libc
+    ¦   ¦   ¦   +---bin
+    ¦   ¦   ¦   +---lib
+    ¦   ¦   +---fs-minipass
+    ¦   ¦   +---fs.realpath
+    ¦   ¦   +---gauge
+    ¦   ¦   +---glob
+    ¦   ¦   +---has-unicode
+    ¦   ¦   +---iconv-lite
+    ¦   ¦   ¦   +---encodings
+    ¦   ¦   ¦   ¦   +---tables
+    ¦   ¦   ¦   +---lib
+    ¦   ¦   +---ignore-walk
+    ¦   ¦   +---inflight
+    ¦   ¦   +---inherits
+    ¦   ¦   +---ini
+    ¦   ¦   +---is-fullwidth-code-point
+    ¦   ¦   +---isarray
+    ¦   ¦   +---minimatch
+    ¦   ¦   +---minimist
+    ¦   ¦   ¦   +---example
+    ¦   ¦   ¦   +---test
+    ¦   ¦   +---minipass
+    ¦   ¦   +---minizlib
+    ¦   ¦   +---mkdirp
+    ¦   ¦   ¦   +---bin
+    ¦   ¦   ¦   +---examples
+    ¦   ¦   ¦   +---node_modules
+    ¦   ¦   ¦   ¦   +---minimist
+    ¦   ¦   ¦   ¦       +---example
+    ¦   ¦   ¦   ¦       +---test
+    ¦   ¦   ¦   +---test
+    ¦   ¦   +---ms
+    ¦   ¦   +---needle
+    ¦   ¦   ¦   +---bin
+    ¦   ¦   ¦   +---examples
+    ¦   ¦   ¦   +---lib
+    ¦   ¦   ¦   +---test
+    ¦   ¦   ¦       +---utils
+    ¦   ¦   +---node-pre-gyp
+    ¦   ¦   ¦   +---bin
+    ¦   ¦   ¦   +---lib
+    ¦   ¦   ¦       +---util
+    ¦   ¦   ¦           +---nw-pre-gyp
+    ¦   ¦   +---nopt
+    ¦   ¦   ¦   +---bin
+    ¦   ¦   ¦   +---examples
+    ¦   ¦   ¦   +---lib
+    ¦   ¦   ¦   +---test
+    ¦   ¦   +---npm-bundled
+    ¦   ¦   +---npm-packlist
+    ¦   ¦   +---npmlog
+    ¦   ¦   +---number-is-nan
+    ¦   ¦   +---object-assign
+    ¦   ¦   +---once
+    ¦   ¦   +---os-homedir
+    ¦   ¦   +---os-tmpdir
+    ¦   ¦   +---osenv
+    ¦   ¦   +---path-is-absolute
+    ¦   ¦   +---process-nextick-args
+    ¦   ¦   +---protobufjs
+    ¦   ¦   ¦   +---bin
+    ¦   ¦   ¦   +---cli
+    ¦   ¦   ¦   ¦   +---pbjs
+    ¦   ¦   ¦   ¦       +---sources
+    ¦   ¦   ¦   ¦       +---targets
+    ¦   ¦   ¦   +---dist
+    ¦   ¦   ¦   +---docs
+    ¦   ¦   ¦   ¦   +---fonts
+    ¦   ¦   ¦   ¦   +---scripts
+    ¦   ¦   ¦   ¦   ¦   +---prettify
+    ¦   ¦   ¦   ¦   +---styles
+    ¦   ¦   ¦   +---examples
+    ¦   ¦   ¦   ¦   +---protoify
+    ¦   ¦   ¦   ¦   +---websocket
+    ¦   ¦   ¦   ¦       +---www
+    ¦   ¦   ¦   +---externs
+    ¦   ¦   ¦   +---scripts
+    ¦   ¦   ¦   +---src
+    ¦   ¦   ¦   ¦   +---google
+    ¦   ¦   ¦   ¦   ¦   +---protobuf
+    ¦   ¦   ¦   ¦   +---ProtoBuf
+    ¦   ¦   ¦   ¦       +---Builder
+    ¦   ¦   ¦   ¦       +---DotProto
+    ¦   ¦   ¦   ¦       +---Reflect
+    ¦   ¦   ¦   ¦           +---Enum
+    ¦   ¦   ¦   ¦           +---Message
+    ¦   ¦   ¦   ¦           +---Service
+    ¦   ¦   ¦   +---tests
+    ¦   ¦   ¦       +---dupimport
+    ¦   ¦   ¦       +---field_name_same_as_package
+    ¦   ¦   ¦       +---google
+    ¦   ¦   ¦       ¦   +---protobuf
+    ¦   ¦   ¦       +---importRoot
+    ¦   ¦   ¦       +---nodeunit-browser
+    ¦   ¦   ¦       +---proto2js
+    ¦   ¦   +---rc
+    ¦   ¦   ¦   +---lib
+    ¦   ¦   ¦   +---test
+    ¦   ¦   +---readable-stream
+    ¦   ¦   ¦   +---doc
+    ¦   ¦   ¦   ¦   +---wg-meetings
+    ¦   ¦   ¦   +---lib
+    ¦   ¦   ¦       +---internal
+    ¦   ¦   ¦           +---streams
+    ¦   ¦   +---rimraf
+    ¦   ¦   +---safe-buffer
+    ¦   ¦   +---safer-buffer
+    ¦   ¦   +---sax
+    ¦   ¦   ¦   +---lib
+    ¦   ¦   +---semver
+    ¦   ¦   ¦   +---bin
+    ¦   ¦   +---set-blocking
+    ¦   ¦   +---signal-exit
+    ¦   ¦   +---string-width
+    ¦   ¦   +---string_decoder
+    ¦   ¦   ¦   +---lib
+    ¦   ¦   +---strip-ansi
+    ¦   ¦   +---strip-json-comments
+    ¦   ¦   +---tar
+    ¦   ¦   ¦   +---lib
+    ¦   ¦   +---util-deprecate
+    ¦   ¦   +---wide-align
+    ¦   ¦   +---wrappy
+    ¦   ¦   +---yallist
+    ¦   +---src
+    ¦       +---node
+    ¦           +---extension_binary
+    ¦               +---node-v83-win32-x64-unknown
+    +---has
+    ¦   +---src
+    ¦   +---test
+    +---has-flag
+    +---has-symbols
+    ¦   +---.github
+    ¦   +---test
+    ¦       +---shams
+    +---has-value
+    +---has-values
+    ¦   +---node_modules
+    ¦       +---is-number
+    ¦       ¦   +---node_modules
+    ¦       ¦       +---kind-of
+    ¦       +---kind-of
+    +---hermes-engine
+    ¦   +---android
+    ¦   ¦   +---include
+    ¦   ¦       +---hermes
+    ¦   ¦       ¦   +---Public
+    ¦   ¦       ¦   +---synthtest
+    ¦   ¦       ¦       +---tests
+    ¦   ¦       +---jsi
+    ¦   ¦           +---test
+    ¦   +---linux64-bin
+    ¦   +---osx-bin
+    ¦   +---win64-bin
+    +---hermes-profile-transformer
+    ¦   +---dist
+    ¦   ¦   +---profiler
+    ¦   ¦   +---types
+    ¦   ¦   +---utils
+    ¦   +---node_modules
+    ¦   ¦   +---source-map
+    ¦   ¦       +---dist
+    ¦   ¦       +---lib
+    ¦   +---src
+    ¦       +---profiler
+    ¦       +---types
+    ¦       +---utils
+    ¦       +---__test__
+    +---hoist-non-react-statics
+    ¦   +---dist
+    ¦   +---node_modules
+    ¦   ¦   +---react-is
+    ¦   ¦       +---cjs
+    ¦   ¦       +---umd
+    ¦   +---src
+    +---http-errors
+    +---http-parser-js
+    +---hyphenate-style-name
+    +---iconv-lite
+    ¦   +---.github
+    ¦   +---.idea
+    ¦   ¦   +---codeStyles
+    ¦   ¦   +---inspectionProfiles
+    ¦   +---encodings
+    ¦   ¦   +---tables
+    ¦   +---lib
+    +---idb
+    ¦   +---build
+    ¦   +---lib
+    +---image-size
+    ¦   +---bin
+    ¦   +---lib
+    ¦       +---types
+    +---import-fresh
+    ¦   +---node_modules
+    ¦       +---resolve-from
+    +---imurmurhash
+    +---inflight
+    +---inherits
+    +---inline-style-prefixer
+    ¦   +---es
+    ¦   ¦   +---generator
+    ¦   ¦   ¦   +---maps
+    ¦   ¦   +---plugins
+    ¦   ¦   +---utils
+    ¦   +---lib
+    ¦       +---generator
+    ¦       ¦   +---maps
+    ¦       +---plugins
+    ¦       +---utils
+    +---interpret
+    +---invariant
+    +---invert-kv
+    +---ip
+    ¦   +---lib
+    ¦   +---test
+    +---is-accessor-descriptor
+    ¦   +---node_modules
+    ¦       +---kind-of
+    +---is-arrayish
+    +---is-binary-path
+    +---is-buffer
+    ¦   +---test
+    +---is-ci
+    +---is-core-module
+    ¦   +---test
+    +---is-data-descriptor
+    ¦   +---node_modules
+    ¦       +---kind-of
+    +---is-descriptor
+    ¦   +---node_modules
+    ¦       +---kind-of
+    +---is-directory
+    +---is-extendable
+    +---is-extglob
+    +---is-fullwidth-code-point
+    +---is-glob
+    +---is-number
+    +---is-plain-object
+    +---is-stream
+    +---is-windows
+    +---is-wsl
+    +---isarray
+    +---isexe
+    ¦   +---test
+    +---isobject
+    +---isomorphic-fetch
+    ¦   +---test
+    +---jest-get-type
+    ¦   +---build
+    +---jest-haste-map
+    ¦   +---build
+    ¦   ¦   +---crawlers
+    ¦   ¦   +---lib
+    ¦   +---node_modules
+    ¦       +---fsevents
+    +---jest-regex-util
+    ¦   +---build
+    +---jest-serializer
+    ¦   +---build
+    +---jest-util
+    ¦   +---build
+    +---jest-validate
+    ¦   +---build
+    ¦   +---node_modules
+    ¦       +---camelcase
+    +---jest-worker
+    ¦   +---build
+    ¦   ¦   +---base
+    ¦   ¦   +---workers
+    ¦   +---node_modules
+    ¦       +---has-flag
+    ¦       +---supports-color
+    +---jetifier
+    ¦   +---bin
+    ¦   +---lib
+    ¦   +---mapping
+    ¦   +---src
+    +---jimp-compact
+    ¦   +---dist
+    +---joi
+    ¦   +---dist
+    ¦   +---lib
+    ¦       +---types
+    +---js-tokens
+    +---js-yaml
+    ¦   +---bin
+    ¦   +---dist
+    ¦   +---lib
+    ¦       +---js-yaml
+    ¦           +---schema
+    ¦           +---type
+    ¦               +---js
+    +---jsc-android
+    ¦   +---dist
+    ¦       +---include
+    ¦       +---org
+    ¦           +---webkit
+    ¦               +---android-jsc
+    ¦               ¦   +---r245459
+    ¦               +---android-jsc-cppruntime
+    ¦               ¦   +---r245459
+    ¦               +---android-jsc-intl
+    ¦                   +---r245459
+    +---jscodeshift
+    ¦   +---bin
+    ¦   +---dist
+    ¦   ¦   +---collections
+    ¦   ¦   +---utils
+    ¦   +---node_modules
+    ¦   ¦   +---braces
+    ¦   ¦   ¦   +---lib
+    ¦   ¦   ¦   +---node_modules
+    ¦   ¦   ¦       +---extend-shallow
+    ¦   ¦   +---fill-range
+    ¦   ¦   ¦   +---node_modules
+    ¦   ¦   ¦       +---extend-shallow
+    ¦   ¦   +---is-number
+    ¦   ¦   ¦   +---node_modules
+    ¦   ¦   ¦       +---kind-of
+    ¦   ¦   +---micromatch
+    ¦   ¦   ¦   +---lib
+    ¦   ¦   +---to-regex-range
+    ¦   +---parser
+    ¦   +---src
+    ¦   ¦   +---collections
+    ¦   ¦   +---utils
+    ¦   +---utils
+    +---jsesc
+    ¦   +---bin
+    ¦   +---man
+    +---json-parse-better-errors
+    +---json5
+    ¦   +---dist
+    ¦   +---lib
+    +---jsonfile
+    ¦   +---node_modules
+    ¦       +---universalify
+    +---jsonify
+    ¦   +---lib
+    ¦   +---test
+    +---kind-of
+    +---klaw
+    ¦   +---src
+    +---kleur
+    +---lcid
+    +---leven
+    +---lines-and-columns
+    ¦   +---build
+    +---locate-path
+    +---lodash
+    ¦   +---fp
+    +---lodash.camelcase
+    +---lodash.clone
+    +---lodash.debounce
+    +---lodash.frompairs
+    +---lodash.isequal
+    +---lodash.isstring
+    +---lodash.omit
+    +---lodash.pick
+    +---lodash.template
+    +---lodash.templatesettings
+    +---lodash.throttle
+    +---lodash._reinterpolate
+    +---log-symbols
+    ¦   +---node_modules
+    ¦       +---chalk
+    ¦       ¦   +---types
+    ¦       +---escape-string-regexp
+    ¦       +---supports-color
+    +---logkitty
+    ¦   +---bin
+    ¦   +---build
+    ¦   ¦   +---android
+    ¦   ¦   +---ios
+    ¦   +---docs
+    ¦   +---node_modules
+    ¦       +---ansi-styles
+    ¦       +---cliui
+    ¦       +---color-convert
+    ¦       +---color-name
+    ¦       +---find-up
+    ¦       +---is-fullwidth-code-point
+    ¦       +---locate-path
+    ¦       +---p-limit
+    ¦       +---p-locate
+    ¦       +---string-width
+    ¦       +---strip-ansi
+    ¦       +---wrap-ansi
+    ¦       +---y18n
+    ¦       +---yargs
+    ¦           +---build
+    ¦           ¦   +---lib
+    ¦           +---locales
+    +---long
+    ¦   +---dist
+    ¦   +---src
+    +---loose-envify
+    +---lru-cache
+    +---make-dir
+    ¦   +---node_modules
+    ¦       +---.bin
+    ¦       +---semver
+    ¦           +---bin
+    +---makeerror
+    ¦   +---lib
+    +---map-cache
+    +---map-visit
+    +---md5-file
+    +---memoize-one
+    ¦   +---dist
+    ¦   +---src
+    +---merge-stream
+    +---merge2
+    +---metro
+    ¦   +---node_modules
+    ¦   ¦   +---.bin
+    ¦   ¦   +---ansi-styles
+    ¦   ¦   +---cliui
+    ¦   ¦   +---color-convert
+    ¦   ¦   +---color-name
+    ¦   ¦   +---debug
+    ¦   ¦   ¦   +---src
+    ¦   ¦   +---find-up
+    ¦   ¦   +---fs-extra
+    ¦   ¦   ¦   +---lib
+    ¦   ¦   ¦       +---copy
+    ¦   ¦   ¦       +---copy-sync
+    ¦   ¦   ¦       +---empty
+    ¦   ¦   ¦       +---ensure
+    ¦   ¦   ¦       +---json
+    ¦   ¦   ¦       +---mkdirs
+    ¦   ¦   ¦       +---move
+    ¦   ¦   ¦       +---output
+    ¦   ¦   ¦       +---remove
+    ¦   ¦   ¦       +---util
+    ¦   ¦   ¦       +---walk
+    ¦   ¦   ¦       +---walk-sync
+    ¦   ¦   +---is-fullwidth-code-point
+    ¦   ¦   +---jsonfile
+    ¦   ¦   +---locate-path
+    ¦   ¦   +---metro-babel-transformer
+    ¦   ¦   ¦   +---src
+    ¦   ¦   +---metro-react-native-babel-preset
+    ¦   ¦   ¦   +---src
+    ¦   ¦   ¦       +---configs
+    ¦   ¦   +---metro-source-map
+    ¦   ¦   ¦   +---src
+    ¦   ¦   ¦       +---Consumer
+    ¦   ¦   +---metro-symbolicate
+    ¦   ¦   ¦   +---src
+    ¦   ¦   ¦   +---src.real
+    ¦   ¦   +---ms
+    ¦   ¦   +---node-fetch
+    ¦   ¦   ¦   +---lib
+    ¦   ¦   +---ob1
+    ¦   ¦   ¦   +---src
+    ¦   ¦   ¦       +---__flowtests__
+    ¦   ¦   +---p-limit
+    ¦   ¦   +---p-locate
+    ¦   ¦   +---string-width
+    ¦   ¦   +---strip-ansi
+    ¦   ¦   +---wrap-ansi
+    ¦   ¦   +---ws
+    ¦   ¦   ¦   +---lib
+    ¦   ¦   +---y18n
+    ¦   ¦   +---yargs
+    ¦   ¦       +---build
+    ¦   ¦       ¦   +---lib
+    ¦   ¦       +---locales
+    ¦   +---src
+    ¦       +---Bundler
+    ¦       +---commands
+    ¦       +---DeltaBundler
+    ¦       ¦   +---Serializers
+    ¦       ¦   ¦   +---helpers
+    ¦       ¦   +---__fixtures__
+    ¦       +---IncrementalBundler
+    ¦       +---integration_tests
+    ¦       ¦   +---basic_bundle
+    ¦       ¦       +---import-export
+    ¦       +---lib
+    ¦       +---ModuleGraph
+    ¦       ¦   +---node-haste
+    ¦       ¦   +---output
+    ¦       ¦   +---worker
+    ¦       +---node-haste
+    ¦       ¦   +---DependencyGraph
+    ¦       ¦   ¦   +---assets
+    ¦       ¦   +---lib
+    ¦       +---Server
+    ¦       +---shared
+    ¦           +---output
+    ¦               +---RamBundle
+    +---metro-babel-register
+    ¦   +---node_modules
+    ¦   ¦   +---escape-string-regexp
+    ¦   +---src
+    +---metro-babel-transformer
+    ¦   +---src
+    +---metro-cache
+    ¦   +---src
+    ¦       +---stores
+    +---metro-cache-key
+    ¦   +---src
+    ¦   +---src.real
+    +---metro-config
+    ¦   +---src
+    ¦       +---defaults
+    +---metro-core
+    ¦   +---src
+    ¦       +---errors
+    +---metro-hermes-compiler
+    ¦   +---src
+    +---metro-inspector-proxy
+    ¦   +---node_modules
+    ¦   ¦   +---ansi-styles
+    ¦   ¦   +---cliui
+    ¦   ¦   +---color-convert
+    ¦   ¦   +---color-name
+    ¦   ¦   +---debug
+    ¦   ¦   ¦   +---src
+    ¦   ¦   +---find-up
+    ¦   ¦   +---is-fullwidth-code-point
+    ¦   ¦   +---locate-path
+    ¦   ¦   +---ms
+    ¦   ¦   +---p-limit
+    ¦   ¦   +---p-locate
+    ¦   ¦   +---string-width
+    ¦   ¦   +---strip-ansi
+    ¦   ¦   +---wrap-ansi
+    ¦   ¦   +---ws
+    ¦   ¦   ¦   +---lib
+    ¦   ¦   +---y18n
+    ¦   ¦   +---yargs
+    ¦   ¦       +---build
+    ¦   ¦       ¦   +---lib
+    ¦   ¦       +---locales
+    ¦   +---src
+    +---metro-minify-uglify
+    ¦   +---src
+    +---metro-react-native-babel-preset
+    ¦   +---src
+    ¦       +---configs
+    +---metro-react-native-babel-transformer
+    ¦   +---src
+    +---metro-resolver
+    ¦   +---src
+    +---metro-runtime
+    ¦   +---src
+    ¦       +---modules
+    ¦       ¦   +---vendor
+    ¦       +---polyfills
+    +---metro-source-map
+    ¦   +---src
+    ¦       +---Consumer
+    +---metro-symbolicate
+    ¦   +---src
+    ¦   +---src.real
+    ¦       +---__tests__
+    ¦           +---__fixtures__
+    ¦           ¦   +---directory
+    ¦           ¦       +---subdir1
+    ¦           +---__snapshots__
+    +---metro-transform-plugins
+    ¦   +---src
+    ¦       +---utils
+    +---metro-transform-worker
+    ¦   +---node_modules
+    ¦   ¦   +---.bin
+    ¦   ¦   +---metro-babel-transformer
+    ¦   ¦   ¦   +---src
+    ¦   ¦   +---metro-source-map
+    ¦   ¦   ¦   +---src
+    ¦   ¦   ¦       +---Consumer
+    ¦   ¦   +---metro-symbolicate
+    ¦   ¦   ¦   +---src
+    ¦   ¦   ¦   +---src.real
+    ¦   ¦   +---ob1
+    ¦   ¦       +---src
+    ¦   ¦           +---__flowtests__
+    ¦   +---src
+    ¦   ¦   +---utils
+    ¦   ¦   +---__mocks__
+    ¦   +---src.real
+    ¦       +---utils
+    ¦       +---__mocks__
+    +---micromatch
+    +---mime
+    ¦   +---types
+    +---mime-db
+    +---mime-types
+    +---mimic-fn
+    +---minimatch
+    +---minimist
+    ¦   +---example
+    ¦   +---test
+    +---mixin-deep
+    ¦   +---node_modules
+    ¦       +---is-extendable
+    +---mkdirp
+    ¦   +---bin
+    +---mockdate
+    ¦   +---lib
+    ¦   +---src
+    ¦   +---test
+    +---ms
+    +---mz
+    +---nan
+    ¦   +---doc
+    ¦   +---tools
+    +---nanoid
+    ¦   +---async
+    ¦   +---bin
+    ¦   +---non-secure
+    ¦   +---url-alphabet
+    +---nanomatch
+    ¦   +---lib
+    +---negotiator
+    ¦   +---lib
+    +---neo-async
+    +---nice-try
+    ¦   +---src
+    +---nocache
+    ¦   +---dist
+    +---node-dir
+    ¦   +---lib
+    +---node-fetch
+    ¦   +---lib
+    ¦   +---test
+    +---node-int64
+    +---node-releases
+    ¦   +---data
+    ¦       +---processed
+    ¦       +---release-schedule
+    +---node-stream-zip
+    +---normalize-css-color
+    +---normalize-path
+    +---npm-run-path
+    +---nullthrows
+    +---number-is-nan
+    +---ob1
+    ¦   +---src
+    ¦       +---__flowtests__
+    +---object-assign
+    +---object-copy
+    ¦   +---node_modules
+    ¦       +---define-property
+    ¦       +---kind-of
+    +---object-keys
+    ¦   +---test
+    +---object-visit
+    +---object.assign
+    ¦   +---.github
+    ¦   ¦   +---workflows
+    ¦   +---dist
+    ¦   +---test
+    +---object.pick
+    +---on-finished
+    +---on-headers
+    +---once
+    +---onchange
+    ¦   +---node_modules
+    ¦   ¦   +---supports-color
+    ¦   +---test
+    ¦       +---scripts
+    ¦       +---__test__
+    +---onetime
+    +---open
+    +---opencollective-postinstall
+    +---options
+    ¦   +---lib
+    +---optjs
+    +---ora
+    ¦   +---node_modules
+    ¦       +---ansi-regex
+    ¦       +---chalk
+    ¦       ¦   +---types
+    ¦       +---escape-string-regexp
+    ¦       +---strip-ansi
+    ¦       +---supports-color
+    +---os-locale
+    +---os-tmpdir
+    +---p-finally
+    +---p-limit
+    +---p-locate
+    +---p-try
+    +---parse-json
+    +---parse-png
+    ¦   +---node_modules
+    ¦       +---pngjs
+    ¦           +---lib
+    +---parseurl
+    +---pascalcase
+    +---path-browserify
+    ¦   +---.github
+    ¦   +---test
+    +---path-dirname
+    +---path-exists
+    +---path-is-absolute
+    +---path-key
+    +---path-parse
+    +---path-to-regexp
+    ¦   +---node_modules
+    ¦       +---isarray
+    ¦           +---build
+    +---picocolors
+    +---picomatch
+    ¦   +---lib
+    +---pify
+    +---pirates
+    ¦   +---lib
+    +---pkg-dir
+    ¦   +---node_modules
+    ¦       +---find-up
+    ¦       +---locate-path
+    ¦       +---p-limit
+    ¦       +---p-locate
+    ¦       +---path-exists
+    +---pkg-up
+    ¦   +---node_modules
+    ¦       +---find-up
+    ¦       +---locate-path
+    ¦       +---p-limit
+    ¦       +---p-locate
+    ¦       +---path-exists
+    +---plist
+    ¦   +---dist
+    ¦   +---examples
+    ¦   ¦   +---browser
+    ¦   +---lib
+    ¦   ¦   +---xmldom
+    ¦   +---node_modules
+    ¦       +---xmlbuilder
+    ¦           +---lib
+    +---pngjs
+    ¦   +---coverage
+    ¦   ¦   +---lcov-report
+    ¦   +---lib
+    +---posix-character-classes
+    +---postcss-value-parser
+    ¦   +---lib
+    +---prettier
+    +---prettier-linter-helpers
+    ¦   +---.github
+    ¦   +---.vscode
+    ¦   +---test
+    +---pretty-format
+    ¦   +---build
+    ¦   ¦   +---plugins
+    ¦   ¦       +---lib
+    ¦   +---node_modules
+    ¦       +---ansi-styles
+    ¦       +---color-convert
+    ¦       +---color-name
+    +---process-nextick-args
+    +---promise
+    ¦   +---domains
+    ¦   +---lib
+    ¦   +---setimmediate
+    ¦   +---src
+    +---promise-polyfill
+    ¦   +---dist
+    ¦   +---lib
+    ¦   +---src
+    +---prompts
+    ¦   +---dist
+    ¦   ¦   +---dateparts
+    ¦   ¦   +---elements
+    ¦   ¦   +---util
+    ¦   +---lib
+    ¦       +---dateparts
+    ¦       +---elements
+    ¦       +---util
+    +---prop-types
+    ¦   +---lib
+    ¦   +---node_modules
+    ¦       +---react-is
+    ¦           +---cjs
+    ¦           +---umd
+    +---protobufjs
+    ¦   +---bin
+    ¦   +---cli
+    ¦   ¦   +---bin
+    ¦   ¦   +---lib
+    ¦   ¦   ¦   +---tsd-jsdoc
+    ¦   ¦   +---node_modules
+    ¦   ¦   ¦   +---acorn
+    ¦   ¦   ¦   ¦   +---bin
+    ¦   ¦   ¦   ¦   +---dist
+    ¦   ¦   ¦   +---acorn-jsx
+    ¦   ¦   ¦   +---balanced-match
+    ¦   ¦   ¦   +---brace-expansion
+    ¦   ¦   ¦   +---concat-map
+    ¦   ¦   ¦   ¦   +---example
+    ¦   ¦   ¦   ¦   +---test
+    ¦   ¦   ¦   +---deep-is
+    ¦   ¦   ¦   ¦   +---example
+    ¦   ¦   ¦   ¦   +---test
+    ¦   ¦   ¦   +---escodegen
+    ¦   ¦   ¦   ¦   +---bin
+    ¦   ¦   ¦   +---eslint-visitor-keys
+    ¦   ¦   ¦   ¦   +---lib
+    ¦   ¦   ¦   +---espree
+    ¦   ¦   ¦   ¦   +---lib
+    ¦   ¦   ¦   +---esprima
+    ¦   ¦   ¦   ¦   +---bin
+    ¦   ¦   ¦   ¦   +---dist
+    ¦   ¦   ¦   +---estraverse
+    ¦   ¦   ¦   +---esutils
+    ¦   ¦   ¦   ¦   +---lib
+    ¦   ¦   ¦   +---fast-levenshtein
+    ¦   ¦   ¦   +---fs.realpath
+    ¦   ¦   ¦   +---glob
+    ¦   ¦   ¦   +---inflight
+    ¦   ¦   ¦   +---inherits
+    ¦   ¦   ¦   +---levn
+    ¦   ¦   ¦   ¦   +---lib
+    ¦   ¦   ¦   +---minimatch
+    ¦   ¦   ¦   +---once
+    ¦   ¦   ¦   +---optionator
+    ¦   ¦   ¦   ¦   +---lib
+    ¦   ¦   ¦   +---path-is-absolute
+    ¦   ¦   ¦   +---prelude-ls
+    ¦   ¦   ¦   ¦   +---lib
+    ¦   ¦   ¦   +---rimraf
+    ¦   ¦   ¦   +---source-map
+    ¦   ¦   ¦   ¦   +---dist
+    ¦   ¦   ¦   ¦   +---lib
+    ¦   ¦   ¦   +---tmp
+    ¦   ¦   ¦   ¦   +---lib
+    ¦   ¦   ¦   +---type-check
+    ¦   ¦   ¦   ¦   +---lib
+    ¦   ¦   ¦   +---word-wrap
+    ¦   ¦   ¦   +---wrappy
+    ¦   ¦   +---targets
+    ¦   ¦   +---wrappers
+    ¦   +---dist
+    ¦   ¦   +---light
+    ¦   ¦   +---minimal
+    ¦   +---ext
+    ¦   ¦   +---debug
+    ¦   ¦   +---descriptor
+    ¦   +---google
+    ¦   ¦   +---api
+    ¦   ¦   +---protobuf
+    ¦   +---scripts
+    ¦   +---src
+    ¦       +---rpc
+    ¦       +---util
+    +---pump
+    +---query-string
+    +---querystringify
+    +---queue-microtask
+    +---random-id
+    +---range-parser
+    +---react
+    ¦   +---cjs
+    ¦   +---umd
+    +---react-devtools-core
+    ¦   +---dist
+    ¦   +---node_modules
+    ¦       +---ws
+    ¦           +---lib
+    +---react-dom
+    ¦   +---cjs
+    ¦   +---umd
+    +---react-google-charts
+    ¦   +---dist
+    ¦       +---components
+    +---react-is
+    ¦   +---cjs
+    ¦   +---umd
+    +---react-load-script
+    ¦   +---lib
+    +---react-native
+    ¦   +---android
+    ¦   ¦   +---com
+    ¦   ¦       +---facebook
+    ¦   ¦           +---react
+    ¦   ¦               +---react-native
+    ¦   ¦                   +---0.64.3
+    ¦   +---flow
+    ¦   +---flow-typed
+    ¦   ¦   +---npm
+    ¦   +---jest
+    ¦   +---Libraries
+    ¦   ¦   +---ActionSheetIOS
+    ¦   ¦   +---Alert
+    ¦   ¦   +---Animated
+    ¦   ¦   ¦   +---animations
+    ¦   ¦   ¦   +---components
+    ¦   ¦   ¦   +---nodes
+    ¦   ¦   +---AppState
+    ¦   ¦   +---BatchedBridge
+    ¦   ¦   ¦   +---__mocks__
+    ¦   ¦   +---Blob
+    ¦   ¦   ¦   +---__mocks__
+    ¦   ¦   +---BugReporting
+    ¦   ¦   +---Components
+    ¦   ¦   ¦   +---AccessibilityInfo
+    ¦   ¦   ¦   +---ActivityIndicator
+    ¦   ¦   ¦   +---Clipboard
+    ¦   ¦   ¦   +---DatePicker
+    ¦   ¦   ¦   +---DatePickerAndroid
+    ¦   ¦   ¦   +---DrawerAndroid
+    ¦   ¦   ¦   +---Keyboard
+    ¦   ¦   ¦   +---MaskedView
+    ¦   ¦   ¦   +---Picker
+    ¦   ¦   ¦   +---Pressable
+    ¦   ¦   ¦   +---ProgressBarAndroid
+    ¦   ¦   ¦   +---ProgressViewIOS
+    ¦   ¦   ¦   +---RefreshControl
+    ¦   ¦   ¦   ¦   +---__mocks__
+    ¦   ¦   ¦   +---SafeAreaView
+    ¦   ¦   ¦   +---ScrollView
+    ¦   ¦   ¦   +---SegmentedControlIOS
+    ¦   ¦   ¦   +---Slider
+    ¦   ¦   ¦   +---Sound
+    ¦   ¦   ¦   +---StatusBar
+    ¦   ¦   ¦   +---Switch
+    ¦   ¦   ¦   +---TextInput
+    ¦   ¦   ¦   +---ToastAndroid
+    ¦   ¦   ¦   +---Touchable
+    ¦   ¦   ¦   ¦   +---__mocks__
+    ¦   ¦   ¦   +---UnimplementedViews
+    ¦   ¦   ¦   +---View
+    ¦   ¦   +---Core
+    ¦   ¦   ¦   +---Devtools
+    ¦   ¦   ¦   +---SegmentFetcher
+    ¦   ¦   ¦   +---Timers
+    ¦   ¦   ¦   +---__mocks__
+    ¦   ¦   +---DeprecatedPropTypes
+    ¦   ¦   +---EventEmitter
+    ¦   ¦   ¦   +---__mocks__
+    ¦   ¦   +---FBLazyVector
+    ¦   ¦   ¦   +---FBLazyVector
+    ¦   ¦   +---HeapCapture
+    ¦   ¦   +---Image
+    ¦   ¦   +---Inspector
+    ¦   ¦   +---Interaction
+    ¦   ¦   +---JSInspector
+    ¦   ¦   +---LayoutAnimation
+    ¦   ¦   +---Linking
+    ¦   ¦   +---LinkingIOS
+    ¦   ¦   +---Lists
+    ¦   ¦   ¦   +---__flowtests__
+    ¦   ¦   +---LogBox
+    ¦   ¦   ¦   +---Data
+    ¦   ¦   ¦   +---UI
+    ¦   ¦   ¦       +---LogBoxImages
+    ¦   ¦   +---Modal
+    ¦   ¦   +---NativeAnimation
+    ¦   ¦   ¦   +---Drivers
+    ¦   ¦   ¦   +---Nodes
+    ¦   ¦   +---NativeModules
+    ¦   ¦   ¦   +---specs
+    ¦   ¦   +---Network
+    ¦   ¦   +---NewAppScreen
+    ¦   ¦   ¦   +---components
+    ¦   ¦   +---Performance
+    ¦   ¦   +---PermissionsAndroid
+    ¦   ¦   +---Pressability
+    ¦   ¦   +---PushNotificationIOS
+    ¦   ¦   +---RCTRequired
+    ¦   ¦   ¦   +---RCTRequired
+    ¦   ¦   +---ReactNative
+    ¦   ¦   +---ReactPrivate
+    ¦   ¦   +---Reliability
+    ¦   ¦   +---Renderer
+    ¦   ¦   ¦   +---implementations
+    ¦   ¦   ¦   +---shims
+    ¦   ¦   +---Settings
+    ¦   ¦   +---Share
+    ¦   ¦   +---Storage
+    ¦   ¦   +---StyleSheet
+    ¦   ¦   ¦   +---__flowtests__
+    ¦   ¦   +---SurfaceBackedComponent
+    ¦   ¦   +---SurfaceHostingComponent
+    ¦   ¦   +---Text
+    ¦   ¦   ¦   +---BaseText
+    ¦   ¦   ¦   +---RawText
+    ¦   ¦   ¦   +---Text
+    ¦   ¦   ¦   +---TextInput
+    ¦   ¦   ¦   ¦   +---Multiline
+    ¦   ¦   ¦   ¦   +---Singleline
+    ¦   ¦   ¦   +---VirtualText
+    ¦   ¦   +---TurboModule
+    ¦   ¦   ¦   +---samples
+    ¦   ¦   +---Types
+    ¦   ¦   +---TypeSafety
+    ¦   ¦   +---Utilities
+    ¦   ¦   ¦   +---differ
+    ¦   ¦   ¦   +---__mocks__
+    ¦   ¦   +---vendor
+    ¦   ¦   ¦   +---core
+    ¦   ¦   ¦   +---emitter
+    ¦   ¦   +---Vibration
+    ¦   ¦   +---WebSocket
+    ¦   ¦   ¦   +---__mocks__
+    ¦   ¦   +---Wrapper
+    ¦   ¦   ¦   +---Example
+    ¦   ¦   +---YellowBox
+    ¦   ¦   +---__flowtests__
+    ¦   +---local-cli
+    ¦   +---node_modules
+    ¦   ¦   +---.bin
+    ¦   ¦   +---@react-native
+    ¦   ¦   ¦   +---normalize-color
+    ¦   ¦   +---@react-native-community
+    ¦   ¦   ¦   +---cli
+    ¦   ¦   ¦       +---build
+    ¦   ¦   ¦           +---commands
+    ¦   ¦   ¦           ¦   +---bundle
+    ¦   ¦   ¦           ¦   +---config
+    ¦   ¦   ¦           ¦   +---doctor
+    ¦   ¦   ¦           ¦   ¦   +---healthchecks
+    ¦   ¦   ¦           ¦   +---info
+    ¦   ¦   ¦           ¦   +---init
+    ¦   ¦   ¦           ¦   ¦   +---errors
+    ¦   ¦   ¦           ¦   +---install
+    ¦   ¦   ¦           ¦   +---link
+    ¦   ¦   ¦           ¦   +---start
+    ¦   ¦   ¦           ¦   +---upgrade
+    ¦   ¦   ¦           +---tools
+    ¦   ¦   ¦               +---config
+    ¦   ¦   ¦               ¦   +---__mocks__
+    ¦   ¦   ¦               +---generator
+    ¦   ¦   ¦               +---releaseChecker
+    ¦   ¦   ¦               +---windows
+    ¦   ¦   +---ansi-regex
+    ¦   ¦   +---ansi-styles
+    ¦   ¦   +---chalk
+    ¦   ¦   ¦   +---source
+    ¦   ¦   +---color-convert
+    ¦   ¦   +---color-name
+    ¦   ¦   +---commander
+    ¦   ¦   ¦   +---typings
+    ¦   ¦   +---find-up
+    ¦   ¦   +---fs-extra
+    ¦   ¦   ¦   +---lib
+    ¦   ¦   ¦       +---copy
+    ¦   ¦   ¦       +---copy-sync
+    ¦   ¦   ¦       +---empty
+    ¦   ¦   ¦       +---ensure
+    ¦   ¦   ¦       +---fs
+    ¦   ¦   ¦       +---json
+    ¦   ¦   ¦       +---mkdirs
+    ¦   ¦   ¦       +---move
+    ¦   ¦   ¦       +---move-sync
+    ¦   ¦   ¦       +---output
+    ¦   ¦   ¦       +---path-exists
+    ¦   ¦   ¦       +---remove
+    ¦   ¦   ¦       +---util
+    ¦   ¦   +---has-flag
+    ¦   ¦   +---jsonfile
+    ¦   ¦   +---locate-path
+    ¦   ¦   +---metro-babel-transformer
+    ¦   ¦   ¦   +---src
+    ¦   ¦   +---metro-react-native-babel-preset
+    ¦   ¦   ¦   +---src
+    ¦   ¦   ¦       +---configs
+    ¦   ¦   +---metro-react-native-babel-transformer
+    ¦   ¦   ¦   +---src
+    ¦   ¦   +---metro-source-map
+    ¦   ¦   ¦   +---src
+    ¦   ¦   ¦       +---Consumer
+    ¦   ¦   +---metro-symbolicate
+    ¦   ¦   ¦   +---src
+    ¦   ¦   ¦   +---src.real
+    ¦   ¦   +---ob1
+    ¦   ¦   ¦   +---src
+    ¦   ¦   ¦       +---__flowtests__
+    ¦   ¦   +---p-limit
+    ¦   ¦   +---p-locate
+    ¦   ¦   +---promise
+    ¦   ¦   ¦   +---.github
+    ¦   ¦   ¦   +---domains
+    ¦   ¦   ¦   +---lib
+    ¦   ¦   ¦   +---setimmediate
+    ¦   ¦   ¦   +---src
+    ¦   ¦   +---semver
+    ¦   ¦   ¦   +---bin
+    ¦   ¦   +---strip-ansi
+    ¦   ¦   +---supports-color
+    ¦   ¦   +---universalify
+    ¦   +---React
+    ¦   ¦   +---AccessibilityResources
+    ¦   ¦   ¦   +---en.lproj
+    ¦   ¦   +---Base
+    ¦   ¦   ¦   +---Surface
+    ¦   ¦   ¦       +---SurfaceHostingView
+    ¦   ¦   +---CoreModules
+    ¦   ¦   +---CxxBridge
+    ¦   ¦   +---CxxModule
+    ¦   ¦   +---CxxUtils
+    ¦   ¦   +---DevSupport
+    ¦   ¦   +---Fabric
+    ¦   ¦   ¦   +---Mounting
+    ¦   ¦   ¦   ¦   +---ComponentViews
+    ¦   ¦   ¦   ¦       +---ActivityIndicator
+    ¦   ¦   ¦   ¦       +---Image
+    ¦   ¦   ¦   ¦       +---InputAccessory
+    ¦   ¦   ¦   ¦       +---LegacyViewManagerInterop
+    ¦   ¦   ¦   ¦       +---Modal
+    ¦   ¦   ¦   ¦       +---Picker
+    ¦   ¦   ¦   ¦       +---Root
+    ¦   ¦   ¦   ¦       +---SafeAreaView
+    ¦   ¦   ¦   ¦       +---ScrollView
+    ¦   ¦   ¦   ¦       +---Slider
+    ¦   ¦   ¦   ¦       +---Switch
+    ¦   ¦   ¦   ¦       +---Text
+    ¦   ¦   ¦   ¦       +---TextInput
+    ¦   ¦   ¦   ¦       +---UnimplementedComponent
+    ¦   ¦   ¦   ¦       +---UnimplementedView
+    ¦   ¦   ¦   ¦       +---View
+    ¦   ¦   ¦   +---Surface
+    ¦   ¦   ¦   +---Utils
+    ¦   ¦   +---FBReactNativeSpec
+    ¦   ¦   ¦   +---FBReactNativeSpec
+    ¦   ¦   +---Inspector
+    ¦   ¦   +---Modules
+    ¦   ¦   +---Profiler
+    ¦   ¦   +---Tests
+    ¦   ¦   ¦   +---Mounting
+    ¦   ¦   ¦   +---Text
+    ¦   ¦   +---UIUtils
+    ¦   ¦   +---Views
+    ¦   ¦       +---RefreshControl
+    ¦   ¦       +---SafeAreaView
+    ¦   ¦       +---ScrollView
+    ¦   +---ReactAndroid
+    ¦   ¦   +---libs
+    ¦   ¦   +---src
+    ¦   ¦       +---androidTest
+    ¦   ¦       ¦   +---assets
+    ¦   ¦       ¦   +---buck-runner
+    ¦   ¦       ¦   +---java
+    ¦   ¦       ¦   ¦   +---com
+    ¦   ¦       ¦   ¦       +---facebook
+    ¦   ¦       ¦   ¦           +---react
+    ¦   ¦       ¦   ¦               +---bridge
+    ¦   ¦       ¦   ¦               +---testing
+    ¦   ¦       ¦   ¦               ¦   +---idledetection
+    ¦   ¦       ¦   ¦               ¦   +---network
+    ¦   ¦       ¦   ¦               ¦   +---rule
+    ¦   ¦       ¦   ¦               +---tests
+    ¦   ¦       ¦   ¦                   +---core
+    ¦   ¦       ¦   +---js
+    ¦   ¦       +---main
+    ¦   ¦       ¦   +---java
+    ¦   ¦       ¦   ¦   +---com
+    ¦   ¦       ¦   ¦       +---facebook
+    ¦   ¦       ¦   ¦           +---debug
+    ¦   ¦       ¦   ¦           ¦   +---debugoverlay
+    ¦   ¦       ¦   ¦           ¦   ¦   +---model
+    ¦   ¦       ¦   ¦           ¦   +---holder
+    ¦   ¦       ¦   ¦           ¦   +---tags
+    ¦   ¦       ¦   ¦           +---hermes
+    ¦   ¦       ¦   ¦           ¦   +---instrumentation
+    ¦   ¦       ¦   ¦           ¦   +---reactexecutor
+    ¦   ¦       ¦   ¦           ¦   +---unicode
+    ¦   ¦       ¦   ¦           +---perftest
+    ¦   ¦       ¦   ¦           +---proguard
+    ¦   ¦       ¦   ¦           ¦   +---annotations
+    ¦   ¦       ¦   ¦           +---react
+    ¦   ¦       ¦   ¦           ¦   +---animated
+    ¦   ¦       ¦   ¦           ¦   +---bridge
+    ¦   ¦       ¦   ¦           ¦   ¦   +---queue
+    ¦   ¦       ¦   ¦           ¦   +---common
+    ¦   ¦       ¦   ¦           ¦   ¦   +---annotations
+    ¦   ¦       ¦   ¦           ¦   ¦   +---build
+    ¦   ¦       ¦   ¦           ¦   ¦   +---futures
+    ¦   ¦       ¦   ¦           ¦   ¦   +---network
+    ¦   ¦       ¦   ¦           ¦   +---config
+    ¦   ¦       ¦   ¦           ¦   +---devsupport
+    ¦   ¦       ¦   ¦           ¦   ¦   +---interfaces
+    ¦   ¦       ¦   ¦           ¦   +---fabric
+    ¦   ¦       ¦   ¦           ¦   ¦   +---events
+    ¦   ¦       ¦   ¦           ¦   ¦   +---jni
+    ¦   ¦       ¦   ¦           ¦   ¦   +---mounting
+    ¦   ¦       ¦   ¦           ¦   ¦       +---mountitems
+    ¦   ¦       ¦   ¦           ¦   +---jscexecutor
+    ¦   ¦       ¦   ¦           ¦   +---jstasks
+    ¦   ¦       ¦   ¦           ¦   +---module
+    ¦   ¦       ¦   ¦           ¦   ¦   +---annotations
+    ¦   ¦       ¦   ¦           ¦   ¦   +---model
+    ¦   ¦       ¦   ¦           ¦   ¦   +---processing
+    ¦   ¦       ¦   ¦           ¦   +---modules
+    ¦   ¦       ¦   ¦           ¦   ¦   +---accessibilityinfo
+    ¦   ¦       ¦   ¦           ¦   ¦   +---appearance
+    ¦   ¦       ¦   ¦           ¦   ¦   +---appregistry
+    ¦   ¦       ¦   ¦           ¦   ¦   +---appstate
+    ¦   ¦       ¦   ¦           ¦   ¦   +---blob
+    ¦   ¦       ¦   ¦           ¦   ¦   ¦   +---jni
+    ¦   ¦       ¦   ¦           ¦   ¦   +---bundleloader
+    ¦   ¦       ¦   ¦           ¦   ¦   +---camera
+    ¦   ¦       ¦   ¦           ¦   ¦   +---clipboard
+    ¦   ¦       ¦   ¦           ¦   ¦   +---common
+    ¦   ¦       ¦   ¦           ¦   ¦   +---core
+    ¦   ¦       ¦   ¦           ¦   ¦   +---datepicker
+    ¦   ¦       ¦   ¦           ¦   ¦   +---debug
+    ¦   ¦       ¦   ¦           ¦   ¦   ¦   +---interfaces
+    ¦   ¦       ¦   ¦           ¦   ¦   +---deviceinfo
+    ¦   ¦       ¦   ¦           ¦   ¦   +---dialog
+    ¦   ¦       ¦   ¦           ¦   ¦   +---fabric
+    ¦   ¦       ¦   ¦           ¦   ¦   +---fresco
+    ¦   ¦       ¦   ¦           ¦   ¦   +---i18nmanager
+    ¦   ¦       ¦   ¦           ¦   ¦   +---image
+    ¦   ¦       ¦   ¦           ¦   ¦   +---intent
+    ¦   ¦       ¦   ¦           ¦   ¦   +---network
+    ¦   ¦       ¦   ¦           ¦   ¦   +---permissions
+    ¦   ¦       ¦   ¦           ¦   ¦   +---share
+    ¦   ¦       ¦   ¦           ¦   ¦   +---sound
+    ¦   ¦       ¦   ¦           ¦   ¦   +---statusbar
+    ¦   ¦       ¦   ¦           ¦   ¦   +---storage
+    ¦   ¦       ¦   ¦           ¦   ¦   +---systeminfo
+    ¦   ¦       ¦   ¦           ¦   ¦   +---toast
+    ¦   ¦       ¦   ¦           ¦   ¦   +---vibration
+    ¦   ¦       ¦   ¦           ¦   ¦   +---websocket
+    ¦   ¦       ¦   ¦           ¦   +---packagerconnection
+    ¦   ¦       ¦   ¦           ¦   +---processing
+    ¦   ¦       ¦   ¦           ¦   +---reactperflogger
+    ¦   ¦       ¦   ¦           ¦   ¦   +---jni
+    ¦   ¦       ¦   ¦           ¦   ¦       +---reactperflogger
+    ¦   ¦       ¦   ¦           ¦   +---shell
+    ¦   ¦       ¦   ¦           ¦   +---surface
+    ¦   ¦       ¦   ¦           ¦   +---touch
+    ¦   ¦       ¦   ¦           ¦   +---turbomodule
+    ¦   ¦       ¦   ¦           ¦   ¦   +---core
+    ¦   ¦       ¦   ¦           ¦   ¦       +---interfaces
+    ¦   ¦       ¦   ¦           ¦   ¦       +---jni
+    ¦   ¦       ¦   ¦           ¦   ¦           +---ReactCommon
+    ¦   ¦       ¦   ¦           ¦   +---uimanager
+    ¦   ¦       ¦   ¦           ¦   ¦   +---annotations
+    ¦   ¦       ¦   ¦           ¦   ¦   +---common
+    ¦   ¦       ¦   ¦           ¦   ¦   +---debug
+    ¦   ¦       ¦   ¦           ¦   ¦   +---events
+    ¦   ¦       ¦   ¦           ¦   ¦   +---layoutanimation
+    ¦   ¦       ¦   ¦           ¦   ¦   +---util
+    ¦   ¦       ¦   ¦           ¦   +---util
+    ¦   ¦       ¦   ¦           ¦   +---viewmanagers
+    ¦   ¦       ¦   ¦           ¦   ¦   +---jni
+    ¦   ¦       ¦   ¦           ¦   ¦       +---react
+    ¦   ¦       ¦   ¦           ¦   ¦           +---renderer
+    ¦   ¦       ¦   ¦           ¦   ¦               +---components
+    ¦   ¦       ¦   ¦           ¦   ¦                   +---rncore
+    ¦   ¦       ¦   ¦           ¦   +---views
+    ¦   ¦       ¦   ¦           ¦       +---common
+    ¦   ¦       ¦   ¦           ¦       +---drawer
+    ¦   ¦       ¦   ¦           ¦       ¦   +---events
+    ¦   ¦       ¦   ¦           ¦       +---image
+    ¦   ¦       ¦   ¦           ¦       +---imagehelper
+    ¦   ¦       ¦   ¦           ¦       +---modal
+    ¦   ¦       ¦   ¦           ¦       +---picker
+    ¦   ¦       ¦   ¦           ¦       ¦   +---events
+    ¦   ¦       ¦   ¦           ¦       +---progressbar
+    ¦   ¦       ¦   ¦           ¦       +---scroll
+    ¦   ¦       ¦   ¦           ¦       +---slider
+    ¦   ¦       ¦   ¦           ¦       +---swiperefresh
+    ¦   ¦       ¦   ¦           ¦       +---switchview
+    ¦   ¦       ¦   ¦           ¦       +---text
+    ¦   ¦       ¦   ¦           ¦       ¦   +---frescosupport
+    ¦   ¦       ¦   ¦           ¦       +---textinput
+    ¦   ¦       ¦   ¦           ¦       +---unimplementedview
+    ¦   ¦       ¦   ¦           ¦       +---view
+    ¦   ¦       ¦   ¦           +---systrace
+    ¦   ¦       ¦   ¦           +---yoga
+    ¦   ¦       ¦   +---jni
+    ¦   ¦       ¦   ¦   +---first-party
+    ¦   ¦       ¦   ¦   ¦   +---fb
+    ¦   ¦       ¦   ¦   ¦   ¦   +---include
+    ¦   ¦       ¦   ¦   ¦   ¦       +---fb
+    ¦   ¦       ¦   ¦   ¦   +---fbgloginit
+    ¦   ¦       ¦   ¦   ¦   ¦   +---fb
+    ¦   ¦       ¦   ¦   ¦   +---fbjni
+    ¦   ¦       ¦   ¦   ¦   +---hermes
+    ¦   ¦       ¦   ¦   ¦   +---jni-hack
+    ¦   ¦       ¦   ¦   ¦   ¦   +---real
+    ¦   ¦       ¦   ¦   ¦   +---yogajni
+    ¦   ¦       ¦   ¦   ¦       +---jni
+    ¦   ¦       ¦   ¦   +---prebuilt
+    ¦   ¦       ¦   ¦   ¦   +---lib
+    ¦   ¦       ¦   ¦   +---react
+    ¦   ¦       ¦   ¦   ¦   +---jni
+    ¦   ¦       ¦   ¦   ¦   +---perftests
+    ¦   ¦       ¦   ¦   +---third-party
+    ¦   ¦       ¦   ¦       +---boost
+    ¦   ¦       ¦   ¦       +---double-conversion
+    ¦   ¦       ¦   ¦       +---folly
+    ¦   ¦       ¦   ¦       +---glibc
+    ¦   ¦       ¦   ¦       +---glog
+    ¦   ¦       ¦   ¦       +---jsc
+    ¦   ¦       ¦   +---libraries
+    ¦   ¦       ¦   ¦   +---fbcore
+    ¦   ¦       ¦   ¦   ¦   +---src
+    ¦   ¦       ¦   ¦   ¦       +---main
+    ¦   ¦       ¦   ¦   ¦           +---java
+    ¦   ¦       ¦   ¦   ¦               +---com
+    ¦   ¦       ¦   ¦   ¦                   +---facebook
+    ¦   ¦       ¦   ¦   ¦                       +---common
+    ¦   ¦       ¦   ¦   ¦                           +---logging
+    ¦   ¦       ¦   ¦   +---fbjni
+    ¦   ¦       ¦   ¦   +---fresco
+    ¦   ¦       ¦   ¦   ¦   +---fresco-react-native
+    ¦   ¦       ¦   ¦   +---soloader
+    ¦   ¦       ¦   ¦       +---java
+    ¦   ¦       ¦   ¦           +---com
+    ¦   ¦       ¦   ¦               +---facebook
+    ¦   ¦       ¦   ¦                   +---soloader
+    ¦   ¦       ¦   +---res
+    ¦   ¦       ¦   ¦   +---devsupport
+    ¦   ¦       ¦   ¦   ¦   +---anim
+    ¦   ¦       ¦   ¦   ¦   +---drawable
+    ¦   ¦       ¦   ¦   ¦   +---layout
+    ¦   ¦       ¦   ¦   ¦   +---values
+    ¦   ¦       ¦   ¦   ¦   +---values-af
+    ¦   ¦       ¦   ¦   ¦   +---values-ar
+    ¦   ¦       ¦   ¦   ¦   +---values-as
+    ¦   ¦       ¦   ¦   ¦   +---values-az
+    ¦   ¦       ¦   ¦   ¦   +---values-bg
+    ¦   ¦       ¦   ¦   ¦   +---values-bn
+    ¦   ¦       ¦   ¦   ¦   +---values-bs
+    ¦   ¦       ¦   ¦   ¦   +---values-ca
+    ¦   ¦       ¦   ¦   ¦   +---values-cb
+    ¦   ¦       ¦   ¦   ¦   +---values-cs
+    ¦   ¦       ¦   ¦   ¦   +---values-da
+    ¦   ¦       ¦   ¦   ¦   +---values-de
+    ¦   ¦       ¦   ¦   ¦   +---values-el
+    ¦   ¦       ¦   ¦   ¦   +---values-en-rGB
+    ¦   ¦       ¦   ¦   ¦   +---values-es
+    ¦   ¦       ¦   ¦   ¦   +---values-es-rES
+    ¦   ¦       ¦   ¦   ¦   +---values-et
+    ¦   ¦       ¦   ¦   ¦   +---values-fa
+    ¦   ¦       ¦   ¦   ¦   +---values-fb
+    ¦   ¦       ¦   ¦   ¦   +---values-fb-rLS
+    ¦   ¦       ¦   ¦   ¦   +---values-fi
+    ¦   ¦       ¦   ¦   ¦   +---values-fr
+    ¦   ¦       ¦   ¦   ¦   +---values-fr-rCA
+    ¦   ¦       ¦   ¦   ¦   +---values-gu
+    ¦   ¦       ¦   ¦   ¦   +---values-hi
+    ¦   ¦       ¦   ¦   ¦   +---values-hr
+    ¦   ¦       ¦   ¦   ¦   +---values-hu
+    ¦   ¦       ¦   ¦   ¦   +---values-in
+    ¦   ¦       ¦   ¦   ¦   +---values-is
+    ¦   ¦       ¦   ¦   ¦   +---values-it
+    ¦   ¦       ¦   ¦   ¦   +---values-iw
+    ¦   ¦       ¦   ¦   ¦   +---values-ja
+    ¦   ¦       ¦   ¦   ¦   +---values-ka
+    ¦   ¦       ¦   ¦   ¦   +---values-km
+    ¦   ¦       ¦   ¦   ¦   +---values-kn
+    ¦   ¦       ¦   ¦   ¦   +---values-ko
+    ¦   ¦       ¦   ¦   ¦   +---values-lo
+    ¦   ¦       ¦   ¦   ¦   +---values-lt
+    ¦   ¦       ¦   ¦   ¦   +---values-lv
+    ¦   ¦       ¦   ¦   ¦   +---values-mk
+    ¦   ¦       ¦   ¦   ¦   +---values-ml
+    ¦   ¦       ¦   ¦   ¦   +---values-mn
+    ¦   ¦       ¦   ¦   ¦   +---values-mr
+    ¦   ¦       ¦   ¦   ¦   +---values-ms
+    ¦   ¦       ¦   ¦   ¦   +---values-my
+    ¦   ¦       ¦   ¦   ¦   +---values-nb
+    ¦   ¦       ¦   ¦   ¦   +---values-ne
+    ¦   ¦       ¦   ¦   ¦   +---values-nl
+    ¦   ¦       ¦   ¦   ¦   +---values-pa
+    ¦   ¦       ¦   ¦   ¦   +---values-pl
+    ¦   ¦       ¦   ¦   ¦   +---values-pt
+    ¦   ¦       ¦   ¦   ¦   +---values-pt-rPT
+    ¦   ¦       ¦   ¦   ¦   +---values-qz
+    ¦   ¦       ¦   ¦   ¦   +---values-ro
+    ¦   ¦       ¦   ¦   ¦   +---values-ru
+    ¦   ¦       ¦   ¦   ¦   +---values-si
+    ¦   ¦       ¦   ¦   ¦   +---values-sk
+    ¦   ¦       ¦   ¦   ¦   +---values-sl
+    ¦   ¦       ¦   ¦   ¦   +---values-sn
+    ¦   ¦       ¦   ¦   ¦   +---values-sq
+    ¦   ¦       ¦   ¦   ¦   +---values-sr
+    ¦   ¦       ¦   ¦   ¦   +---values-sv
+    ¦   ¦       ¦   ¦   ¦   +---values-sw
+    ¦   ¦       ¦   ¦   ¦   +---values-ta
+    ¦   ¦       ¦   ¦   ¦   +---values-te
+    ¦   ¦       ¦   ¦   ¦   +---values-th
+    ¦   ¦       ¦   ¦   ¦   +---values-tl
+    ¦   ¦       ¦   ¦   ¦   +---values-tr
+    ¦   ¦       ¦   ¦   ¦   +---values-uk
+    ¦   ¦       ¦   ¦   ¦   +---values-ur
+    ¦   ¦       ¦   ¦   ¦   +---values-vi
+    ¦   ¦       ¦   ¦   ¦   +---values-wo
+    ¦   ¦       ¦   ¦   ¦   +---values-zh-rCN
+    ¦   ¦       ¦   ¦   ¦   +---values-zh-rHK
+    ¦   ¦       ¦   ¦   ¦   +---values-zh-rTW
+    ¦   ¦       ¦   ¦   ¦   +---values-zu
+    ¦   ¦       ¦   ¦   ¦   +---xml
+    ¦   ¦       ¦   ¦   +---shell
+    ¦   ¦       ¦   ¦   ¦   +---values
+    ¦   ¦       ¦   ¦   +---systeminfo
+    ¦   ¦       ¦   ¦   ¦   +---values
+    ¦   ¦       ¦   ¦   +---views
+    ¦   ¦       ¦   ¦       +---modal
+    ¦   ¦       ¦   ¦       ¦   +---anim
+    ¦   ¦       ¦   ¦       ¦   +---values
+    ¦   ¦       ¦   ¦       +---uimanager
+    ¦   ¦       ¦   ¦           +---values
+    ¦   ¦       ¦   +---third-party
+    ¦   ¦       ¦       +---android
+    ¦   ¦       ¦       ¦   +---androidx
+    ¦   ¦       ¦       ¦   +---support
+    ¦   ¦       ¦       ¦       +---v4
+    ¦   ¦       ¦       ¦       +---v7
+    ¦   ¦       ¦       ¦           +---appcompat
+    ¦   ¦       ¦       +---java
+    ¦   ¦       ¦           +---asm
+    ¦   ¦       ¦           +---buck-android-support
+    ¦   ¦       ¦           +---fest
+    ¦   ¦       ¦           +---infer-annotations
+    ¦   ¦       ¦           +---javapoet
+    ¦   ¦       ¦           +---jsr-305
+    ¦   ¦       ¦           +---jsr-330
+    ¦   ¦       ¦           +---junit
+    ¦   ¦       ¦           +---mockito
+    ¦   ¦       ¦           +---mockito2
+    ¦   ¦       ¦           +---okhttp
+    ¦   ¦       ¦           +---okio
+    ¦   ¦       ¦           +---robolectric
+    ¦   ¦       ¦           ¦   +---4.4
+    ¦   ¦       ¦           +---sqlite
+    ¦   ¦       ¦           +---testing-support-lib
+    ¦   ¦       +---test
+    ¦   ¦           +---java
+    ¦   ¦           ¦   +---com
+    ¦   ¦           ¦   ¦   +---facebook
+    ¦   ¦           ¦   ¦       +---common
+    ¦   ¦           ¦   ¦       ¦   +---logging
+    ¦   ¦           ¦   ¦       +---react
+    ¦   ¦           ¦   ¦           +---animated
+    ¦   ¦           ¦   ¦           +---bridge
+    ¦   ¦           ¦   ¦           +---devsupport
+    ¦   ¦           ¦   ¦           +---modules
+    ¦   ¦           ¦   ¦           ¦   +---blob
+    ¦   ¦           ¦   ¦           ¦   +---camera
+    ¦   ¦           ¦   ¦           ¦   +---clipboard
+    ¦   ¦           ¦   ¦           ¦   +---dialog
+    ¦   ¦           ¦   ¦           ¦   +---network
+    ¦   ¦           ¦   ¦           ¦   +---share
+    ¦   ¦           ¦   ¦           ¦   +---storage
+    ¦   ¦           ¦   ¦           ¦   +---timing
+    ¦   ¦           ¦   ¦           +---packagerconnection
+    ¦   ¦           ¦   ¦           +---uimanager
+    ¦   ¦           ¦   ¦           ¦   +---layoutanimation
+    ¦   ¦           ¦   ¦           +---util
+    ¦   ¦           ¦   ¦           +---views
+    ¦   ¦           ¦   ¦               +---image
+    ¦   ¦           ¦   ¦               +---slider
+    ¦   ¦           ¦   ¦               +---text
+    ¦   ¦           ¦   ¦               +---textinput
+    ¦   ¦           ¦   ¦               +---view
+    ¦   ¦           ¦   +---org
+    ¦   ¦           ¦       +---mockito
+    ¦   ¦           ¦           +---configuration
+    ¦   ¦           +---resources
+    ¦   +---ReactCommon
+    ¦   ¦   +---better
+    ¦   ¦   +---callinvoker
+    ¦   ¦   ¦   +---ReactCommon
+    ¦   ¦   +---cxxreact
+    ¦   ¦   ¦   +---tests
+    ¦   ¦   +---hermes
+    ¦   ¦   ¦   +---executor
+    ¦   ¦   ¦   +---inspector
+    ¦   ¦   ¦       +---chrome
+    ¦   ¦   ¦       ¦   +---cli
+    ¦   ¦   ¦       ¦   +---tests
+    ¦   ¦   ¦       +---detail
+    ¦   ¦   ¦       ¦   +---tests
+    ¦   ¦   ¦       +---docs
+    ¦   ¦   ¦       +---tests
+    ¦   ¦   ¦       +---tools
+    ¦   ¦   ¦           +---msggen
+    ¦   ¦   ¦           ¦   +---src
+    ¦   ¦   ¦           ¦   +---__tests__
+    ¦   ¦   ¦           +---sandcastle
+    ¦   ¦   +---jsengineinstance
+    ¦   ¦   +---jsi
+    ¦   ¦   ¦   +---jsi
+    ¦   ¦   ¦       +---test
+    ¦   ¦   +---jsiexecutor
+    ¦   ¦   ¦   +---jsireact
+    ¦   ¦   +---jsinspector
+    ¦   ¦   +---libraries
+    ¦   ¦   ¦   +---fbcore
+    ¦   ¦   ¦       +---src
+    ¦   ¦   ¦           +---test
+    ¦   ¦   ¦               +---java
+    ¦   ¦   ¦                   +---com
+    ¦   ¦   ¦                       +---facebook
+    ¦   ¦   ¦                           +---powermock
+    ¦   ¦   +---microprofiler
+    ¦   ¦   +---react
+    ¦   ¦   ¦   +---config
+    ¦   ¦   ¦   +---nativemodule
+    ¦   ¦   ¦   ¦   +---core
+    ¦   ¦   ¦   ¦   ¦   +---platform
+    ¦   ¦   ¦   ¦   ¦   ¦   +---android
+    ¦   ¦   ¦   ¦   ¦   ¦   ¦   +---ReactCommon
+    ¦   ¦   ¦   ¦   ¦   ¦   +---ios
+    ¦   ¦   ¦   ¦   ¦   +---ReactCommon
+    ¦   ¦   ¦   ¦   +---samples
+    ¦   ¦   ¦   ¦       +---platform
+    ¦   ¦   ¦   ¦       ¦   +---android
+    ¦   ¦   ¦   ¦       ¦   ¦   +---ReactCommon
+    ¦   ¦   ¦   ¦       ¦   +---ios
+    ¦   ¦   ¦   ¦       +---ReactCommon
+    ¦   ¦   ¦   +---renderer
+    ¦   ¦   ¦   ¦   +---animations
+    ¦   ¦   ¦   ¦   +---attributedstring
+    ¦   ¦   ¦   ¦   ¦   +---tests
+    ¦   ¦   ¦   ¦   +---componentregistry
+    ¦   ¦   ¦   ¦   +---components
+    ¦   ¦   ¦   ¦   ¦   +---image
+    ¦   ¦   ¦   ¦   ¦   ¦   +---tests
+    ¦   ¦   ¦   ¦   ¦   +---inputaccessory
+    ¦   ¦   ¦   ¦   ¦   +---legacyviewmanagerinterop
+    ¦   ¦   ¦   ¦   ¦   +---modal
+    ¦   ¦   ¦   ¦   ¦   +---picker
+    ¦   ¦   ¦   ¦   ¦   ¦   +---androidpicker
+    ¦   ¦   ¦   ¦   ¦   ¦   ¦   +---react
+    ¦   ¦   ¦   ¦   ¦   ¦   ¦       +---renderer
+    ¦   ¦   ¦   ¦   ¦   ¦   ¦           +---components
+    ¦   ¦   ¦   ¦   ¦   ¦   ¦               +---androidpicker
+    ¦   ¦   ¦   ¦   ¦   ¦   +---iospicker
+    ¦   ¦   ¦   ¦   ¦   +---progressbar
+    ¦   ¦   ¦   ¦   ¦   ¦   +---android
+    ¦   ¦   ¦   ¦   ¦   ¦       +---react
+    ¦   ¦   ¦   ¦   ¦   ¦           +---renderer
+    ¦   ¦   ¦   ¦   ¦   ¦               +---components
+    ¦   ¦   ¦   ¦   ¦   ¦                   +---progressbar
+    ¦   ¦   ¦   ¦   ¦   +---root
+    ¦   ¦   ¦   ¦   ¦   ¦   +---tests
+    ¦   ¦   ¦   ¦   ¦   +---safeareaview
+    ¦   ¦   ¦   ¦   ¦   +---scrollview
+    ¦   ¦   ¦   ¦   ¦   ¦   +---tests
+    ¦   ¦   ¦   ¦   ¦   +---slider
+    ¦   ¦   ¦   ¦   ¦   ¦   +---platform
+    ¦   ¦   ¦   ¦   ¦   ¦   ¦   +---android
+    ¦   ¦   ¦   ¦   ¦   ¦   ¦   ¦   +---react
+    ¦   ¦   ¦   ¦   ¦   ¦   ¦   ¦       +---renderer
+    ¦   ¦   ¦   ¦   ¦   ¦   ¦   ¦           +---components
+    ¦   ¦   ¦   ¦   ¦   ¦   ¦   ¦               +---slider
+    ¦   ¦   ¦   ¦   ¦   ¦   ¦   +---ios
+    ¦   ¦   ¦   ¦   ¦   ¦   +---tests
+    ¦   ¦   ¦   ¦   ¦   +---switch
+    ¦   ¦   ¦   ¦   ¦   ¦   +---androidswitch
+    ¦   ¦   ¦   ¦   ¦   ¦       +---react
+    ¦   ¦   ¦   ¦   ¦   ¦           +---renderer
+    ¦   ¦   ¦   ¦   ¦   ¦               +---components
+    ¦   ¦   ¦   ¦   ¦   ¦                   +---androidswitch
+    ¦   ¦   ¦   ¦   ¦   +---text
+    ¦   ¦   ¦   ¦   ¦   ¦   +---tests
+    ¦   ¦   ¦   ¦   ¦   +---textinput
+    ¦   ¦   ¦   ¦   ¦   ¦   +---androidtextinput
+    ¦   ¦   ¦   ¦   ¦   ¦   ¦   +---react
+    ¦   ¦   ¦   ¦   ¦   ¦   ¦       +---renderer
+    ¦   ¦   ¦   ¦   ¦   ¦   ¦           +---components
+    ¦   ¦   ¦   ¦   ¦   ¦   ¦               +---androidtextinput
+    ¦   ¦   ¦   ¦   ¦   ¦   +---iostextinput
+    ¦   ¦   ¦   ¦   ¦   +---unimplementedview
+    ¦   ¦   ¦   ¦   ¦   +---view
+    ¦   ¦   ¦   ¦   ¦       +---tests
+    ¦   ¦   ¦   ¦   +---core
+    ¦   ¦   ¦   ¦   ¦   +---tests
+    ¦   ¦   ¦   ¦   ¦       +---benchmarks
+    ¦   ¦   ¦   ¦   +---debug
+    ¦   ¦   ¦   ¦   ¦   +---tests
+    ¦   ¦   ¦   ¦   +---element
+    ¦   ¦   ¦   ¦   ¦   +---tests
+    ¦   ¦   ¦   ¦   +---graphics
+    ¦   ¦   ¦   ¦   ¦   +---platform
+    ¦   ¦   ¦   ¦   ¦   ¦   +---cxx
+    ¦   ¦   ¦   ¦   ¦   ¦   ¦   +---react
+    ¦   ¦   ¦   ¦   ¦   ¦   ¦       +---renderer
+    ¦   ¦   ¦   ¦   ¦   ¦   ¦           +---graphics
+    ¦   ¦   ¦   ¦   ¦   ¦   +---ios
+    ¦   ¦   ¦   ¦   ¦   +---tests
+    ¦   ¦   ¦   ¦   +---imagemanager
+    ¦   ¦   ¦   ¦   ¦   +---platform
+    ¦   ¦   ¦   ¦   ¦   ¦   +---cxx
+    ¦   ¦   ¦   ¦   ¦   ¦   ¦   +---react
+    ¦   ¦   ¦   ¦   ¦   ¦   ¦       +---renderer
+    ¦   ¦   ¦   ¦   ¦   ¦   ¦           +---imagemanager
+    ¦   ¦   ¦   ¦   ¦   ¦   +---ios
+    ¦   ¦   ¦   ¦   ¦   +---tests
+    ¦   ¦   ¦   ¦   +---mapbuffer
+    ¦   ¦   ¦   ¦   ¦   +---tests
+    ¦   ¦   ¦   ¦   +---mounting
+    ¦   ¦   ¦   ¦   ¦   +---tests
+    ¦   ¦   ¦   ¦   +---scheduler
+    ¦   ¦   ¦   ¦   +---templateprocessor
+    ¦   ¦   ¦   ¦   ¦   +---tests
+    ¦   ¦   ¦   ¦   +---textlayoutmanager
+    ¦   ¦   ¦   ¦   ¦   +---platform
+    ¦   ¦   ¦   ¦   ¦   ¦   +---android
+    ¦   ¦   ¦   ¦   ¦   ¦   ¦   +---react
+    ¦   ¦   ¦   ¦   ¦   ¦   ¦       +---renderer
+    ¦   ¦   ¦   ¦   ¦   ¦   ¦           +---textlayoutmanager
+    ¦   ¦   ¦   ¦   ¦   ¦   +---cxx
+    ¦   ¦   ¦   ¦   ¦   ¦   +---ios
+    ¦   ¦   ¦   ¦   ¦   +---tests
+    ¦   ¦   ¦   ¦   +---uimanager
+    ¦   ¦   ¦   ¦       +---tests
+    ¦   ¦   ¦   +---utils
+    ¦   ¦   +---reactperflogger
+    ¦   ¦   ¦   +---reactperflogger
+    ¦   ¦   +---runtimeexecutor
+    ¦   ¦   ¦   +---ReactCommon
+    ¦   ¦   +---yoga
+    ¦   ¦       +---yoga
+    ¦   ¦           +---event
+    ¦   ¦           +---internal
+    ¦   +---scripts
+    ¦   +---template
+    ¦   ¦   +---android
+    ¦   ¦   ¦   +---app
+    ¦   ¦   ¦   ¦   +---src
+    ¦   ¦   ¦   ¦       +---debug
+    ¦   ¦   ¦   ¦       ¦   +---java
+    ¦   ¦   ¦   ¦       ¦       +---com
+    ¦   ¦   ¦   ¦       ¦           +---helloworld
+    ¦   ¦   ¦   ¦       +---main
+    ¦   ¦   ¦   ¦           +---java
+    ¦   ¦   ¦   ¦           ¦   +---com
+    ¦   ¦   ¦   ¦           ¦       +---helloworld
+    ¦   ¦   ¦   ¦           +---res
+    ¦   ¦   ¦   ¦               +---mipmap-hdpi
+    ¦   ¦   ¦   ¦               +---mipmap-mdpi
+    ¦   ¦   ¦   ¦               +---mipmap-xhdpi
+    ¦   ¦   ¦   ¦               +---mipmap-xxhdpi
+    ¦   ¦   ¦   ¦               +---mipmap-xxxhdpi
+    ¦   ¦   ¦   ¦               +---values
+    ¦   ¦   ¦   +---gradle
+    ¦   ¦   ¦       +---wrapper
+    ¦   ¦   +---ios
+    ¦   ¦   ¦   +---HelloWorld
+    ¦   ¦   ¦   ¦   +---Images.xcassets
+    ¦   ¦   ¦   ¦       +---AppIcon.appiconset
+    ¦   ¦   ¦   +---HelloWorld.xcodeproj
+    ¦   ¦   ¦   ¦   +---xcshareddata
+    ¦   ¦   ¦   ¦       +---xcschemes
+    ¦   ¦   ¦   +---HelloWorldTests
+    ¦   ¦   +---__tests__
+    ¦   +---third-party-podspecs
+    +---react-native-codegen
+    ¦   +---lib
+    ¦       +---cli
+    ¦       ¦   +---combine
+    ¦       ¦   +---generators
+    ¦       ¦   +---parser
+    ¦       +---generators
+    ¦       ¦   +---components
+    ¦       ¦   ¦   +---__test_fixtures__
+    ¦       ¦   +---modules
+    ¦       ¦       +---GenerateModuleObjCpp
+    ¦       ¦       ¦   +---header
+    ¦       ¦       ¦   +---source
+    ¦       ¦       +---__test_fixtures__
+    ¦       +---parsers
+    ¦           +---flow
+    ¦           ¦   +---components
+    ¦           ¦   ¦   +---__test_fixtures__
+    ¦           ¦   +---modules
+    ¦           ¦       +---__test_fixtures__
+    ¦           +---schema
+    +---react-native-elements
+    ¦   +---.idea
+    ¦   +---src
+    ¦       +---avatar
+    ¦       ¦   +---__tests__
+    ¦       ¦       +---__snapshots__
+    ¦       +---badge
+    ¦       ¦   +---__tests__
+    ¦       ¦       +---__snapshots__
+    ¦       +---bottomSheet
+    ¦       ¦   +---__tests__
+    ¦       ¦       +---__snapshots__
+    ¦       +---buttons
+    ¦       ¦   +---__tests__
+    ¦       ¦       +---__snapshots__
+    ¦       +---card
+    ¦       ¦   +---__tests__
+    ¦       ¦       +---__snapshots__
+    ¦       +---checkbox
+    ¦       ¦   +---__tests__
+    ¦       ¦       +---__snapshots__
+    ¦       +---config
+    ¦       ¦   +---__tests__
+    ¦       ¦       +---__snapshots__
+    ¦       +---divider
+    ¦       ¦   +---__tests__
+    ¦       ¦       +---__snapshots__
+    ¦       +---header
+    ¦       ¦   +---__tests__
+    ¦       ¦       +---__snapshots__
+    ¦       +---helpers
+    ¦       +---icons
+    ¦       ¦   +---__tests__
+    ¦       ¦       +---__snapshots__
+    ¦       +---image
+    ¦       ¦   +---__tests__
+    ¦       ¦       +---__snapshots__
+    ¦       +---input
+    ¦       ¦   +---__tests__
+    ¦       ¦       +---__snapshots__
+    ¦       +---list
+    ¦       ¦   +---__tests__
+    ¦       ¦       +---__snapshots__
+    ¦       +---overlay
+    ¦       ¦   +---__tests__
+    ¦       ¦       +---__snapshots__
+    ¦       +---pricing
+    ¦       ¦   +---__tests__
+    ¦       ¦       +---__snapshots__
+    ¦       +---searchbar
+    ¦       ¦   +---__tests__
+    ¦       ¦       +---__snapshots__
+    ¦       +---slider
+    ¦       ¦   +---__tests__
+    ¦       ¦       +---__snapshots__
+    ¦       +---social
+    ¦       ¦   +---__tests__
+    ¦       ¦       +---__snapshots__
+    ¦       +---text
+    ¦       ¦   +---__tests__
+    ¦       ¦       +---__snapshots__
+    ¦       +---tile
+    ¦       ¦   +---__tests__
+    ¦       ¦       +---__snapshots__
+    ¦       +---tooltip
+    ¦           +---__tests__
+    ¦               +---__snapshots__
+    +---react-native-gesture-handler
+    ¦   +---android
+    ¦   ¦   +---lib
+    ¦   ¦   ¦   +---src
+    ¦   ¦   ¦       +---main
+    ¦   ¦   ¦           +---java
+    ¦   ¦   ¦               +---com
+    ¦   ¦   ¦                   +---swmansion
+    ¦   ¦   ¦                       +---gesturehandler
+    ¦   ¦   +---src
+    ¦   ¦       +---main
+    ¦   ¦           +---java
+    ¦   ¦               +---com
+    ¦   ¦                   +---facebook
+    ¦   ¦                   ¦   +---react
+    ¦   ¦                   ¦       +---views
+    ¦   ¦                   ¦           +---modal
+    ¦   ¦                   +---swmansion
+    ¦   ¦                       +---gesturehandler
+    ¦   ¦                           +---react
+    ¦   +---DrawerLayout
+    ¦   +---ios
+    ¦   ¦   +---Handlers
+    ¦   ¦   +---RNGestureHandler.xcodeproj
+    ¦   +---lib
+    ¦   ¦   +---commonjs
+    ¦   ¦   ¦   +---components
+    ¦   ¦   ¦   ¦   +---touchables
+    ¦   ¦   ¦   +---handlers
+    ¦   ¦   ¦   +---web
+    ¦   ¦   +---module
+    ¦   ¦   ¦   +---components
+    ¦   ¦   ¦   ¦   +---touchables
+    ¦   ¦   ¦   +---handlers
+    ¦   ¦   ¦   +---web
+    ¦   ¦   +---typescript
+    ¦   ¦       +---components
+    ¦   ¦       ¦   +---touchables
+    ¦   ¦       +---handlers
+    ¦   ¦       +---web
+    ¦   +---node_modules
+    ¦   ¦   +---fbjs
+    ¦   ¦       +---flow
+    ¦   ¦       ¦   +---lib
+    ¦   ¦       +---lib
+    ¦   ¦           +---__mocks__
+    ¦   +---src
+    ¦   ¦   +---components
+    ¦   ¦   ¦   +---touchables
+    ¦   ¦   +---handlers
+    ¦   ¦   +---web
+    ¦   +---Swipeable
+    +---react-native-iphone-x-helper
+    +---react-native-push-notification
+    ¦   +---android
+    ¦   ¦   +---.settings
+    ¦   ¦   +---gradle
+    ¦   ¦   ¦   +---wrapper
+    ¦   ¦   +---src
+    ¦   ¦       +---main
+    ¦   ¦           +---java
+    ¦   ¦               +---com
+    ¦   ¦                   +---dieam
+    ¦   ¦                       +---reactnativepushnotification
+    ¦   ¦                           +---helpers
+    ¦   ¦                           +---modules
+    ¦   +---component
+    +---react-native-ratings
+    ¦   +---.github
+    ¦   ¦   +---workflows
+    ¦   +---.husky
+    ¦   +---src
+    ¦       +---components
+    ¦       +---images
+    +---react-native-reanimated
+    ¦   +---android
+    ¦   ¦   +---src
+    ¦   ¦       +---main
+    ¦   ¦           +---java
+    ¦   ¦               +---com
+    ¦   ¦                   +---swmansion
+    ¦   ¦                       +---reanimated
+    ¦   +---Common
+    ¦   ¦   +---cpp
+    ¦   ¦       +---headers
+    ¦   ¦       ¦   +---NativeModules
+    ¦   ¦       ¦   +---Registries
+    ¦   ¦       ¦   +---SharedItems
+    ¦   ¦       ¦   +---SpecTools
+    ¦   ¦       ¦   +---Tools
+    ¦   ¦       +---hidden_headers
+    ¦   ¦       +---NativeModules
+    ¦   ¦       +---Registries
+    ¦   ¦       +---SharedItems
+    ¦   ¦       +---Tools
+    ¦   +---ios
+    ¦   ¦   +---native
+    ¦   ¦   +---Nodes
+    ¦   ¦   +---RNReanimated.xcodeproj
+    ¦   ¦   ¦   +---xcshareddata
+    ¦   ¦   ¦       +---xcschemes
+    ¦   ¦   +---Transitioning
+    ¦   +---lib
+    ¦   ¦   +---reanimated1
+    ¦   ¦   ¦   +---animations
+    ¦   ¦   ¦   +---core
+    ¦   ¦   ¦   ¦   +---__mocks__
+    ¦   ¦   ¦   +---derived
+    ¦   ¦   ¦       +---__mocks__
+    ¦   ¦   +---reanimated2
+    ¦   ¦   ¦   +---js-reanimated
+    ¦   ¦   ¦   +---platform-specific
+    ¦   ¦   ¦   +---__mocks__
+    ¦   ¦   +---__mocks__
+    ¦   +---libSo
+    ¦   ¦   +---fbjni
+    ¦   ¦       +---jni
+    ¦   ¦           +---arm64-v8a
+    ¦   ¦           +---armeabi-v7a
+    ¦   ¦           +---x86
+    ¦   ¦           +---x86_64
+    ¦   +---node_modules
+    ¦   ¦   +---fbjs
+    ¦   ¦       +---flow
+    ¦   ¦       ¦   +---lib
+    ¦   ¦       +---lib
+    ¦   ¦           +---__mocks__
+    ¦   +---src
+    ¦       +---reanimated1
+    ¦       ¦   +---animations
+    ¦       ¦   +---core
+    ¦       ¦   ¦   +---__mocks__
+    ¦       ¦   +---derived
+    ¦       ¦       +---__mocks__
+    ¦       +---reanimated2
+    ¦       ¦   +---js-reanimated
+    ¦       ¦   +---platform-specific
+    ¦       ¦   +---__mocks__
+    ¦       +---__mocks__
+    +---react-native-responsive-fontsize
+    +---react-native-safe-area-context
+    ¦   +---android
+    ¦   ¦   +---src
+    ¦   ¦       +---main
+    ¦   ¦           +---java
+    ¦   ¦               +---com
+    ¦   ¦                   +---th3rdwave
+    ¦   ¦                       +---safeareacontext
+    ¦   +---ios
+    ¦   ¦   +---SafeAreaView
+    ¦   ¦   +---SafeAreaView.xcodeproj
+    ¦   +---jest
+    ¦   +---lib
+    ¦   ¦   +---commonjs
+    ¦   ¦   +---module
+    ¦   ¦   +---typescript
+    ¦   ¦       +---src
+    ¦   +---src
+    +---react-native-safe-area-view
+    ¦   +---node_modules
+    ¦       +---hoist-non-react-statics
+    ¦           +---dist
+    ¦           +---src
+    +---react-native-screens
+    ¦   +---android
+    ¦   ¦   +---src
+    ¦   ¦       +---main
+    ¦   ¦           +---java
+    ¦   ¦           ¦   +---com
+    ¦   ¦           ¦       +---swmansion
+    ¦   ¦           ¦           +---rnscreens
+    ¦   ¦           ¦               +---events
+    ¦   ¦           +---res
+    ¦   ¦               +---anim
+    ¦   +---createNativeStackNavigator
+    ¦   +---ios
+    ¦   ¦   +---RNScreens.xcodeproj
+    ¦   +---lib
+    ¦   ¦   +---commonjs
+    ¦   ¦   ¦   +---native-stack
+    ¦   ¦   ¦   ¦   +---navigators
+    ¦   ¦   ¦   ¦   +---utils
+    ¦   ¦   ¦   ¦   +---views
+    ¦   ¦   ¦   +---reanimated
+    ¦   ¦   +---module
+    ¦   ¦   ¦   +---native-stack
+    ¦   ¦   ¦   ¦   +---navigators
+    ¦   ¦   ¦   ¦   +---utils
+    ¦   ¦   ¦   ¦   +---views
+    ¦   ¦   ¦   +---reanimated
+    ¦   ¦   +---typescript
+    ¦   ¦       +---native-stack
+    ¦   ¦       ¦   +---navigators
+    ¦   ¦       ¦   +---utils
+    ¦   ¦       ¦   +---views
+    ¦   ¦       +---reanimated
+    ¦   +---native-stack
+    ¦   +---src
+    ¦   ¦   +---native-stack
+    ¦   ¦   ¦   +---navigators
+    ¦   ¦   ¦   +---utils
+    ¦   ¦   ¦   +---views
+    ¦   ¦   +---reanimated
+    ¦   +---windows
+    ¦       +---RNScreens
+    +---react-native-simple-time-picker
+    ¦   +---lib
+    ¦       +---utils
+    +---react-native-status-bar-height
+    +---react-native-vector-icons
+    ¦   +---android
+    ¦   ¦   +---src
+    ¦   ¦       +---main
+    ¦   ¦           +---java
+    ¦   ¦               +---com
+    ¦   ¦                   +---oblador
+    ¦   ¦                       +---vectoricons
+    ¦   +---bin
+    ¦   +---dist
+    ¦   ¦   +---glyphmaps
+    ¦   ¦   +---lib
+    ¦   +---Fonts
+    ¦   +---glyphmaps
+    ¦   +---lib
+    ¦   +---node_modules
+    ¦   ¦   +---ansi-styles
+    ¦   ¦   +---cliui
+    ¦   ¦   ¦   +---build
+    ¦   ¦   ¦       +---lib
+    ¦   ¦   +---color-convert
+    ¦   ¦   +---color-name
+    ¦   ¦   +---is-fullwidth-code-point
+    ¦   ¦   +---string-width
+    ¦   ¦   +---strip-ansi
+    ¦   ¦   +---wrap-ansi
+    ¦   ¦   +---y18n
+    ¦   ¦   ¦   +---build
+    ¦   ¦   ¦       +---lib
+    ¦   ¦   ¦           +---platform-shims
+    ¦   ¦   +---yargs
+    ¦   ¦   ¦   +---build
+    ¦   ¦   ¦   ¦   +---lib
+    ¦   ¦   ¦   ¦       +---typings
+    ¦   ¦   ¦   ¦       +---utils
+    ¦   ¦   ¦   +---helpers
+    ¦   ¦   ¦   +---lib
+    ¦   ¦   ¦   ¦   +---platform-shims
+    ¦   ¦   ¦   +---locales
+    ¦   ¦   +---yargs-parser
+    ¦   ¦       +---build
+    ¦   ¦           +---lib
+    ¦   +---RNVectorIcons.xcodeproj
+    ¦   ¦   +---project.xcworkspace
+    ¦   ¦       +---xcshareddata
+    ¦   ¦       +---xcuserdata
+    ¦   ¦           +---joel.xcuserdatad
+    ¦   +---RNVectorIconsManager
+    ¦   +---templates
+    +---react-native-web
+    ¦   +---dist
+    ¦   ¦   +---cjs
+    ¦   ¦   ¦   +---exports
+    ¦   ¦   ¦   ¦   +---AccessibilityInfo
+    ¦   ¦   ¦   ¦   +---ActivityIndicator
+    ¦   ¦   ¦   ¦   +---Alert
+    ¦   ¦   ¦   ¦   +---Animated
+    ¦   ¦   ¦   ¦   +---Appearance
+    ¦   ¦   ¦   ¦   +---AppRegistry
+    ¦   ¦   ¦   ¦   +---AppState
+    ¦   ¦   ¦   ¦   +---BackHandler
+    ¦   ¦   ¦   ¦   +---Button
+    ¦   ¦   ¦   ¦   +---CheckBox
+    ¦   ¦   ¦   ¦   +---Clipboard
+    ¦   ¦   ¦   ¦   +---createElement
+    ¦   ¦   ¦   ¦   +---DeviceEventEmitter
+    ¦   ¦   ¦   ¦   +---DeviceInfo
+    ¦   ¦   ¦   ¦   +---Dimensions
+    ¦   ¦   ¦   ¦   +---DrawerLayoutAndroid
+    ¦   ¦   ¦   ¦   +---Easing
+    ¦   ¦   ¦   ¦   +---findNodeHandle
+    ¦   ¦   ¦   ¦   +---FlatList
+    ¦   ¦   ¦   ¦   +---I18nManager
+    ¦   ¦   ¦   ¦   +---Image
+    ¦   ¦   ¦   ¦   +---ImageBackground
+    ¦   ¦   ¦   ¦   +---InputAccessoryView
+    ¦   ¦   ¦   ¦   +---InteractionManager
+    ¦   ¦   ¦   ¦   +---Keyboard
+    ¦   ¦   ¦   ¦   +---KeyboardAvoidingView
+    ¦   ¦   ¦   ¦   +---LayoutAnimation
+    ¦   ¦   ¦   ¦   +---Linking
+    ¦   ¦   ¦   ¦   +---LogBox
+    ¦   ¦   ¦   ¦   +---Modal
+    ¦   ¦   ¦   ¦   +---NativeEventEmitter
+    ¦   ¦   ¦   ¦   +---NativeModules
+    ¦   ¦   ¦   ¦   +---PanResponder
+    ¦   ¦   ¦   ¦   +---PermissionsAndroid
+    ¦   ¦   ¦   ¦   +---Picker
+    ¦   ¦   ¦   ¦   +---PixelRatio
+    ¦   ¦   ¦   ¦   +---Platform
+    ¦   ¦   ¦   ¦   +---Pressable
+    ¦   ¦   ¦   ¦   +---processColor
+    ¦   ¦   ¦   ¦   +---ProgressBar
+    ¦   ¦   ¦   ¦   +---RefreshControl
+    ¦   ¦   ¦   ¦   +---render
+    ¦   ¦   ¦   ¦   +---SafeAreaView
+    ¦   ¦   ¦   ¦   +---ScrollView
+    ¦   ¦   ¦   ¦   +---SectionList
+    ¦   ¦   ¦   ¦   +---Settings
+    ¦   ¦   ¦   ¦   +---Share
+    ¦   ¦   ¦   ¦   +---StatusBar
+    ¦   ¦   ¦   ¦   +---StyleSheet
+    ¦   ¦   ¦   ¦   +---Switch
+    ¦   ¦   ¦   ¦   +---Systrace
+    ¦   ¦   ¦   ¦   +---Text
+    ¦   ¦   ¦   ¦   +---TextInput
+    ¦   ¦   ¦   ¦   +---ToastAndroid
+    ¦   ¦   ¦   ¦   +---Touchable
+    ¦   ¦   ¦   ¦   +---TouchableHighlight
+    ¦   ¦   ¦   ¦   +---TouchableNativeFeedback
+    ¦   ¦   ¦   ¦   +---TouchableOpacity
+    ¦   ¦   ¦   ¦   +---TouchableWithoutFeedback
+    ¦   ¦   ¦   ¦   +---TVEventHandler
+    ¦   ¦   ¦   ¦   +---UIManager
+    ¦   ¦   ¦   ¦   +---unmountComponentAtNode
+    ¦   ¦   ¦   ¦   +---useColorScheme
+    ¦   ¦   ¦   ¦   +---useWindowDimensions
+    ¦   ¦   ¦   ¦   +---Vibration
+    ¦   ¦   ¦   ¦   +---View
+    ¦   ¦   ¦   ¦   +---VirtualizedList
+    ¦   ¦   ¦   ¦   +---YellowBox
+    ¦   ¦   ¦   +---modules
+    ¦   ¦   ¦   ¦   +---AccessibilityUtil
+    ¦   ¦   ¦   ¦   +---AssetRegistry
+    ¦   ¦   ¦   ¦   +---createDOMProps
+    ¦   ¦   ¦   ¦   +---createEventHandle
+    ¦   ¦   ¦   ¦   +---dismissKeyboard
+    ¦   ¦   ¦   ¦   +---flattenArray
+    ¦   ¦   ¦   ¦   +---forwardedProps
+    ¦   ¦   ¦   ¦   +---getBoundingClientRect
+    ¦   ¦   ¦   ¦   +---ImageLoader
+    ¦   ¦   ¦   ¦   +---isSelectionValid
+    ¦   ¦   ¦   ¦   +---isWebColor
+    ¦   ¦   ¦   ¦   +---mergeRefs
+    ¦   ¦   ¦   ¦   +---modality
+    ¦   ¦   ¦   ¦   +---multiplyStyleLengthValue
+    ¦   ¦   ¦   ¦   +---normalizeColor
+    ¦   ¦   ¦   ¦   +---pick
+    ¦   ¦   ¦   ¦   +---prefixStyles
+    ¦   ¦   ¦   ¦   +---requestIdleCallback
+    ¦   ¦   ¦   ¦   +---ScrollResponder
+    ¦   ¦   ¦   ¦   +---setValueForStyles
+    ¦   ¦   ¦   ¦   +---TextInputState
+    ¦   ¦   ¦   ¦   +---UnimplementedView
+    ¦   ¦   ¦   ¦   +---unitlessNumbers
+    ¦   ¦   ¦   ¦   +---useElementLayout
+    ¦   ¦   ¦   ¦   +---useEvent
+    ¦   ¦   ¦   ¦   +---useHover
+    ¦   ¦   ¦   ¦   +---useLayoutEffect
+    ¦   ¦   ¦   ¦   +---useMergeRefs
+    ¦   ¦   ¦   ¦   +---usePlatformMethods
+    ¦   ¦   ¦   ¦   +---usePressEvents
+    ¦   ¦   ¦   ¦   +---useResponderEvents
+    ¦   ¦   ¦   ¦   +---useStable
+    ¦   ¦   ¦   +---types
+    ¦   ¦   ¦   +---vendor
+    ¦   ¦   ¦       +---hash
+    ¦   ¦   ¦       +---react-native
+    ¦   ¦   ¦           +---Animated
+    ¦   ¦   ¦           ¦   +---animations
+    ¦   ¦   ¦           ¦   +---components
+    ¦   ¦   ¦           ¦   +---nodes
+    ¦   ¦   ¦           +---Batchinator
+    ¦   ¦   ¦           +---deepDiffer
+    ¦   ¦   ¦           +---emitter
+    ¦   ¦   ¦           +---FillRateHelper
+    ¦   ¦   ¦           +---FlatList
+    ¦   ¦   ¦           +---infoLog
+    ¦   ¦   ¦           +---JSEventLoopWatchdog
+    ¦   ¦   ¦           +---LayoutAnimation
+    ¦   ¦   ¦           +---NativeEventEmitter
+    ¦   ¦   ¦           +---PanResponder
+    ¦   ¦   ¦           +---PooledClass
+    ¦   ¦   ¦           +---SectionList
+    ¦   ¦   ¦           +---StaticContainer
+    ¦   ¦   ¦           +---StaticRenderer
+    ¦   ¦   ¦           +---TouchHistoryMath
+    ¦   ¦   ¦           +---TurboModule
+    ¦   ¦   ¦           +---Types
+    ¦   ¦   ¦           +---Utilities
+    ¦   ¦   ¦           +---ViewabilityHelper
+    ¦   ¦   ¦           +---VirtualizedList
+    ¦   ¦   ¦           +---VirtualizedSectionList
+    ¦   ¦   ¦           +---VirtualizeUtils
+    ¦   ¦   +---exports
+    ¦   ¦   ¦   +---AccessibilityInfo
+    ¦   ¦   ¦   +---ActivityIndicator
+    ¦   ¦   ¦   +---Alert
+    ¦   ¦   ¦   +---Animated
+    ¦   ¦   ¦   +---Appearance
+    ¦   ¦   ¦   +---AppRegistry
+    ¦   ¦   ¦   +---AppState
+    ¦   ¦   ¦   +---BackHandler
+    ¦   ¦   ¦   +---Button
+    ¦   ¦   ¦   +---CheckBox
+    ¦   ¦   ¦   +---Clipboard
+    ¦   ¦   ¦   +---createElement
+    ¦   ¦   ¦   +---DeviceEventEmitter
+    ¦   ¦   ¦   +---DeviceInfo
+    ¦   ¦   ¦   +---Dimensions
+    ¦   ¦   ¦   +---DrawerLayoutAndroid
+    ¦   ¦   ¦   +---Easing
+    ¦   ¦   ¦   +---findNodeHandle
+    ¦   ¦   ¦   +---FlatList
+    ¦   ¦   ¦   +---I18nManager
+    ¦   ¦   ¦   +---Image
+    ¦   ¦   ¦   +---ImageBackground
+    ¦   ¦   ¦   +---InputAccessoryView
+    ¦   ¦   ¦   +---InteractionManager
+    ¦   ¦   ¦   +---Keyboard
+    ¦   ¦   ¦   +---KeyboardAvoidingView
+    ¦   ¦   ¦   +---LayoutAnimation
+    ¦   ¦   ¦   +---Linking
+    ¦   ¦   ¦   +---LogBox
+    ¦   ¦   ¦   +---Modal
+    ¦   ¦   ¦   +---NativeEventEmitter
+    ¦   ¦   ¦   +---NativeModules
+    ¦   ¦   ¦   +---PanResponder
+    ¦   ¦   ¦   +---PermissionsAndroid
+    ¦   ¦   ¦   +---Picker
+    ¦   ¦   ¦   +---PixelRatio
+    ¦   ¦   ¦   +---Platform
+    ¦   ¦   ¦   +---Pressable
+    ¦   ¦   ¦   +---processColor
+    ¦   ¦   ¦   +---ProgressBar
+    ¦   ¦   ¦   +---RefreshControl
+    ¦   ¦   ¦   +---render
+    ¦   ¦   ¦   +---SafeAreaView
+    ¦   ¦   ¦   +---ScrollView
+    ¦   ¦   ¦   +---SectionList
+    ¦   ¦   ¦   +---Settings
+    ¦   ¦   ¦   +---Share
+    ¦   ¦   ¦   +---StatusBar
+    ¦   ¦   ¦   +---StyleSheet
+    ¦   ¦   ¦   +---Switch
+    ¦   ¦   ¦   +---Systrace
+    ¦   ¦   ¦   +---Text
+    ¦   ¦   ¦   +---TextInput
+    ¦   ¦   ¦   +---ToastAndroid
+    ¦   ¦   ¦   +---Touchable
+    ¦   ¦   ¦   +---TouchableHighlight
+    ¦   ¦   ¦   +---TouchableNativeFeedback
+    ¦   ¦   ¦   +---TouchableOpacity
+    ¦   ¦   ¦   +---TouchableWithoutFeedback
+    ¦   ¦   ¦   +---TVEventHandler
+    ¦   ¦   ¦   +---UIManager
+    ¦   ¦   ¦   +---unmountComponentAtNode
+    ¦   ¦   ¦   +---useColorScheme
+    ¦   ¦   ¦   +---useWindowDimensions
+    ¦   ¦   ¦   +---Vibration
+    ¦   ¦   ¦   +---View
+    ¦   ¦   ¦   +---VirtualizedList
+    ¦   ¦   ¦   +---YellowBox
+    ¦   ¦   +---modules
+    ¦   ¦   ¦   +---AccessibilityUtil
+    ¦   ¦   ¦   +---AssetRegistry
+    ¦   ¦   ¦   +---createDOMProps
+    ¦   ¦   ¦   +---createEventHandle
+    ¦   ¦   ¦   +---dismissKeyboard
+    ¦   ¦   ¦   +---flattenArray
+    ¦   ¦   ¦   +---forwardedProps
+    ¦   ¦   ¦   +---getBoundingClientRect
+    ¦   ¦   ¦   +---ImageLoader
+    ¦   ¦   ¦   +---isSelectionValid
+    ¦   ¦   ¦   +---isWebColor
+    ¦   ¦   ¦   +---mergeRefs
+    ¦   ¦   ¦   +---modality
+    ¦   ¦   ¦   +---multiplyStyleLengthValue
+    ¦   ¦   ¦   +---normalizeColor
+    ¦   ¦   ¦   +---pick
+    ¦   ¦   ¦   +---prefixStyles
+    ¦   ¦   ¦   +---requestIdleCallback
+    ¦   ¦   ¦   +---ScrollResponder
+    ¦   ¦   ¦   +---setValueForStyles
+    ¦   ¦   ¦   +---TextInputState
+    ¦   ¦   ¦   +---UnimplementedView
+    ¦   ¦   ¦   +---unitlessNumbers
+    ¦   ¦   ¦   +---useElementLayout
+    ¦   ¦   ¦   +---useEvent
+    ¦   ¦   ¦   +---useHover
+    ¦   ¦   ¦   +---useLayoutEffect
+    ¦   ¦   ¦   +---useMergeRefs
+    ¦   ¦   ¦   +---usePlatformMethods
+    ¦   ¦   ¦   +---usePressEvents
+    ¦   ¦   ¦   +---useResponderEvents
+    ¦   ¦   ¦   +---useStable
+    ¦   ¦   +---types
+    ¦   ¦   +---vendor
+    ¦   ¦       +---hash
+    ¦   ¦       +---react-native
+    ¦   ¦           +---Animated
+    ¦   ¦           ¦   +---animations
+    ¦   ¦           ¦   +---components
+    ¦   ¦           ¦   +---nodes
+    ¦   ¦           +---Batchinator
+    ¦   ¦           +---deepDiffer
+    ¦   ¦           +---emitter
+    ¦   ¦           +---FillRateHelper
+    ¦   ¦           +---FlatList
+    ¦   ¦           +---infoLog
+    ¦   ¦           +---JSEventLoopWatchdog
+    ¦   ¦           +---LayoutAnimation
+    ¦   ¦           +---NativeEventEmitter
+    ¦   ¦           +---PanResponder
+    ¦   ¦           +---PooledClass
+    ¦   ¦           +---SectionList
+    ¦   ¦           +---StaticContainer
+    ¦   ¦           +---StaticRenderer
+    ¦   ¦           +---TouchHistoryMath
+    ¦   ¦           +---TurboModule
+    ¦   ¦           +---Types
+    ¦   ¦           +---Utilities
+    ¦   ¦           +---ViewabilityHelper
+    ¦   ¦           +---VirtualizedList
+    ¦   ¦           +---VirtualizedSectionList
+    ¦   ¦           +---VirtualizeUtils
+    ¦   +---jest
+    ¦   +---node_modules
+    ¦   ¦   +---fbjs
+    ¦   ¦       +---flow
+    ¦   ¦       ¦   +---lib
+    ¦   ¦       +---lib
+    ¦   ¦           +---__mocks__
+    ¦   +---src
+    ¦       +---exports
+    ¦       ¦   +---AccessibilityInfo
+    ¦       ¦   +---ActivityIndicator
+    ¦       ¦   +---Alert
+    ¦       ¦   +---Animated
+    ¦       ¦   +---Appearance
+    ¦       ¦   +---AppRegistry
+    ¦       ¦   +---AppState
+    ¦       ¦   +---BackHandler
+    ¦       ¦   +---Button
+    ¦       ¦   +---CheckBox
+    ¦       ¦   +---Clipboard
+    ¦       ¦   +---createElement
+    ¦       ¦   +---DeviceEventEmitter
+    ¦       ¦   +---DeviceInfo
+    ¦       ¦   +---Dimensions
+    ¦       ¦   +---DrawerLayoutAndroid
+    ¦       ¦   +---Easing
+    ¦       ¦   +---findNodeHandle
+    ¦       ¦   +---FlatList
+    ¦       ¦   +---I18nManager
+    ¦       ¦   +---Image
+    ¦       ¦   +---ImageBackground
+    ¦       ¦   +---InputAccessoryView
+    ¦       ¦   +---InteractionManager
+    ¦       ¦   +---Keyboard
+    ¦       ¦   +---KeyboardAvoidingView
+    ¦       ¦   +---LayoutAnimation
+    ¦       ¦   +---Linking
+    ¦       ¦   +---LogBox
+    ¦       ¦   +---Modal
+    ¦       ¦   +---NativeEventEmitter
+    ¦       ¦   +---NativeModules
+    ¦       ¦   +---PanResponder
+    ¦       ¦   +---PermissionsAndroid
+    ¦       ¦   +---Picker
+    ¦       ¦   +---PixelRatio
+    ¦       ¦   +---Platform
+    ¦       ¦   +---Pressable
+    ¦       ¦   +---processColor
+    ¦       ¦   +---ProgressBar
+    ¦       ¦   +---RefreshControl
+    ¦       ¦   +---render
+    ¦       ¦   +---SafeAreaView
+    ¦       ¦   +---ScrollView
+    ¦       ¦   +---SectionList
+    ¦       ¦   +---Settings
+    ¦       ¦   +---Share
+    ¦       ¦   +---StatusBar
+    ¦       ¦   +---StyleSheet
+    ¦       ¦   +---Switch
+    ¦       ¦   +---Systrace
+    ¦       ¦   +---Text
+    ¦       ¦   +---TextInput
+    ¦       ¦   +---ToastAndroid
+    ¦       ¦   +---Touchable
+    ¦       ¦   +---TouchableHighlight
+    ¦       ¦   +---TouchableNativeFeedback
+    ¦       ¦   +---TouchableOpacity
+    ¦       ¦   +---TouchableWithoutFeedback
+    ¦       ¦   +---TVEventHandler
+    ¦       ¦   +---UIManager
+    ¦       ¦   +---unmountComponentAtNode
+    ¦       ¦   +---unstable_createElement
+    ¦       ¦   +---useColorScheme
+    ¦       ¦   +---useWindowDimensions
+    ¦       ¦   +---Vibration
+    ¦       ¦   +---View
+    ¦       ¦   +---VirtualizedList
+    ¦       ¦   +---YellowBox
+    ¦       +---modules
+    ¦       ¦   +---AccessibilityUtil
+    ¦       ¦   +---AssetRegistry
+    ¦       ¦   +---createDOMProps
+    ¦       ¦   +---createEventHandle
+    ¦       ¦   +---dismissKeyboard
+    ¦       ¦   +---flattenArray
+    ¦       ¦   +---forwardedProps
+    ¦       ¦   +---getBoundingClientRect
+    ¦       ¦   +---ImageLoader
+    ¦       ¦   +---isSelectionValid
+    ¦       ¦   +---isWebColor
+    ¦       ¦   +---mergeRefs
+    ¦       ¦   +---modality
+    ¦       ¦   +---multiplyStyleLengthValue
+    ¦       ¦   +---normalizeColor
+    ¦       ¦   +---pick
+    ¦       ¦   +---prefixStyles
+    ¦       ¦   +---requestIdleCallback
+    ¦       ¦   +---ScrollResponder
+    ¦       ¦   +---setValueForStyles
+    ¦       ¦   +---TextInputState
+    ¦       ¦   +---UnimplementedView
+    ¦       ¦   +---unitlessNumbers
+    ¦       ¦   +---useElementLayout
+    ¦       ¦   +---useEvent
+    ¦       ¦   +---useHover
+    ¦       ¦   +---useLayoutEffect
+    ¦       ¦   +---useMergeRefs
+    ¦       ¦   +---usePlatformMethods
+    ¦       ¦   +---usePressEvents
+    ¦       ¦   +---useResponderEvents
+    ¦       ¦   +---useStable
+    ¦       +---types
+    ¦       +---vendor
+    ¦           +---hash
+    ¦           +---react-native
+    ¦               +---Animated
+    ¦               ¦   +---animations
+    ¦               ¦   +---components
+    ¦               ¦   +---nodes
+    ¦               +---Batchinator
+    ¦               +---deepDiffer
+    ¦               +---emitter
+    ¦               +---FillRateHelper
+    ¦               +---FlatList
+    ¦               +---infoLog
+    ¦               +---JSEventLoopWatchdog
+    ¦               +---LayoutAnimation
+    ¦               +---NativeEventEmitter
+    ¦               +---PanResponder
+    ¦               +---PooledClass
+    ¦               +---SectionList
+    ¦               +---StaticContainer
+    ¦               +---StaticRenderer
+    ¦               +---TouchHistoryMath
+    ¦               +---TurboModule
+    ¦               +---Types
+    ¦               +---Utilities
+    ¦               +---ViewabilityHelper
+    ¦               +---VirtualizedList
+    ¦               +---VirtualizedSectionList
+    ¦               +---VirtualizeUtils
+    +---react-navigation
+    ¦   +---node_modules
+    ¦   ¦   +---@react-navigation
+    ¦   ¦   ¦   +---core
+    ¦   ¦   ¦   ¦   +---lib
+    ¦   ¦   ¦   ¦   ¦   +---commonjs
+    ¦   ¦   ¦   ¦   ¦   ¦   +---navigators
+    ¦   ¦   ¦   ¦   ¦   ¦   +---routers
+    ¦   ¦   ¦   ¦   ¦   ¦   +---utils
+    ¦   ¦   ¦   ¦   ¦   ¦   +---views
+    ¦   ¦   ¦   ¦   ¦   ¦       +---SwitchView
+    ¦   ¦   ¦   ¦   ¦   +---module
+    ¦   ¦   ¦   ¦   ¦       +---navigators
+    ¦   ¦   ¦   ¦   ¦       +---routers
+    ¦   ¦   ¦   ¦   ¦       +---utils
+    ¦   ¦   ¦   ¦   ¦       +---views
+    ¦   ¦   ¦   ¦   ¦           +---SwitchView
+    ¦   ¦   ¦   ¦   +---src
+    ¦   ¦   ¦   ¦       +---navigators
+    ¦   ¦   ¦   ¦       ¦   +---__tests__
+    ¦   ¦   ¦   ¦       +---routers
+    ¦   ¦   ¦   ¦       ¦   +---__tests__
+    ¦   ¦   ¦   ¦       ¦       +---__snapshots__
+    ¦   ¦   ¦   ¦       +---utils
+    ¦   ¦   ¦   ¦       +---views
+    ¦   ¦   ¦   ¦       ¦   +---SwitchView
+    ¦   ¦   ¦   ¦       ¦   +---__tests__
+    ¦   ¦   ¦   ¦       +---__fixtures__
+    ¦   ¦   ¦   ¦       +---__tests__
+    ¦   ¦   ¦   +---native
+    ¦   ¦   ¦       +---lib
+    ¦   ¦   ¦       ¦   +---commonjs
+    ¦   ¦   ¦       ¦   ¦   +---utils
+    ¦   ¦   ¦       ¦   +---module
+    ¦   ¦   ¦       ¦       +---utils
+    ¦   ¦   ¦       +---src
+    ¦   ¦   ¦           +---utils
+    ¦   ¦   ¦           +---__tests__
+    ¦   ¦   ¦               +---__snapshots__
+    ¦   ¦   +---react-is
+    ¦   ¦       +---cjs
+    ¦   ¦       +---umd
+    ¦   +---src
+    ¦   ¦   +---navigators
+    ¦   ¦   ¦   +---__tests__
+    ¦   ¦   ¦       +---__snapshots__
+    ¦   ¦   +---utils
+    ¦   ¦   +---__tests__
+    ¦   +---typescript
+    +---react-refresh
+    ¦   +---cjs
+    +---react-simple-chatbot
+    ¦   +---dist
+    ¦   +---node_modules
+    ¦       +---react
+    ¦       ¦   +---cjs
+    ¦       ¦   +---umd
+    ¦       +---react-dom
+    ¦       ¦   +---cjs
+    ¦       ¦   +---umd
+    ¦       +---scheduler
+    ¦           +---cjs
+    ¦           +---umd
+    +---readable-stream
+    ¦   +---doc
+    ¦   ¦   +---wg-meetings
+    ¦   +---lib
+    ¦       +---internal
+    ¦           +---streams
+    +---readdirp
+    ¦   +---node_modules
+    ¦       +---braces
+    ¦       ¦   +---lib
+    ¦       ¦   +---node_modules
+    ¦       ¦       +---extend-shallow
+    ¦       +---fill-range
+    ¦       ¦   +---node_modules
+    ¦       ¦       +---extend-shallow
+    ¦       +---is-number
+    ¦       ¦   +---node_modules
+    ¦       ¦       +---kind-of
+    ¦       +---micromatch
+    ¦       ¦   +---lib
+    ¦       +---to-regex-range
+    +---recast
+    ¦   +---.github
+    ¦   ¦   +---workflows
+    ¦   +---example
+    ¦   +---lib
+    ¦   +---node_modules
+    ¦   ¦   +---source-map
+    ¦   ¦   ¦   +---dist
+    ¦   ¦   ¦   +---lib
+    ¦   ¦   +---tslib
+    ¦   ¦       +---modules
+    ¦   +---parsers
+    +---rechoir
+    ¦   +---lib
+    +---regenerate
+    +---regenerate-unicode-properties
+    ¦   +---Binary_Property
+    ¦   +---General_Category
+    ¦   +---Script
+    ¦   +---Script_Extensions
+    +---regenerator-runtime
+    +---regenerator-transform
+    ¦   +---lib
+    ¦   +---src
+    +---regex-not
+    +---regexpu-core
+    ¦   +---data
+    +---regjsgen
+    +---regjsparser
+    ¦   +---bin
+    ¦   +---node_modules
+    ¦       +---.bin
+    ¦       +---jsesc
+    ¦           +---bin
+    ¦           +---man
+    +---remove-trailing-separator
+    +---repeat-element
+    +---repeat-string
+    +---require-directory
+    +---require-from-string
+    +---require-main-filename
+    +---requires-port
+    +---reselect
+    ¦   +---dist
+    ¦   +---es
+    ¦   +---lib
+    ¦   +---src
+    ¦       +---typesVersions
+    ¦           +---ts4.1
+    +---resolve
+    ¦   +---.github
+    ¦   +---bin
+    ¦   +---example
+    ¦   +---lib
+    ¦   +---test
+    ¦       +---dotdot
+    ¦       ¦   +---abc
+    ¦       +---module_dir
+    ¦       ¦   +---xmodules
+    ¦       ¦   ¦   +---aaa
+    ¦       ¦   +---ymodules
+    ¦       ¦   ¦   +---aaa
+    ¦       ¦   +---zmodules
+    ¦       ¦       +---bbb
+    ¦       +---node_path
+    ¦       ¦   +---x
+    ¦       ¦   ¦   +---aaa
+    ¦       ¦   ¦   +---ccc
+    ¦       ¦   +---y
+    ¦       ¦       +---bbb
+    ¦       ¦       +---ccc
+    ¦       +---pathfilter
+    ¦       ¦   +---deep_ref
+    ¦       +---precedence
+    ¦       ¦   +---aaa
+    ¦       ¦   +---bbb
+    ¦       +---resolver
+    ¦       ¦   +---baz
+    ¦       ¦   +---browser_field
+    ¦       ¦   +---dot_main
+    ¦       ¦   +---dot_slash_main
+    ¦       ¦   +---incorrect_main
+    ¦       ¦   +---invalid_main
+    ¦       ¦   +---malformed_package_json
+    ¦       ¦   +---multirepo
+    ¦       ¦   ¦   +---packages
+    ¦       ¦   ¦       +---package-a
+    ¦       ¦   ¦       +---package-b
+    ¦       ¦   +---nested_symlinks
+    ¦       ¦   ¦   +---mylib
+    ¦       ¦   +---other_path
+    ¦       ¦   ¦   +---lib
+    ¦       ¦   +---quux
+    ¦       ¦   ¦   +---foo
+    ¦       ¦   +---same_names
+    ¦       ¦   ¦   +---foo
+    ¦       ¦   +---symlinked
+    ¦       ¦   ¦   +---package
+    ¦       ¦   ¦   +---_
+    ¦       ¦   ¦       +---node_modules
+    ¦       ¦   ¦       +---symlink_target
+    ¦       ¦   +---without_basedir
+    ¦       +---shadowed_core
+    ¦           +---node_modules
+    ¦               +---util
+    +---resolve-from
+    +---resolve-url
+    ¦   +---test
+    +---restore-cursor
+    +---ret
+    ¦   +---lib
+    +---reusify
+    ¦   +---benchmarks
+    +---rimraf
+    +---rsvp
+    ¦   +---dist
+    ¦   ¦   +---es6
+    ¦   +---lib
+    ¦       +---rsvp
+    ¦           +---promise
+    +---run-parallel
+    +---safe-buffer
+    +---safe-regex
+    ¦   +---example
+    ¦   +---test
+    +---safer-buffer
+    +---sane
+    ¦   +---node_modules
+    ¦   ¦   +---anymatch
+    ¦   ¦   +---braces
+    ¦   ¦   ¦   +---lib
+    ¦   ¦   ¦   +---node_modules
+    ¦   ¦   ¦       +---extend-shallow
+    ¦   ¦   +---fill-range
+    ¦   ¦   ¦   +---node_modules
+    ¦   ¦   ¦       +---extend-shallow
+    ¦   ¦   +---is-number
+    ¦   ¦   ¦   +---node_modules
+    ¦   ¦   ¦       +---kind-of
+    ¦   ¦   +---micromatch
+    ¦   ¦   ¦   +---lib
+    ¦   ¦   +---normalize-path
+    ¦   ¦   +---to-regex-range
+    ¦   +---src
+    ¦       +---utils
+    +---sax
+    ¦   +---lib
+    +---scheduler
+    ¦   +---cjs
+    ¦   +---umd
+    +---semver
+    ¦   +---bin
+    ¦   +---classes
+    ¦   +---functions
+    ¦   +---internal
+    ¦   +---ranges
+    +---send
+    ¦   +---node_modules
+    ¦       +---.bin
+    ¦       +---debug
+    ¦       ¦   +---node_modules
+    ¦       ¦   ¦   +---ms
+    ¦       ¦   +---src
+    ¦       +---mime
+    ¦       ¦   +---src
+    ¦       +---ms
+    +---serialize-error
+    +---serve-static
+    +---set-blocking
+    +---set-value
+    ¦   +---node_modules
+    ¦       +---extend-shallow
+    +---setimmediate
+    +---setprototypeof
+    ¦   +---test
+    +---shallow-clone
+    +---shebang-command
+    +---shebang-regex
+    +---shell-quote
+    ¦   +---example
+    ¦   +---test
+    +---shelljs
+    ¦   +---bin
+    ¦   +---src
+    +---signal-exit
+    +---simple-plist
+    ¦   +---dist
+    +---simple-swizzle
+    +---sisteransi
+    ¦   +---src
+    +---slash
+    +---slice-ansi
+    ¦   +---node_modules
+    ¦       +---is-fullwidth-code-point
+    +---slugify
+    +---snapdragon
+    ¦   +---lib
+    ¦   +---node_modules
+    ¦       +---debug
+    ¦       ¦   +---src
+    ¦       +---define-property
+    ¦       +---extend-shallow
+    ¦       +---ms
+    +---snapdragon-node
+    ¦   +---node_modules
+    ¦       +---define-property
+    ¦       +---is-accessor-descriptor
+    ¦       +---is-data-descriptor
+    ¦       +---is-descriptor
+    +---snapdragon-util
+    ¦   +---node_modules
+    ¦       +---kind-of
+    +---source-map
+    ¦   +---dist
+    ¦   +---lib
+    +---source-map-resolve
+    ¦   +---lib
+    +---source-map-support
+    ¦   +---node_modules
+    ¦       +---source-map
+    ¦           +---dist
+    ¦           +---lib
+    +---source-map-url
+    +---split-on-first
+    +---split-string
+    +---sprintf-js
+    ¦   +---demo
+    ¦   +---dist
+    ¦   +---src
+    ¦   +---test
+    +---stackframe
+    ¦   +---dist
+    +---stacktrace-parser
+    ¦   +---dist
+    ¦   +---node_modules
+    ¦       +---type-fest
+    ¦           +---source
+    +---static-extend
+    ¦   +---node_modules
+    ¦       +---define-property
+    +---statuses
+    +---stream-buffers
+    ¦   +---coverage
+    ¦   ¦   +---lcov-report
+    ¦   ¦       +---lib
+    ¦   +---lib
+    +---strict-uri-encode
+    +---string-hash-64
+    +---string-width
+    +---string_decoder
+    ¦   +---lib
+    +---strip-ansi
+    ¦   +---node_modules
+    ¦       +---ansi-regex
+    +---strip-eof
+    +---styled-components
+    ¦   +---benchmarks
+    ¦   ¦   +---dist
+    ¦   +---dist
+    ¦   +---macro
+    ¦   +---native
+    ¦   ¦   +---dist
+    ¦   +---node_modules
+    ¦   ¦   +---react-is
+    ¦   ¦       +---cjs
+    ¦   ¦       +---umd
+    ¦   +---primitives
+    ¦   ¦   +---dist
+    ¦   +---scripts
+    ¦   +---src
+    ¦   ¦   +---macro
+    ¦   ¦   +---native
+    ¦   ¦   +---primitives
+    ¦   +---test-utils
+    +---stylis
+    +---stylis-rule-sheet
+    +---sucrase
+    ¦   +---bin
+    ¦   +---dist
+    ¦   ¦   +---parser
+    ¦   ¦   ¦   +---plugins
+    ¦   ¦   ¦   ¦   +---jsx
+    ¦   ¦   ¦   +---tokenizer
+    ¦   ¦   ¦   +---traverser
+    ¦   ¦   ¦   +---util
+    ¦   ¦   +---transformers
+    ¦   ¦   +---util
+    ¦   +---register
+    +---sudo-prompt
+    +---supports-color
+    +---supports-preserve-symlinks-flag
+    ¦   +---.github
+    ¦   +---test
+    +---temp
+    ¦   +---examples
+    ¦   +---lib
+    ¦   +---node_modules
+    ¦   ¦   +---.bin
+    ¦   ¦   +---rimraf
+    ¦   ¦       +---test
+    ¦   +---test
+    +---temp-dir
+    +---tempy
+    +---thenify
+    +---thenify-all
+    +---throat
+    +---through2
+    +---tmpl
+    ¦   +---lib
+    +---to-fast-properties
+    +---to-object-path
+    ¦   +---node_modules
+    ¦       +---kind-of
+    +---to-regex
+    +---to-regex-range
+    +---toidentifier
+    +---tr46
+    ¦   +---lib
+    +---tree-kill
+    +---ts-interface-checker
+    ¦   +---dist
+    +---tslib
+    +---type-fest
+    ¦   +---source
+    +---ua-parser-js
+    ¦   +---.github
+    ¦   ¦   +---workflows
+    ¦   +---dist
+    ¦   +---src
+    ¦   +---test
+    +---uglify-es
+    ¦   +---bin
+    ¦   +---lib
+    ¦   +---node_modules
+    ¦   ¦   +---commander
+    ¦   ¦   ¦   +---typings
+    ¦   ¦   +---source-map
+    ¦   ¦       +---dist
+    ¦   ¦       +---lib
+    ¦   +---tools
+    +---ultron
+    +---unicode-canonical-property-names-ecmascript
+    +---unicode-match-property-ecmascript
+    +---unicode-match-property-value-ecmascript
+    ¦   +---data
+    +---unicode-property-aliases-ecmascript
+    +---union-value
+    +---unique-string
+    +---universalify
+    +---unpipe
+    +---unset-value
+    ¦   +---node_modules
+    ¦       +---has-value
+    ¦       ¦   +---node_modules
+    ¦       ¦       +---isobject
+    ¦       +---has-values
+    +---upath
+    ¦   +---build
+    ¦       +---code
+    +---urix
+    ¦   +---test
+    +---url-parse
+    ¦   +---dist
+    +---use
+    +---use-subscription
+    ¦   +---cjs
+    +---util-deprecate
+    +---utils-merge
+    +---uuid
+    ¦   +---bin
+    ¦   +---lib
+    +---vary
+    +---vlq
+    ¦   +---dist
+    ¦       +---types
+    +---walker
+    ¦   +---lib
+    +---warn-once
+    +---wcwidth
+    ¦   +---docs
+    ¦   +---test
+    +---webidl-conversions
+    ¦   +---lib
+    +---websocket-driver
+    ¦   +---lib
+    ¦       +---websocket
+    ¦           +---driver
+    ¦               +---hybi
+    +---websocket-extensions
+    ¦   +---lib
+    ¦       +---pipeline
+    +---whatwg-fetch
+    ¦   +---dist
+    +---whatwg-url
+    ¦   +---lib
+    +---which
+    ¦   +---bin
+    +---which-module
+    +---window-size
+    +---wrap-ansi
+    +---wrappy
+    +---write-file-atomic
+    +---ws
+    ¦   +---lib
+    +---xcode
+    ¦   +---lib
+    ¦   ¦   +---parser
+    ¦   +---node_modules
+    ¦       +---.bin
+    ¦       +---uuid
+    ¦           +---dist
+    ¦               +---bin
+    ¦               +---esm-browser
+    ¦               +---esm-node
+    ¦               +---umd
+    +---xml-js
+    ¦   +---bin
+    ¦   +---dist
+    ¦   +---lib
+    ¦   +---types
+    +---xml2js
+    ¦   +---lib
+    ¦   +---node_modules
+    ¦       +---xmlbuilder
+    ¦           +---lib
+    ¦           +---typings
+    +---xmlbuilder
+    ¦   +---lib
+    ¦   +---perf
+    ¦   ¦   +---basic
+    ¦   +---typings
+    +---xmldoc
+    ¦   +---examples
+    ¦   +---lib
+    ¦   +---test
+    +---xmlhttprequest
+    ¦   +---lib
+    +---xtend
+    +---y18n
+    +---yallist
+    +---yargs
+    ¦   +---lib
+    ¦   +---locales
+    +---yargs-parser
+    ¦   +---lib
+    ¦   +---node_modules
+    ¦       +---camelcase
+    +---yocto-queue
